@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-05-27 08:57:59",
+  "counts": {
+    "schools": 168,
+    "eldercare": 15,
+    "medical": 422,
+    "water_sources": 8,
+    "combined": 613
+  },
+  "sources": {
+    "schools": "https://sso.ntct.edu.tw/NewPerson/SchoolBase.aspx",
+    "eldercare": "https://data.nantou.gov.tw/dataset/dosa-07",
+    "medical": "https://dep.mohw.gov.tw/doma/fp-4926-54415-106.html",
+    "water_sources": "https://wsserver.moenv.gov.tw/Protect_Area_Query.aspx"
+  }
+}

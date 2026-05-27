@@ -6,53 +6,657 @@
   <title>南投焚化廠場址風險地圖</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <style>
-    *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#f7f7f3;color:#17211b}.app{height:100vh;display:grid;grid-template-columns:360px 1fr}.panel{padding:20px;background:#fff;border-right:1px solid #d7d9cf;overflow:auto}.map{height:100vh}h1{font-size:22px;margin:0 0 10px}h2{font-size:15px;margin:20px 0 8px}p,li{color:#5b655f;line-height:1.55}.notice{padding:10px;border:1px solid #efc7b8;background:#fff4ee;border-radius:8px;color:#71331e;font-size:14px}.score{display:grid;grid-template-columns:80px 1fr;gap:12px;align-items:center;margin:12px 0;padding:12px;border:1px solid #d7d9cf;border-radius:8px;background:#fbfbf8}.dial{width:72px;height:72px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:800;font-size:22px;background:#197278}.field{display:grid;gap:5px;margin:8px 0}.field label{font-size:12px;color:#5b655f}input,button{width:100%;min-height:40px;border-radius:8px;border:1px solid #d7d9cf;padding:8px 10px;font:inherit}button{border:0;background:#197278;color:#fff;cursor:pointer}.row{display:grid;grid-template-columns:1fr 1fr;gap:8px}.legend{display:grid;gap:6px;font-size:13px}.sw{display:inline-block;width:14px;height:14px;border-radius:3px;margin-right:6px;vertical-align:middle}@media(max-width:850px){.app{grid-template-columns:1fr}.map{height:65vh}.panel{height:auto;border-right:0;border-bottom:1px solid #d7d9cf}}
+    :root {
+      --bg: #f4f1e8;
+      --paper: #fffdf8;
+      --ink: #1e2b23;
+      --muted: #607067;
+      --line: #d9d3c2;
+      --accent: #1f6f78;
+      --accent-2: #8d4f2a;
+      --danger: #c94b35;
+      --warn: #dfa338;
+      --safe: #8aa64e;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      background:
+        radial-gradient(circle at top right, rgba(31, 111, 120, 0.10), transparent 28%),
+        linear-gradient(180deg, #f7f3ea, var(--bg));
+      color: var(--ink);
+    }
+    .app {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 380px 1fr;
+    }
+    .panel {
+      padding: 22px;
+      background: rgba(255, 253, 248, 0.96);
+      border-right: 1px solid var(--line);
+      overflow: auto;
+    }
+    .content {
+      display: grid;
+      grid-template-rows: minmax(420px, 65vh) auto;
+      min-height: 100vh;
+    }
+    .map { min-height: 420px; }
+    .dataset {
+      padding: 18px 22px 28px;
+      background: rgba(255, 252, 245, 0.9);
+      border-top: 1px solid var(--line);
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: 28px;
+      line-height: 1.15;
+    }
+    h2 {
+      margin: 22px 0 10px;
+      font-size: 16px;
+    }
+    p, li, td, th, label, input, button, select {
+      font-size: 14px;
+      line-height: 1.55;
+    }
+    p { color: var(--muted); margin: 0 0 12px; }
+    .notice, .status {
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: #fff8ef;
+      color: #69422c;
+    }
+    .status {
+      background: #f6faf8;
+      color: #335247;
+    }
+    .score {
+      display: grid;
+      grid-template-columns: 80px 1fr;
+      gap: 12px;
+      align-items: center;
+      margin: 14px 0;
+      padding: 14px;
+      border-radius: 14px;
+      background: var(--paper);
+      border: 1px solid var(--line);
+    }
+    .dial {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      color: #fff;
+      font-weight: 800;
+      font-size: 24px;
+      background: var(--accent);
+    }
+    .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+    .field {
+      display: grid;
+      gap: 6px;
+      margin: 8px 0;
+    }
+    .field label {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    input, select, button {
+      width: 100%;
+      min-height: 42px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      padding: 8px 10px;
+      font: inherit;
+      background: #fff;
+      color: var(--ink);
+    }
+    button {
+      border: 0;
+      background: linear-gradient(135deg, var(--accent), #245a74);
+      color: #fff;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    button.secondary {
+      background: #ece7d8;
+      color: var(--ink);
+      border: 1px solid var(--line);
+    }
+    .legend, .download-links, .counts {
+      display: grid;
+      gap: 8px;
+    }
+    .sw {
+      display: inline-block;
+      width: 14px;
+      height: 14px;
+      border-radius: 4px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .counts {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      margin-top: 14px;
+    }
+    .count-card {
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--paper);
+    }
+    .count-card strong {
+      display: block;
+      font-size: 22px;
+      margin-bottom: 4px;
+    }
+    .download-links a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr 1fr auto;
+      gap: 10px;
+      align-items: end;
+      margin: 14px 0 12px;
+    }
+    .results {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      overflow: hidden;
+      background: var(--paper);
+    }
+    .results-meta {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      background: #faf6ec;
+    }
+    .table-wrap {
+      overflow: auto;
+      max-height: 520px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 960px;
+    }
+    th, td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #ece5d6;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      position: sticky;
+      top: 0;
+      background: #f7f1e2;
+      z-index: 1;
+    }
+    .pill {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: #efe7d4;
+      color: #5a5038;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .muted { color: var(--muted); }
+    @media (max-width: 980px) {
+      .app { grid-template-columns: 1fr; }
+      .content { grid-template-rows: 58vh auto; min-height: auto; }
+      .panel { border-right: 0; border-bottom: 1px solid var(--line); }
+      .toolbar { grid-template-columns: 1fr; }
+      .counts { grid-template-columns: 1fr 1fr; }
+    }
   </style>
 </head>
 <body>
-<div class="app">
-  <aside class="panel">
-    <h1>南投焚化廠場址風險地圖</h1>
-    <p>拖曳紅色場址或點擊地圖，會即時重新估算 10 公里範圍內敏感點與場址建議指數。</p>
-    <div class="notice">線上展示入口已建立。完整本機版含 496 筆南投縣敏感點資料；此頁先提供可展示的互動模型與主要敏感點樣本。</div>
-    <h2>場址座標</h2>
-    <div class="row">
-      <div class="field"><label>緯度</label><input id="lat" type="number" step="0.000001"></div>
-      <div class="field"><label>經度</label><input id="lng" type="number" step="0.000001"></div>
-    </div>
-    <button id="apply">套用座標</button>
-    <div class="score">
-      <div class="dial" id="score">--</div>
-      <div><strong id="label">等待計算</strong><p id="summary">移動場址後會更新。</p></div>
-    </div>
-    <h2>判斷依據</h2>
-    <ul id="reasons"></ul>
-    <h2>圖例</h2>
-    <div class="legend">
-      <div><span class="sw" style="background:#c94b35"></span>高風險敏感點</div>
-      <div><span class="sw" style="background:#e4a93c"></span>中風險敏感點</div>
-      <div><span class="sw" style="background:#93b65c"></span>低風險敏感點</div>
-      <div><span class="sw" style="background:#197278"></span>水體/集水區敏感位置</div>
-    </div>
-  </aside>
-  <main id="map" class="map"></main>
-</div>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script>
-const defaultSite={lat:23.8136,lng:120.6996};
-let site={...defaultSite};
-const sensitive=[
-['南投醫院','醫療設施',23.9141,120.6853],['佑民醫院','醫療設施',23.9767,120.6821],['埔里基督教醫院','醫療設施',23.9665,120.9694],['竹山秀傳醫院','醫療設施',23.7571,120.6818],['南投高中','文教設施',23.9086,120.6842],['中興高中','文教設施',23.9506,120.6924],['南投國小','文教設施',23.9072,120.6848],['名間國小','文教設施',23.8384,120.7026],['新街國小','文教設施',23.8754,120.6977],['名間國中','文教設施',23.8365,120.7038],['僑興國小','文教設施',23.8131,120.6928],['弓鞋國小','文教設施',23.8288,120.6761],['田豐國小','文教設施',23.8139,120.7154],['草屯國小','文教設施',23.9792,120.6816],['草屯國中','文教設施',23.9775,120.6887],['旭光高中','文教設施',23.9515,120.6845],['埔里國小','文教設施',23.9635,120.9679],['魚池國小','文教設施',23.8969,120.9362],['水里國小','文教設施',23.8169,120.8548],['集集國小','文教設施',23.8277,120.7853],['鹿谷國小','文教設施',23.7467,120.7531],['中寮國小','文教設施',23.8784,120.7663],['國姓國小','文教設施',24.0402,120.8582],['仁愛國中','文教設施',24.0238,121.1329],['信義國小','文教設施',23.6993,120.8566]
-];
-const water=[['濁水溪名間段',23.815,120.707],['烏溪草屯段',24.01,120.68],['貓羅溪南投段',23.91,120.69],['日月潭水庫',23.852,120.914],['明潭水庫',23.832,120.866],['集集攔河堰',23.811,120.706],['水里溪',23.81,120.855],['陳有蘭溪',23.7,120.855]];
-const map=L.map('map').setView([23.88,120.82],10);L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap'}).addTo(map);
-const marker=L.marker([site.lat,site.lng],{draggable:true}).addTo(map).bindPopup('候選場址');
-const rings=L.layerGroup().addTo(map),pts=L.layerGroup().addTo(map),waters=L.layerGroup().addTo(map);
-function dist(a,b){const r=Math.PI/180,dlat=(b.lat-a.lat)*r,dlng=(b.lng-a.lng)*r,la1=a.lat*r,la2=b.lat*r;const h=Math.sin(dlat/2)**2+Math.cos(la1)*Math.cos(la2)*Math.sin(dlng/2)**2;return 6371*2*Math.atan2(Math.sqrt(h),Math.sqrt(1-h));}
-function color(s){return s>=62?'#c94b35':s>=44?'#e4a93c':'#93b65c'}
-function risk(d,type){let base=d<=1?78:d<=3?64:d<=5?52:d<=10?36:18;if(type==='醫療設施')base*=1.18;return Math.round(base)}
-function redraw(){document.getElementById('lat').value=site.lat.toFixed(6);document.getElementById('lng').value=site.lng.toFixed(6);marker.setLatLng([site.lat,site.lng]);rings.clearLayers();pts.clearLayers();waters.clearLayers();[1,3,5,10].forEach(k=>L.circle([site.lat,site.lng],{radius:k*1000,color:k===10?'#5f7f3f':'#bd4a2f',weight:2,fillOpacity:.03}).addTo(rings));let near=[],medical=0,high=0;sensitive.forEach(p=>{const o={lat:p[2],lng:p[3]},d=dist(site,o);if(d>10)return;const s=risk(d,p[1]);if(p[1]==='醫療設施')medical++;if(s>=62)high++;near.push({p,d,s});L.circleMarker([p[2],p[3]],{radius:Math.max(6,Math.min(18,s/5)),color:'#fff',weight:2,fillColor:color(s),fillOpacity:.9}).addTo(pts).bindPopup(`<b>${p[0]}</b><br>${p[1]}<br>距離 ${d.toFixed(2)} km<br>嚴重程度 ${s}`)});let nearestWater={d:999,n:''};water.forEach(w=>{const d=dist(site,{lat:w[1],lng:w[2]});if(d<nearestWater.d)nearestWater={d,n:w[0]};L.circleMarker([w[1],w[2]],{radius:7,color:'#fff',weight:2,fillColor:'#197278',fillOpacity:.95}).addTo(waters).bindPopup(`<b>${w[0]}</b><br>距離 ${d.toFixed(2)} km`)});let score=100,reasons=[];if(nearestWater.d<=1){score-=45;reasons.push(`距 ${nearestWater.n} ${nearestWater.d.toFixed(2)} km，接近水體/集水區，不建議。`)}else if(nearestWater.d<=3){score-=28;reasons.push(`距 ${nearestWater.n} ${nearestWater.d.toFixed(2)} km，需避開集水區風險。`)}else{reasons.push(`最近水體/集水區距離 ${nearestWater.d.toFixed(2)} km。`)}score-=Math.min(25,near.length*2);score-=Math.min(15,medical*4);score-=Math.min(18,high*5);score=Math.max(0,Math.round(score));document.getElementById('score').textContent=score;document.getElementById('score').style.background=score>=72?'#93b65c':score>=50?'#e4a93c':'#c94b35';document.getElementById('label').textContent=score>=72?'相對較適合':score>=50?'需審慎評估':'不建議設置';document.getElementById('summary').textContent=`10 公里內顯示 ${near.length} 個敏感點，其中醫療設施 ${medical} 個，高嚴重程度 ${high} 個。`;document.getElementById('reasons').innerHTML=reasons.map(x=>`<li>${x}</li>`).join('');}
-marker.on('dragend',e=>{const p=e.target.getLatLng();site={lat:p.lat,lng:p.lng};redraw()});map.on('click',e=>{site={lat:e.latlng.lat,lng:e.latlng.lng};redraw()});document.getElementById('apply').onclick=()=>{site={lat:+document.getElementById('lat').value,lng:+document.getElementById('lng').value};redraw()};redraw();
-</script>
+  <div class="app">
+    <aside class="panel">
+      <h1>南投焚化廠場址風險地圖</h1>
+      <p>拖曳紅色場址或點擊地圖，會即時重算 10 公里範圍內的樣本敏感點風險。頁面下方同步提供官方清單版完整資料查詢。</p>
+      <div class="notice">
+        本頁已接入官方資料彙整成果，共 613 筆敏感點資料。由於多數官方名冊只有地址、尚未提供穩定公開座標，互動地圖目前仍以可驗證樣本點位展示，完整名冊則在下方可搜尋與下載。
+      </div>
+
+      <h2>場址座標</h2>
+      <div class="row">
+        <div class="field">
+          <label for="lat">緯度</label>
+          <input id="lat" type="number" step="0.000001">
+        </div>
+        <div class="field">
+          <label for="lng">經度</label>
+          <input id="lng" type="number" step="0.000001">
+        </div>
+      </div>
+      <button id="apply">套用座標</button>
+
+      <div class="score">
+        <div class="dial" id="score">--</div>
+        <div>
+          <strong id="label">等待計算</strong>
+          <p id="summary">移動場址後會更新建議指數。</p>
+        </div>
+      </div>
+
+      <h2>判斷依據</h2>
+      <ul id="reasons"></ul>
+
+      <h2>圖例</h2>
+      <div class="legend">
+        <div><span class="sw" style="background:#c94b35"></span>高風險敏感點</div>
+        <div><span class="sw" style="background:#dfa338"></span>中風險敏感點</div>
+        <div><span class="sw" style="background:#8aa64e"></span>低風險敏感點</div>
+        <div><span class="sw" style="background:#1f6f78"></span>水源地保護區相關位置</div>
+      </div>
+
+      <h2>官方資料同步狀態</h2>
+      <div id="sync-status" class="status">讀取官方資料中...</div>
+      <div id="count-cards" class="counts"></div>
+
+      <h2>下載資料</h2>
+      <div class="download-links">
+        <a href="./data/official_sources/nantou_sensitive_sites_full.csv">完整敏感點 CSV</a>
+        <a href="./data/official_sources/nantou_sensitive_sites_full.json">完整敏感點 JSON</a>
+        <a href="./data/official_sources/nantou_schools.csv">學校清單 CSV</a>
+        <a href="./data/official_sources/nantou_medical_institutions.csv">醫療機構 CSV</a>
+        <a href="./data/official_sources/nantou_eldercare.csv">老人機構 CSV</a>
+        <a href="./data/official_sources/nantou_water_sources.csv">水源地 CSV</a>
+      </div>
+    </aside>
+
+    <section class="content">
+      <main id="map" class="map"></main>
+      <section class="dataset">
+        <h2>官方敏感點清單</h2>
+        <p>可依類別、關鍵字與鄉鎮市篩選。這裡顯示的是同步後的完整官方名冊，不再限於首頁樣本點。</p>
+        <div class="toolbar">
+          <div class="field">
+            <label for="search">關鍵字</label>
+            <input id="search" type="search" placeholder="輸入機構名、地址、電話、鄉鎮市">
+          </div>
+          <div class="field">
+            <label for="category-filter">類別</label>
+            <select id="category-filter">
+              <option value="">全部類別</option>
+              <option value="school">學校</option>
+              <option value="medical">醫療機構</option>
+              <option value="eldercare">老人機構</option>
+              <option value="water_source">水源地</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="township-filter">鄉鎮市</label>
+            <select id="township-filter">
+              <option value="">全部鄉鎮市</option>
+            </select>
+          </div>
+          <button id="reset-filters" class="secondary" type="button">清除條件</button>
+        </div>
+
+        <div class="results">
+          <div class="results-meta" id="results-meta">尚未載入資料。</div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>類別</th>
+                  <th>名稱</th>
+                  <th>鄉鎮市/區域</th>
+                  <th>地址</th>
+                  <th>電話</th>
+                  <th>補充資訊</th>
+                  <th>來源</th>
+                </tr>
+              </thead>
+              <tbody id="results-body">
+                <tr><td colspan="7" class="muted">資料讀取中...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </section>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const defaultSite = { lat: 23.8136, lng: 120.6996 };
+    let site = { ...defaultSite };
+
+    const sampleSensitive = [
+      ["南投醫院", "醫療機構", 23.9141, 120.6853],
+      ["佑民醫院", "醫療機構", 23.9767, 120.6821],
+      ["埔里基督教醫院", "醫療機構", 23.9665, 120.9694],
+      ["竹山秀傳醫院", "醫療機構", 23.7571, 120.6818],
+      ["南投高中", "學校", 23.9086, 120.6842],
+      ["中興高中", "學校", 23.9506, 120.6924],
+      ["南投國小", "學校", 23.9072, 120.6848],
+      ["名間國小", "學校", 23.8384, 120.7026],
+      ["新街國小", "學校", 23.8754, 120.6977],
+      ["名間國中", "學校", 23.8365, 120.7038],
+      ["僑興國小", "學校", 23.8131, 120.6928],
+      ["弓鞋國小", "學校", 23.8288, 120.6761],
+      ["田豐國小", "學校", 23.8139, 120.7154],
+      ["草屯國小", "學校", 23.9792, 120.6816],
+      ["草屯國中", "學校", 23.9775, 120.6887],
+      ["旭光高中", "學校", 23.9515, 120.6845],
+      ["埔里國小", "學校", 23.9635, 120.9679],
+      ["魚池國小", "學校", 23.8969, 120.9362],
+      ["水里國小", "學校", 23.8169, 120.8548],
+      ["集集國小", "學校", 23.8277, 120.7853],
+      ["鹿谷國小", "學校", 23.7467, 120.7531],
+      ["中寮國小", "學校", 23.8784, 120.7663],
+      ["國姓國小", "學校", 24.0402, 120.8582],
+      ["仁愛國中", "學校", 24.0238, 121.1329],
+      ["信義國小", "學校", 23.6993, 120.8566]
+    ];
+
+    const waterSamples = [
+      ["南投市水源敏感帶", 23.815, 120.707],
+      ["草屯水體敏感帶", 24.01, 120.68],
+      ["南崗工業區水源帶", 23.91, 120.69],
+      ["水里集水區", 23.852, 120.914],
+      ["日月潭集水圈", 23.832, 120.866],
+      ["名間灌溉水系", 23.811, 120.706],
+      ["水源保護區樣本", 23.81, 120.855],
+      ["信義溪流水域", 23.7, 120.855]
+    ];
+
+    const categoryLabels = {
+      school: "學校",
+      medical: "醫療機構",
+      eldercare: "老人機構",
+      water_source: "水源地"
+    };
+
+    const map = L.map("map").setView([23.88, 120.82], 10);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: "&copy; OpenStreetMap"
+    }).addTo(map);
+
+    const siteMarker = L.marker([site.lat, site.lng], { draggable: true })
+      .addTo(map)
+      .bindPopup("焚化廠候選場址");
+
+    const rings = L.layerGroup().addTo(map);
+    const pts = L.layerGroup().addTo(map);
+    const waters = L.layerGroup().addTo(map);
+
+    function dist(a, b) {
+      const r = Math.PI / 180;
+      const dlat = (b.lat - a.lat) * r;
+      const dlng = (b.lng - a.lng) * r;
+      const la1 = a.lat * r;
+      const la2 = b.lat * r;
+      const h = Math.sin(dlat / 2) ** 2 + Math.cos(la1) * Math.cos(la2) * Math.sin(dlng / 2) ** 2;
+      return 6371 * 2 * Math.atan2(Math.sqrt(h), Math.sqrt(1 - h));
+    }
+
+    function color(score) {
+      return score >= 62 ? "#c94b35" : score >= 44 ? "#dfa338" : "#8aa64e";
+    }
+
+    function risk(distanceKm, type) {
+      let base = distanceKm <= 1 ? 78 : distanceKm <= 3 ? 64 : distanceKm <= 5 ? 52 : distanceKm <= 10 ? 36 : 18;
+      if (type === "醫療機構") base *= 1.18;
+      return Math.round(base);
+    }
+
+    function redrawRiskMap() {
+      document.getElementById("lat").value = site.lat.toFixed(6);
+      document.getElementById("lng").value = site.lng.toFixed(6);
+      siteMarker.setLatLng([site.lat, site.lng]);
+      rings.clearLayers();
+      pts.clearLayers();
+      waters.clearLayers();
+
+      [1, 3, 5, 10].forEach((km) => {
+        L.circle([site.lat, site.lng], {
+          radius: km * 1000,
+          color: km === 10 ? "#647b3c" : "#bd4a2f",
+          weight: 2,
+          fillOpacity: 0.03
+        }).addTo(rings);
+      });
+
+      const near = [];
+      let medical = 0;
+      let high = 0;
+
+      sampleSensitive.forEach((point) => {
+        const position = { lat: point[2], lng: point[3] };
+        const distanceKm = dist(site, position);
+        if (distanceKm > 10) return;
+
+        const score = risk(distanceKm, point[1]);
+        if (point[1] === "醫療機構") medical += 1;
+        if (score >= 62) high += 1;
+        near.push({ point, distanceKm, score });
+
+        L.circleMarker([point[2], point[3]], {
+          radius: Math.max(6, Math.min(18, score / 5)),
+          color: "#fff",
+          weight: 2,
+          fillColor: color(score),
+          fillOpacity: 0.9
+        }).addTo(pts).bindPopup(
+          `<b>${point[0]}</b><br>${point[1]}<br>距離 ${distanceKm.toFixed(2)} km<br>樣本風險分數 ${score}`
+        );
+      });
+
+      let nearestWater = { d: 999, n: "" };
+      waterSamples.forEach((water) => {
+        const distanceKm = dist(site, { lat: water[1], lng: water[2] });
+        if (distanceKm < nearestWater.d) nearestWater = { d: distanceKm, n: water[0] };
+        L.circleMarker([water[1], water[2]], {
+          radius: 7,
+          color: "#fff",
+          weight: 2,
+          fillColor: "#1f6f78",
+          fillOpacity: 0.95
+        }).addTo(waters).bindPopup(`<b>${water[0]}</b><br>距離 ${distanceKm.toFixed(2)} km`);
+      });
+
+      let score = 100;
+      const reasons = [];
+      if (nearestWater.d <= 1) {
+        score -= 45;
+        reasons.push(`距離 ${nearestWater.n} 僅 ${nearestWater.d.toFixed(2)} km，對水源保護風險非常高。`);
+      } else if (nearestWater.d <= 3) {
+        score -= 28;
+        reasons.push(`距離 ${nearestWater.n} ${nearestWater.d.toFixed(2)} km，需高度注意水體與集水區影響。`);
+      } else {
+        reasons.push(`最近水源相關敏感位置距離約 ${nearestWater.d.toFixed(2)} km。`);
+      }
+      score -= Math.min(25, near.length * 2);
+      score -= Math.min(15, medical * 4);
+      score -= Math.min(18, high * 5);
+      score = Math.max(0, Math.round(score));
+
+      document.getElementById("score").textContent = score;
+      document.getElementById("score").style.background = score >= 72 ? "#8aa64e" : score >= 50 ? "#dfa338" : "#c94b35";
+      document.getElementById("label").textContent = score >= 72 ? "較適合作為候選場址" : score >= 50 ? "需審慎評估" : "高敏感風險區";
+      document.getElementById("summary").textContent =
+        `10 公里內共有 ${near.length} 個樣本敏感點，其中醫療設施 ${medical} 個，高風險樣本 ${high} 個。`;
+      document.getElementById("reasons").innerHTML = reasons.map((x) => `<li>${x}</li>`).join("");
+    }
+
+    siteMarker.on("dragend", (event) => {
+      const point = event.target.getLatLng();
+      site = { lat: point.lat, lng: point.lng };
+      redrawRiskMap();
+    });
+
+    map.on("click", (event) => {
+      site = { lat: event.latlng.lat, lng: event.latlng.lng };
+      redrawRiskMap();
+    });
+
+    document.getElementById("apply").addEventListener("click", () => {
+      site = {
+        lat: Number(document.getElementById("lat").value),
+        lng: Number(document.getElementById("lng").value)
+      };
+      redrawRiskMap();
+    });
+
+    let officialRows = [];
+
+    function extraInfo(row) {
+      if (row.category === "school") {
+        return [
+          row.principal ? `校長：${row.principal}` : "",
+          row.student_count ? `學生數：${row.student_count}` : "",
+          row.teacher_count ? `教師數：${row.teacher_count}` : "",
+          row.school_year ? `學年度：${row.school_year}` : ""
+        ].filter(Boolean).join(" / ");
+      }
+      if (row.category === "medical") {
+        return row.departments || "";
+      }
+      if (row.category === "eldercare") {
+        return [
+          row.service_type ? `類型：${row.service_type}` : "",
+          row.approved_capacity ? `核定收容：${row.approved_capacity}` : "",
+          row.bed_count ? `床位：${row.bed_count}` : ""
+        ].filter(Boolean).join(" / ");
+      }
+      if (row.category === "water_source") {
+        return [
+          row.stream_domain ? `流域：${row.stream_domain}` : "",
+          row.measure_area_hectare ? `面積：${row.measure_area_hectare} 公頃` : "",
+          row.announce_date_roc ? `公告：${row.announce_date_roc}` : ""
+        ].filter(Boolean).join(" / ");
+      }
+      return "";
+    }
+
+    function rowTownship(row) {
+      return row.township || row.district || row.admit || "";
+    }
+
+    function populateTownshipOptions(rows) {
+      const select = document.getElementById("township-filter");
+      const values = [...new Set(rows.map(rowTownship).filter(Boolean))].sort((a, b) => a.localeCompare(b, "zh-Hant"));
+      for (const value of values) {
+        const option = document.createElement("option");
+        option.value = value;
+        option.textContent = value;
+        select.appendChild(option);
+      }
+    }
+
+    function renderRows() {
+      const keyword = document.getElementById("search").value.trim().toLowerCase();
+      const category = document.getElementById("category-filter").value;
+      const township = document.getElementById("township-filter").value;
+
+      const filtered = officialRows.filter((row) => {
+        if (category && row.category !== category) return false;
+        if (township && rowTownship(row) !== township) return false;
+        if (!keyword) return true;
+        return [
+          row.name,
+          row.address,
+          row.phone,
+          rowTownship(row),
+          extraInfo(row),
+          row.source_name
+        ].join(" ").toLowerCase().includes(keyword);
+      });
+
+      document.getElementById("results-meta").textContent =
+        `目前顯示 ${filtered.length} / ${officialRows.length} 筆官方敏感點資料。`;
+
+      const body = document.getElementById("results-body");
+      if (!filtered.length) {
+        body.innerHTML = '<tr><td colspan="7" class="muted">沒有符合條件的資料。</td></tr>';
+        return;
+      }
+
+      body.innerHTML = filtered.slice(0, 500).map((row) => `
+        <tr>
+          <td><span class="pill">${categoryLabels[row.category] || row.category}</span></td>
+          <td>${row.name || ""}</td>
+          <td>${rowTownship(row) || ""}</td>
+          <td>${row.address || ""}</td>
+          <td>${row.phone || ""}</td>
+          <td>${extraInfo(row) || ""}</td>
+          <td>${row.source_url ? `<a href="${row.source_url}" target="_blank" rel="noreferrer">${row.source_name || "來源"}</a>` : (row.source_name || "")}</td>
+        </tr>
+      `).join("");
+
+      if (filtered.length > 500) {
+        body.insertAdjacentHTML(
+          "beforeend",
+          `<tr><td colspan="7" class="muted">為避免頁面過重，表格先顯示前 500 筆；請縮小篩選條件查看更精確結果。</td></tr>`
+        );
+      }
+    }
+
+    async function loadOfficialData() {
+      try {
+        const [summaryResp, fullResp] = await Promise.all([
+          fetch("./data/official_sources/summary.json"),
+          fetch("./data/official_sources/nantou_sensitive_sites_full.json")
+        ]);
+        const summary = await summaryResp.json();
+        officialRows = await fullResp.json();
+
+        document.getElementById("sync-status").textContent =
+          `最新同步時間：${summary.generated_at}。完整資料已載入，可於下方搜尋。`;
+
+        const cards = [
+          ["學校", summary.counts.schools],
+          ["醫療機構", summary.counts.medical],
+          ["老人機構", summary.counts.eldercare],
+          ["水源地", summary.counts.water_sources]
+        ];
+        document.getElementById("count-cards").innerHTML = cards.map(([label, count]) => `
+          <div class="count-card">
+            <strong>${count}</strong>
+            <span>${label}</span>
+          </div>
+        `).join("");
+
+        populateTownshipOptions(officialRows);
+        renderRows();
+      } catch (error) {
+        document.getElementById("sync-status").textContent =
+          "官方資料讀取失敗，請確認 data/official_sources 檔案已同步到 GitHub Pages。";
+        document.getElementById("results-body").innerHTML =
+          '<tr><td colspan="7" class="muted">目前無法載入官方資料檔。</td></tr>';
+      }
+    }
+
+    document.getElementById("search").addEventListener("input", renderRows);
+    document.getElementById("category-filter").addEventListener("change", renderRows);
+    document.getElementById("township-filter").addEventListener("change", renderRows);
+    document.getElementById("reset-filters").addEventListener("click", () => {
+      document.getElementById("search").value = "";
+      document.getElementById("category-filter").value = "";
+      document.getElementById("township-filter").value = "";
+      renderRows();
+    });
+
+    redrawRiskMap();
+    loadOfficialData();
+  </script>
 </body>
 </html>

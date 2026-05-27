@@ -1,27 +1,31 @@
 # 南投焚化廠場址風險地圖模型
 
-這個 repository 用於展示「南投縣焚化廠場址選擇與敏感點健康風險」互動地圖模型。
+這個版本補上了官方來源整理出的完整敏感點名冊，並保留原本可直接在 GitHub Pages 展示的互動地圖樣本。
 
-模型重點：
+目前已整理的官方資料筆數：
 
-- 可在地圖上點選或拖曳焚化爐候選場址。
-- 場址移動後會重新估算周邊敏感點嚴重程度。
-- 敏感點以南投縣全縣設施為基礎，不只名間鄉。
-- 敏感點只在設定場址 10 公里範圍內顯示。
-- 場址建議指數會納入敏感設施密度、最近敏感點、醫療設施、嚴重程度，以及集水區/水體鄰近性。
-
-本機完整展示檔位於：
-
-```text
-C:\Users\user\Documents\Codex\2026-05-26\new-chat\github-demo
-```
+- 學校：168
+- 醫療機構：422
+- 老人機構：15
+- 水源地：8
+- 合計：613
 
 主要檔案：
 
-- `index.html`：互動地圖展示頁
-- `sensitive-sites.js`：南投縣敏感點資料
-- `sensitive-sites.json`：敏感點 JSON 資料
-- `data-sources.csv`：資料來源表
-- `nantou-incinerator-site-risk-map.pptx`：展示簡報
+- `index.html`：GitHub Pages 展示頁，含風險地圖樣本與官方完整資料查詢區
+- `data/official_sources/nantou_sensitive_sites_full.csv`：完整敏感點 CSV
+- `data/official_sources/nantou_sensitive_sites_full.json`：完整敏感點 JSON
+- `scripts/build_nantou_sensitive_data.py`：從官方來源重建資料的腳本
 
-資料與模型僅供政策討論、場址初篩與展示使用，不等同正式環評、流行病學因果推論或空污擴散模擬結果。
+官方來源：
+
+- 學校：https://sso.ntct.edu.tw/NewPerson/SchoolBase.aspx
+- 老人機構：https://data.nantou.gov.tw/dataset/dosa-07
+- 醫療機構：https://dep.mohw.gov.tw/doma/fp-4926-54415-106.html
+- 水源地：https://wsserver.moenv.gov.tw/Protect_Area_Query.aspx
+
+注意事項：
+
+- 官方名冊多數只提供地址，未附穩定公開座標，因此互動地圖目前仍以樣本敏感點做風險展示。
+- 下方完整資料區已可搜尋、篩選與下載全部官方名冊。
+- 若後續補上穩定座標，就能把完整 613 筆直接放入地圖計算與顯示。
