@@ -12,6 +12,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"10",
     "school_year":"114",
+    "latitude":23.9070479,
+    "longitude":120.6846857,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -28,6 +31,9 @@
     "kindergarten_class_count":"4",
     "kindergarten_teacher_count":"8",
     "school_year":"114",
+    "latitude":23.9126231,
+    "longitude":120.6916297,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -44,6 +50,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.928925,
+    "longitude":120.6729889,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -60,6 +69,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9446739,
+    "longitude":120.6747888,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -76,6 +88,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9250281,
+    "longitude":120.6385053,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -92,6 +107,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9324283,
+    "longitude":120.6929931,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -108,6 +126,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.9527519,
+    "longitude":120.6914781,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -124,6 +145,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.9458444,
+    "longitude":120.6966986,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -140,6 +164,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.90636,
+    "longitude":120.638038,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -156,6 +183,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.9407356,
+    "longitude":120.6677349,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -172,6 +202,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.9132403,
+    "longitude":120.6770194,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -188,6 +221,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.8966434,
+    "longitude":120.6844667,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -204,6 +240,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.9418468,
+    "longitude":120.7019642,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -220,6 +259,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8918965,
+    "longitude":120.7130993,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -236,6 +278,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"7",
     "school_year":"114",
+    "latitude":23.9187468,
+    "longitude":120.6812545,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -252,6 +297,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9134029,
+    "longitude":120.6866806,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -268,6 +316,9 @@
     "kindergarten_class_count":"4",
     "kindergarten_teacher_count":"9",
     "school_year":"114",
+    "latitude":23.9687466,
+    "longitude":120.9665366,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -284,6 +335,9 @@
     "kindergarten_class_count":"7",
     "kindergarten_teacher_count":"19",
     "school_year":"114",
+    "latitude":23.9604225,
+    "longitude":120.9702682,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -300,6 +354,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"8",
     "school_year":"114",
+    "latitude":23.962412,
+    "longitude":120.962037,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -316,6 +373,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":24.0124683,
+    "longitude":120.9573135,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -332,6 +392,9 @@
     "kindergarten_class_count":"4",
     "kindergarten_teacher_count":"6",
     "school_year":"114",
+    "latitude":23.9738549,
+    "longitude":120.943992,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -348,6 +411,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"9",
     "school_year":"114",
+    "latitude":23.9477995,
+    "longitude":120.9556906,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -364,6 +430,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.9988604,
+    "longitude":120.9296551,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -380,6 +449,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9421361,
+    "longitude":120.9261694,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -396,6 +468,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9313889,
+    "longitude":120.9902778,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -412,6 +487,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":24.0265352,
+    "longitude":120.9217117,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -428,6 +506,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.991811,
+    "longitude":120.979959,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -444,6 +525,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9761608,
+    "longitude":120.9845458,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -460,6 +544,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9703004,
+    "longitude":120.951057,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -476,6 +563,9 @@
     "kindergarten_class_count":"4",
     "kindergarten_teacher_count":"8",
     "school_year":"114",
+    "latitude":23.9816808,
+    "longitude":120.6869592,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -492,6 +582,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.9948839,
+    "longitude":120.6679214,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -508,6 +601,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.969859,
+    "longitude":120.6654673,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -524,6 +620,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9843328,
+    "longitude":120.7428825,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -540,6 +639,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.984445,
+    "longitude":120.795493,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -556,6 +658,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"6",
     "school_year":"114",
+    "latitude":23.9744913,
+    "longitude":120.6843782,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -572,6 +677,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.9851678,
+    "longitude":120.7202673,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -588,6 +696,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.992086,
+    "longitude":120.762598,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -604,6 +715,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9669523,
+    "longitude":120.7393559,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -620,6 +734,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"7",
     "school_year":"114",
+    "latitude":23.9939958,
+    "longitude":120.686643,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -636,6 +753,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.9868024,
+    "longitude":120.6581555,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -652,6 +772,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.9817248,
+    "longitude":120.6778648,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -668,6 +791,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.979073,
+    "longitude":120.698243,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -684,6 +810,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.9629889,
+    "longitude":120.6841639,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -700,6 +829,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.7611494,
+    "longitude":120.6873067,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -716,6 +848,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"5",
     "school_year":"114",
+    "latitude":23.7683324,
+    "longitude":120.7079205,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -732,6 +867,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.8103985,
+    "longitude":120.7218858,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -748,6 +886,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7276397,
+    "longitude":120.6665435,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -764,6 +905,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.699319,
+    "longitude":120.716895,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -780,6 +924,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.6644285,
+    "longitude":120.6664297,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -796,6 +943,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7332556,
+    "longitude":120.6888442,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -812,6 +962,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"6",
     "school_year":"113",
+    "latitude":23.7562547,
+    "longitude":120.6782732,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -828,6 +981,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7144067,
+    "longitude":120.6549728,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -844,6 +1000,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.6460979,
+    "longitude":120.6565047,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -860,6 +1019,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.8120456,
+    "longitude":120.7381175,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -876,6 +1038,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.757509,
+    "longitude":120.6681152,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -892,6 +1057,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7516432,
+    "longitude":120.6783792,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -908,6 +1076,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.8277778,
+    "longitude":120.7866667,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -924,6 +1095,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8324641,
+    "longitude":120.7507269,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -940,6 +1114,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8272584,
+    "longitude":120.7990326,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -956,6 +1133,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8293075,
+    "longitude":120.7810821,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -972,6 +1152,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"7",
     "school_year":"114",
+    "latitude":23.8445887,
+    "longitude":120.6977542,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -988,6 +1171,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.8762863,
+    "longitude":120.6931745,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1004,6 +1190,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8703036,
+    "longitude":120.6463839,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1020,6 +1209,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.8362964,
+    "longitude":120.6623745,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1036,6 +1228,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8417333,
+    "longitude":120.6307778,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1052,6 +1247,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.870041,
+    "longitude":120.6763251,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1068,6 +1266,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.8587856,
+    "longitude":120.6939034,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1084,6 +1285,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8204163,
+    "longitude":120.6867595,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1100,6 +1304,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.748885,
+    "longitude":120.751526,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1116,6 +1323,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.783555,
+    "longitude":120.777515,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1132,6 +1342,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"5",
     "school_year":"114",
+    "latitude":23.7276876,
+    "longitude":120.7548284,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1148,6 +1361,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.7429844,
+    "longitude":120.7799889,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1164,6 +1380,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.713025,
+    "longitude":120.780238,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1180,6 +1399,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.7671285,
+    "longitude":120.737259,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1196,6 +1418,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.8024375,
+    "longitude":120.7899375,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1212,6 +1437,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"113",
+    "latitude":23.7359557,
+    "longitude":120.7643451,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1228,6 +1456,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.8798492,
+    "longitude":120.7639198,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1244,6 +1475,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.936505,
+    "longitude":120.76189,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1260,6 +1494,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.8833506,
+    "longitude":120.7987338,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1276,6 +1513,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.8862376,
+    "longitude":120.7397771,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1292,6 +1532,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.9450343,
+    "longitude":120.7907225,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1308,6 +1551,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8933991,
+    "longitude":120.720726,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1324,6 +1570,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.925197,
+    "longitude":120.7319415,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1340,6 +1589,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8991011,
+    "longitude":120.7596725,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1356,6 +1608,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.8994234,
+    "longitude":120.9370534,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1372,6 +1627,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.8372975,
+    "longitude":120.9025956,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1388,6 +1646,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":23.8906158,
+    "longitude":120.9666587,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1404,6 +1665,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.890552,
+    "longitude":120.889232,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1420,6 +1684,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.8682375,
+    "longitude":120.9111829,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1436,6 +1703,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.903865,
+    "longitude":120.9248403,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1452,6 +1722,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.8485721,
+    "longitude":120.9354304,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1468,6 +1741,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.9190792,
+    "longitude":120.9660533,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1484,6 +1760,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"6",
     "school_year":"113",
+    "latitude":24.0393295,
+    "longitude":120.856947,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1500,6 +1779,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.9809056,
+    "longitude":120.8766167,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1516,6 +1798,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":24.0575004,
+    "longitude":120.9111674,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1532,6 +1817,9 @@
     "kindergarten_class_count":"0",
     "kindergarten_teacher_count":"0",
     "school_year":"112",
+    "latitude":24.0115344,
+    "longitude":120.8224258,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1548,6 +1836,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":24.0661926,
+    "longitude":120.876193,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1564,6 +1855,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"113",
+    "latitude":23.9503389,
+    "longitude":120.8692421,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1580,6 +1874,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":24.0178049,
+    "longitude":120.8454136,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1596,6 +1893,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":24.093055,
+    "longitude":120.887346,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1612,6 +1912,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":24.027842,
+    "longitude":120.8252871,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1628,6 +1931,9 @@
     "kindergarten_class_count":"0",
     "kindergarten_teacher_count":"0",
     "school_year":"114",
+    "latitude":23.810296,
+    "longitude":120.8551512,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1644,6 +1950,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.7372543,
+    "longitude":120.855816,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1660,6 +1969,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7954065,
+    "longitude":120.9325931,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1676,6 +1988,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.8839275,
+    "longitude":120.8707982,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1692,6 +2007,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7846244,
+    "longitude":120.8633497,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1708,6 +2026,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.819057,
+    "longitude":120.8481325,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1724,6 +2045,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"113",
+    "latitude":23.6976412,
+    "longitude":120.8545409,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1740,6 +2064,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"113",
+    "latitude":23.6278285,
+    "longitude":120.8706287,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1756,6 +2083,9 @@
     "kindergarten_class_count":"3",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":23.5938889,
+    "longitude":120.8883333,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1772,6 +2102,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.6939516,
+    "longitude":120.8486135,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1788,6 +2121,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.7793661,
+    "longitude":120.8969528,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1804,6 +2140,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":23.794033,
+    "longitude":120.9433506,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1820,6 +2159,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.5619353,
+    "longitude":120.9276267,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1836,6 +2178,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"1",
     "school_year":"113",
+    "latitude":23.8213368,
+    "longitude":120.9402127,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1852,6 +2197,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":23.5602958,
+    "longitude":120.8747683,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1868,6 +2216,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":23.563044,
+    "longitude":120.86787,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1884,6 +2235,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.6400176,
+    "longitude":120.8695668,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1900,6 +2254,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.6158333,
+    "longitude":120.8841667,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1916,6 +2273,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":23.7854,
+    "longitude":120.950171,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1932,6 +2292,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":23.6698746,
+    "longitude":120.8748086,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1948,6 +2311,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":24.0208333,
+    "longitude":121.1333333,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1964,6 +2330,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"5",
     "school_year":"114",
+    "latitude":23.9682604,
+    "longitude":121.1090048,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1980,6 +2349,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"5",
     "school_year":"114",
+    "latitude":23.91662,
+    "longitude":121.046736,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -1996,6 +2368,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":24.0859222,
+    "longitude":121.2165904,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2012,6 +2387,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":24.063237,
+    "longitude":120.969669,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2028,6 +2406,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"5",
     "school_year":"114",
+    "latitude":24.1479892,
+    "longitude":121.1890945,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2044,6 +2425,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":24.0000355,
+    "longitude":121.078475,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2060,6 +2444,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"5",
     "school_year":"114",
+    "latitude":23.9048207,
+    "longitude":120.9907348,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2076,6 +2463,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":24.0347457,
+    "longitude":121.1858484,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2092,6 +2482,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":24.1232821,
+    "longitude":121.1577216,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2108,6 +2501,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":23.9471762,
+    "longitude":121.0759302,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2124,6 +2520,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"4",
     "school_year":"114",
+    "latitude":24.0594756,
+    "longitude":121.1919766,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2140,6 +2539,9 @@
     "kindergarten_class_count":"2",
     "kindergarten_teacher_count":"2",
     "school_year":"114",
+    "latitude":24.0278047,
+    "longitude":121.1484864,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2156,6 +2558,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"1",
     "school_year":"114",
+    "latitude":24.159666,
+    "longitude":121.1771701,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2172,6 +2577,9 @@
     "kindergarten_class_count":"1",
     "kindergarten_teacher_count":"3",
     "school_year":"114",
+    "latitude":24.044567,
+    "longitude":121.1585728,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2188,6 +2596,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9131302,
+    "longitude":120.6754934,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2204,6 +2615,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8957687,
+    "longitude":120.6829636,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2220,6 +2634,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9315688,
+    "longitude":120.693658,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2236,6 +2653,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9252487,
+    "longitude":120.6394506,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2252,6 +2672,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9773088,
+    "longitude":120.685998,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2268,6 +2691,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9947408,
+    "longitude":120.6769951,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2284,6 +2710,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9795219,
+    "longitude":120.6945993,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2300,6 +2729,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.968138,
+    "longitude":120.96847,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2316,6 +2748,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9614151,
+    "longitude":120.9728156,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2332,6 +2767,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9720494,
+    "longitude":120.9526286,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2348,6 +2786,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7533668,
+    "longitude":120.6818346,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2364,6 +2805,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.6675165,
+    "longitude":120.6715814,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2380,6 +2824,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7604828,
+    "longitude":120.6950715,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2396,6 +2843,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8087654,
+    "longitude":120.7204455,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2412,6 +2862,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8319253,
+    "longitude":120.7843689,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2428,6 +2881,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.884147,
+    "longitude":120.7667965,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2444,6 +2900,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9340457,
+    "longitude":120.7623977,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2460,6 +2919,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.844906,
+    "longitude":120.6951144,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2476,6 +2938,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.8502778,
+    "longitude":120.6691667,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2492,6 +2957,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8104697,
+    "longitude":120.8568926,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2508,6 +2976,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7990131,
+    "longitude":120.9178466,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2524,6 +2995,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8943691,
+    "longitude":120.9317932,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2540,6 +3014,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.8676601,
+    "longitude":120.9104448,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2556,6 +3033,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":23.7490928,
+    "longitude":120.7589191,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2572,6 +3052,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.7826308,
+    "longitude":120.7758379,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2588,6 +3071,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"113",
+    "latitude":24.042665,
+    "longitude":120.858612,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2604,6 +3090,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9804765,
+    "longitude":120.8733344,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2620,6 +3109,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":24.0572269,
+    "longitude":120.9116462,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2636,6 +3128,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":24.0317914,
+    "longitude":121.141863,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2652,6 +3147,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.6964893,
+    "longitude":120.8538589,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2668,6 +3166,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.59513,
+    "longitude":120.8874004,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   },
@@ -2684,6 +3185,9 @@
     "kindergarten_class_count":"-",
     "kindergarten_teacher_count":"-",
     "school_year":"114",
+    "latitude":23.9522405,
+    "longitude":120.686685,
+    "geocode_method":"google_maps_result",
     "source_name":"南投縣學校基本資料",
     "source_url":"https:\/\/sso.ntct.edu.tw\/NewPerson\/SchoolBase.aspx"
   }

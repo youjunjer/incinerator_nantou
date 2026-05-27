@@ -11,7 +11,10 @@
     "bed_count":"108",
     "license_date":"69.09.13",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.9055016,
+    "longitude":120.6759377,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -25,7 +28,10 @@
     "bed_count":"72",
     "license_date":"84.05.22",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.900581,
+    "longitude":120.658079,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -39,7 +45,10 @@
     "bed_count":"48",
     "license_date":"97.04.22",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.9234926,
+    "longitude":120.6727886,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -53,7 +62,10 @@
     "bed_count":"48",
     "license_date":"98.10.15",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.9102288,
+    "longitude":120.6753183,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -67,7 +79,10 @@
     "bed_count":"48",
     "license_date":"99.12.29",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.9231366,
+    "longitude":120.7158372,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -81,7 +96,10 @@
     "bed_count":"49",
     "license_date":"88.10.26",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.9985166,
+    "longitude":120.6860204,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -95,7 +113,10 @@
     "bed_count":"30",
     "license_date":"100.08.24",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.9873019,
+    "longitude":120.675909,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -109,7 +130,10 @@
     "bed_count":"49",
     "license_date":"101.10.31",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.9859468,
+    "longitude":120.684134,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -123,7 +147,10 @@
     "bed_count":"44",
     "license_date":"96.02.09",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.8660019,
+    "longitude":120.7046285,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -137,7 +164,10 @@
     "bed_count":"18",
     "license_date":"99.03.04",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.8552136,
+    "longitude":120.6988823,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -151,7 +181,10 @@
     "bed_count":"46",
     "license_date":"94.11.28",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.7572551,
+    "longitude":120.672952,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -165,7 +198,10 @@
     "bed_count":"27",
     "license_date":"96.02.09",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.8172592,
+    "longitude":120.7241694,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -179,7 +215,10 @@
     "bed_count":"48",
     "license_date":"89.11.17",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.7573534,
+    "longitude":120.6745386,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -193,7 +232,10 @@
     "bed_count":"18",
     "license_date":"91.02.05",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.7640806,
+    "longitude":120.6938606,
+    "geocode_method":"google_maps_result"
   },
   {
     "category":"eldercare",
@@ -207,6 +249,9 @@
     "bed_count":"24",
     "license_date":"103.02.10",
     "source_name":"南投縣老人機構名冊",
-    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07"
+    "source_url":"https:\/\/data.nantou.gov.tw\/dataset\/dosa-07",
+    "latitude":23.923132,
+    "longitude":120.678723,
+    "geocode_method":"google_maps_result"
   }
 ]

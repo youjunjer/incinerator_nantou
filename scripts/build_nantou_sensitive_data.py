@@ -16,6 +16,7 @@ import pandas as pd
 USER_AGENT = "codex-nantou-sensitive-data/1.0"
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "data" / "official_sources"
+GEOCODE_CACHE_PATH = OUT_DIR / "geocode_cache_google_maps.json"
 
 
 def fetch_bytes(url: str, *, headers: dict[str, str] | None = None) -> bytes:
@@ -33,6 +34,101 @@ def clean_text(value: object) -> str:
         return ""
     text = str(value).strip()
     return re.sub(r"\s+", " ", text)
+
+
+def load_geocode_cache() -> dict[str, dict[str, object]]:
+    if GEOCODE_CACHE_PATH.exists():
+        return json.loads(GEOCODE_CACHE_PATH.read_text(encoding="utf-8"))
+    return {}
+
+
+def save_geocode_cache(cache: dict[str, dict[str, object]]) -> None:
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    GEOCODE_CACHE_PATH.write_text(
+        json.dumps(cache, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
+def geocode_query(query: str, cache: dict[str, dict[str, object]]) -> tuple[float | None, float | None, str]:
+    query = clean_text(query)
+    if not query:
+        return None, None, ""
+
+    cached = cache.get(query)
+    if cached is not None:
+        return cached.get("latitude"), cached.get("longitude"), clean_text(cached.get("method"))
+
+    url = "https://www.google.com/search?" + urllib.parse.urlencode(
+        {
+            "tbm": "map",
+            "hl": "zh-TW",
+            "gl": "tw",
+            "q": query,
+        }
+    )
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept-Language": "zh-TW,zh;q=0.9,en;q=0.8",
+        },
+    )
+
+    last_error: Exception | None = None
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                payload = resp.read().decode("utf-8", errors="ignore").removeprefix(")]}'\n")
+            break
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+            time.sleep(2 * (attempt + 1))
+    else:
+        cache[query] = {"latitude": None, "longitude": None, "method": f"error:{type(last_error).__name__}"}
+        return None, None, clean_text(cache[query]["method"])
+
+    coord_match = re.search(r"\[null,null,(-?\d+\.\d+),(-?\d+\.\d+)\]", payload)
+    if coord_match:
+        lat = float(coord_match.group(1))
+        lon = float(coord_match.group(2))
+        cache[query] = {"latitude": lat, "longitude": lon, "method": "google_maps_result"}
+        return lat, lon, "google_maps_result"
+
+    data = json.loads(payload)
+    if data and len(data) > 1 and data[1] and data[1][0]:
+        center = data[1][0]
+        lat = round(float(center[2]), 7)
+        lon = round(float(center[1]), 7)
+        cache[query] = {"latitude": lat, "longitude": lon, "method": "google_maps_center"}
+        return lat, lon, "google_maps_center"
+
+    cache[query] = {"latitude": None, "longitude": None, "method": "no_match"}
+    return None, None, "no_match"
+
+
+def geocode_dataframe(df: pd.DataFrame, query_builder) -> pd.DataFrame:
+    cache = load_geocode_cache()
+    latitudes: list[float | None] = []
+    longitudes: list[float | None] = []
+    methods: list[str] = []
+
+    for index, row in df.iterrows():
+        query = query_builder(row)
+        lat, lon, method = geocode_query(query, cache)
+        latitudes.append(lat)
+        longitudes.append(lon)
+        methods.append(method)
+        if (index + 1) % 25 == 0:
+            save_geocode_cache(cache)
+            time.sleep(0.3)
+
+    save_geocode_cache(cache)
+    geocoded_df = df.copy()
+    geocoded_df["latitude"] = latitudes
+    geocoded_df["longitude"] = longitudes
+    geocoded_df["geocode_method"] = methods
+    return geocoded_df
 
 
 def parse_schools() -> pd.DataFrame:
@@ -59,6 +155,7 @@ def parse_schools() -> pd.DataFrame:
     school_df["category"] = "school"
     school_df["source_url"] = "https://sso.ntct.edu.tw/NewPerson/SchoolBase.aspx"
     school_df["source_name"] = "南投縣學校基本資料"
+    school_df = geocode_dataframe(school_df, lambda row: f"{row['name']} {row['address']}")
     return school_df[
         [
             "category",
@@ -73,6 +170,9 @@ def parse_schools() -> pd.DataFrame:
             "kindergarten_class_count",
             "kindergarten_teacher_count",
             "school_year",
+            "latitude",
+            "longitude",
+            "geocode_method",
             "source_name",
             "source_url",
         ]
@@ -104,7 +204,9 @@ def parse_eldercare() -> pd.DataFrame:
                 "source_url": "https://data.nantou.gov.tw/dataset/dosa-07",
             }
         )
-    return pd.DataFrame.from_records(records)
+    eldercare_df = pd.DataFrame.from_records(records)
+    eldercare_df = geocode_dataframe(eldercare_df, lambda row: f"{row['name']} {row['address']}")
+    return eldercare_df
 
 
 def parse_ods_first_sheet(url: str) -> pd.DataFrame:
@@ -161,6 +263,7 @@ def parse_medical() -> pd.DataFrame:
     medical_df["phone"] = medical_df["phone"].map(clean_text)
     medical_df["district"] = medical_df["district"].map(clean_text)
     medical_df["departments"] = medical_df["departments"].map(clean_text)
+    medical_df = geocode_dataframe(medical_df, lambda row: f"{row['name']} {row['address']}")
     return medical_df[
         [
             "category",
@@ -170,6 +273,9 @@ def parse_medical() -> pd.DataFrame:
             "address",
             "phone",
             "departments",
+            "latitude",
+            "longitude",
+            "geocode_method",
             "source_name",
             "source_url",
         ]
@@ -217,11 +323,22 @@ def parse_water_sources() -> pd.DataFrame:
                 "illustration_url": item["JPGpageUrl"],
                 "latitude": lat,
                 "longitude": lon,
+                "geocode_method": "kml_centroid" if lat is not None and lon is not None else "",
                 "source_name": "全國飲用水水源水質保護區地理資訊網",
                 "source_url": "https://wsserver.moenv.gov.tw/Protect_Area_Query.aspx",
             }
         )
-    return pd.DataFrame.from_records(records)
+    water_df = pd.DataFrame.from_records(records)
+    missing_mask = water_df["latitude"].isna() | water_df["longitude"].isna()
+    if missing_mask.any():
+        geocoded_water = geocode_dataframe(
+            water_df.loc[missing_mask].copy(),
+            lambda row: f"{row['name']} {row['stream_domain']} 飲用水水源水質保護區 南投縣",
+        )
+        water_df.loc[missing_mask, "latitude"] = geocoded_water["latitude"].values
+        water_df.loc[missing_mask, "longitude"] = geocoded_water["longitude"].values
+        water_df.loc[missing_mask, "geocode_method"] = geocoded_water["geocode_method"].values
+    return water_df
 
 
 def write_outputs(df: pd.DataFrame, basename: str) -> None:
@@ -260,10 +377,10 @@ def main() -> None:
 
     combined = pd.concat(
         [
-            schools.assign(latitude=None, longitude=None),
-            eldercare.assign(latitude=None, longitude=None),
-            medical.assign(latitude=None, longitude=None),
             water_sources,
+            schools,
+            eldercare,
+            medical,
         ],
         ignore_index=True,
         sort=False,

@@ -7,6 +7,9 @@
     "address":"南投縣南投市福山里八卦路507號1樓",
     "phone":"049-2334060",
     "departments":"西醫一般科,",
+    "latitude":23.9122499,
+    "longitude":120.6381076,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -18,6 +21,9 @@
     "address":"南投縣南投市復興路99-3號",
     "phone":"049-2231401",
     "departments":"內科,",
+    "latitude":23.9039369,
+    "longitude":120.687737,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -29,6 +35,9 @@
     "address":"南投縣南投市中山街２４８號",
     "phone":"049-2231589",
     "departments":"牙醫一般科,",
+    "latitude":23.9106731,
+    "longitude":120.6845359,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -40,6 +49,9 @@
     "address":"南投縣南投市文昌街８４號",
     "phone":"049-2222862",
     "departments":"牙醫一般科,",
+    "latitude":23.9074106,
+    "longitude":120.6860929,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -51,6 +63,9 @@
     "address":"南投縣南投市三和二路三號",
     "phone":"049-2222928",
     "departments":"牙醫一般科,",
+    "latitude":23.9045517,
+    "longitude":120.6904964,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -62,6 +77,9 @@
     "address":"南投縣南投市彰南路二段366號",
     "phone":"049-2206525",
     "departments":"牙醫一般科,",
+    "latitude":23.9153859,
+    "longitude":120.679788,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -73,6 +91,9 @@
     "address":"南投縣南投市南崗二路298號1樓",
     "phone":"049-2223013",
     "departments":"兒科,",
+    "latitude":23.913027,
+    "longitude":120.678218,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -84,6 +105,9 @@
     "address":"南投縣南投市大同街１巷２號",
     "phone":"049-2223875",
     "departments":"家庭醫學科,",
+    "latitude":23.9061093,
+    "longitude":120.6882728,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -95,6 +119,9 @@
     "address":"南投縣南投市復興路373號",
     "phone":"049-2239955",
     "departments":"西醫一般科,",
+    "latitude":23.9116863,
+    "longitude":120.6852063,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -106,6 +133,9 @@
     "address":"南投縣南投市三和二路105號",
     "phone":"049-2222116",
     "departments":"內科,",
+    "latitude":23.9036916,
+    "longitude":120.6868479,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -117,6 +147,9 @@
     "address":"南投縣南投市彰南路一段937號1樓",
     "phone":"049-2236318",
     "departments":"家庭醫學科,",
+    "latitude":23.9026805,
+    "longitude":120.6859706,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -128,6 +161,9 @@
     "address":"南投縣南投市民族路258號",
     "phone":"0492222689",
     "departments":"耳鼻喉科,",
+    "latitude":23.9090029,
+    "longitude":120.6872049,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -139,6 +175,9 @@
     "address":"南投縣南投市三和二路63號",
     "phone":"049-2233449",
     "departments":"西醫一般科,",
+    "latitude":23.904124,
+    "longitude":120.688468,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -150,6 +189,9 @@
     "address":"南投縣南投市大同街１７４號",
     "phone":"049-2222757",
     "departments":"西醫一般科,",
+    "latitude":23.9097419,
+    "longitude":120.687585,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -161,6 +203,9 @@
     "address":"南投縣南投市復興路159號",
     "phone":"049-2225123",
     "departments":"內科,兒科,",
+    "latitude":23.9063656,
+    "longitude":120.6872228,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -172,6 +217,9 @@
     "address":"南投縣南投市復興路191號",
     "phone":"049-2235876",
     "departments":"兒科,耳鼻喉科,",
+    "latitude":23.9069171,
+    "longitude":120.6871482,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -183,6 +231,9 @@
     "address":"南投縣南投市文昌街98號",
     "phone":"049-2221727",
     "departments":"耳鼻喉科,",
+    "latitude":23.9074363,
+    "longitude":120.6856197,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -194,6 +245,9 @@
     "address":"南投縣南投市民生街47號",
     "phone":"049-2221135",
     "departments":"內科,兒科,",
+    "latitude":23.9098243,
+    "longitude":120.6847687,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -205,6 +259,9 @@
     "address":"南投縣南投市三和二路85號",
     "phone":"049-2225147",
     "departments":"外科,",
+    "latitude":23.903813,
+    "longitude":120.687541,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -216,6 +273,9 @@
     "address":"南投縣南投市民族路280號",
     "phone":"049-2221892",
     "departments":"內科,兒科,",
+    "latitude":23.9088094,
+    "longitude":120.6868228,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -227,6 +287,9 @@
     "address":"南投縣南投市中山街238號",
     "phone":"049-2222206",
     "departments":"外科,",
+    "latitude":23.9104642,
+    "longitude":120.6847963,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -238,6 +301,9 @@
     "address":"南投縣南投市文昌街75號",
     "phone":"049-2235829",
     "departments":"西醫一般科,",
+    "latitude":23.9072482,
+    "longitude":120.6867469,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -249,6 +315,9 @@
     "address":"南投縣南投市中山街14巷13號1.2.3.5樓，15號1-2樓",
     "phone":"049-2206626",
     "departments":"兒科,婦產科,",
+    "latitude":23.9055909,
+    "longitude":120.6869506,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -260,6 +329,9 @@
     "address":"南投縣南投市民族路165-1號",
     "phone":"049-2233088",
     "departments":"婦產科,",
+    "latitude":23.9095489,
+    "longitude":120.6898918,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -271,6 +343,9 @@
     "address":"南投縣南投市中興路620-2號",
     "phone":"049-2208475",
     "departments":"皮膚科,",
+    "latitude":23.9040975,
+    "longitude":120.6907007,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -282,6 +357,9 @@
     "address":"南投縣南投市復興路96-2號1F",
     "phone":"049-2240131",
     "departments":"眼科,",
+    "latitude":23.9040557,
+    "longitude":120.6880572,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -293,6 +371,9 @@
     "address":"南投縣南投市民族路325號",
     "phone":"049-2238175",
     "departments":"西醫一般科,",
+    "latitude":23.9077447,
+    "longitude":120.6848035,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -304,6 +385,9 @@
     "address":"南投縣南投市公園南街101號1樓",
     "phone":"049-2227580",
     "departments":"中醫一般科,",
+    "latitude":23.9035709,
+    "longitude":120.6900334,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -315,6 +399,9 @@
     "address":"南投縣南投市復興路257號",
     "phone":"049-2221936",
     "departments":"中醫一般科,",
+    "latitude":23.9089931,
+    "longitude":120.6863449,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -326,6 +413,9 @@
     "address":"南投縣南投市民族路244號",
     "phone":"049-2222818",
     "departments":"內科,兒科,",
+    "latitude":23.909051,
+    "longitude":120.6875153,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -337,6 +427,9 @@
     "address":"南投縣南投市玉井街98號",
     "phone":"049-2234745",
     "departments":"外科,",
+    "latitude":23.9115874,
+    "longitude":120.6850008,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -348,6 +441,9 @@
     "address":"南投縣南投市民族路123號1-2樓",
     "phone":"0926-925182",
     "departments":"兒科,",
+    "latitude":23.9099242,
+    "longitude":120.6908281,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -359,6 +455,9 @@
     "address":"南投縣南投市大同南街24號1F",
     "phone":"049-2208296",
     "departments":"精神科,",
+    "latitude":23.9034169,
+    "longitude":120.6891412,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -370,6 +469,9 @@
     "address":"南投縣南投市八德路376號1樓",
     "phone":"049-2291653",
     "departments":"家庭醫學科,",
+    "latitude":23.9085062,
+    "longitude":120.6370909,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -381,6 +483,9 @@
     "address":"南投縣南投市民族路243號",
     "phone":"049-2206706",
     "departments":"兒科,",
+    "latitude":23.9087443,
+    "longitude":120.687403,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -392,6 +497,9 @@
     "address":"南投縣南投市仁德路136號1樓",
     "phone":"049-2372567",
     "departments":"中醫一般科,",
+    "latitude":23.9423131,
+    "longitude":120.6922246,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -403,6 +511,9 @@
     "address":"南投縣南投市中山街16號",
     "phone":"049-2222874",
     "departments":"中醫一般科,",
+    "latitude":23.9056397,
+    "longitude":120.6866929,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -414,6 +525,9 @@
     "address":"南投縣南投市民族路260號1樓",
     "phone":"049-2233385",
     "departments":"中醫一般科,",
+    "latitude":23.9089221,
+    "longitude":120.6872711,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -425,6 +539,9 @@
     "address":"南投縣南投市祖祠路275號1F",
     "phone":"049-2242625",
     "departments":"中醫一般科,",
+    "latitude":23.9143315,
+    "longitude":120.6781524,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -436,6 +553,9 @@
     "address":"南投縣南投市民族路150號1至2樓",
     "phone":"0492203999",
     "departments":"牙醫一般科,",
+    "latitude":23.9100096,
+    "longitude":120.6903692,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -447,6 +567,9 @@
     "address":"南投縣南投市大同南街2-2號",
     "phone":"049-2200113",
     "departments":"牙醫一般科,",
+    "latitude":23.9030582,
+    "longitude":120.68921,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -458,6 +581,9 @@
     "address":"南投縣南投市三和一路13號",
     "phone":"049223264",
     "departments":"西醫一般科,",
+    "latitude":23.9025886,
+    "longitude":120.6887489,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -469,6 +595,9 @@
     "address":"南投縣南投市復興路109號",
     "phone":"0492200679",
     "departments":"耳鼻喉科,",
+    "latitude":23.9048269,
+    "longitude":120.6875329,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -480,6 +609,9 @@
     "address":"南投縣南投市中興路502-1號",
     "phone":"2244768",
     "departments":"耳鼻喉科,",
+    "latitude":23.9085793,
+    "longitude":120.6918321,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -491,6 +623,9 @@
     "address":"南投縣南投市漳興里復興路493號",
     "phone":"0921-046269",
     "departments":"牙醫一般科,",
+    "latitude":23.9148799,
+    "longitude":120.6837832,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -502,6 +637,9 @@
     "address":"南投縣南投市平和里民族路98號1樓",
     "phone":"049-2224194",
     "departments":"中醫一般科,",
+    "latitude":23.9102929,
+    "longitude":120.6914222,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -513,6 +651,9 @@
     "address":"南投縣南投市三和里公園南街3號1樓",
     "phone":"0963-426835",
     "departments":"耳鼻喉科,",
+    "latitude":23.9061425,
+    "longitude":120.6896024,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -524,6 +665,9 @@
     "address":"南投縣南投市中山街191、193號1樓",
     "phone":"049-2240366",
     "departments":"中醫一般科,",
+    "latitude":23.9094718,
+    "longitude":120.6853969,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -535,6 +679,9 @@
     "address":"南投縣南投市中山街154號1F",
     "phone":"049-2233336",
     "departments":"中醫一般科,",
+    "latitude":23.908864,
+    "longitude":120.68605,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -546,6 +693,9 @@
     "address":"南投縣南投市三和里大同南街85號",
     "phone":"049-2228500",
     "departments":"牙醫一般科,",
+    "latitude":23.9050521,
+    "longitude":120.688547,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -557,6 +707,9 @@
     "address":"南投縣南投市中興路870號",
     "phone":"049-2225535",
     "departments":"家庭醫學科,內科,外科,骨科,神經科,泌尿科,眼科,復健科,麻醉科,放射診斷科,急診醫學科,中醫一般科,",
+    "latitude":23.8988945,
+    "longitude":120.6839696,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -568,6 +721,9 @@
     "address":"南投縣南投市中山街195號1F",
     "phone":"049-2241359",
     "departments":"內科,復健科,",
+    "latitude":23.9096656,
+    "longitude":120.6853803,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -579,6 +735,9 @@
     "address":"南投縣南投市彰南路二段8號1F",
     "phone":"049-2222317",
     "departments":"中醫一般科,",
+    "latitude":23.908369,
+    "longitude":120.685026,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -590,6 +749,9 @@
     "address":"南投縣南投市中興路566號",
     "phone":"049-2205666",
     "departments":"牙醫一般科,",
+    "latitude":23.9060835,
+    "longitude":120.6903747,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -601,6 +763,9 @@
     "address":"南投縣南投市彰南路二段50號",
     "phone":"049-2222470",
     "departments":"內科,外科,",
+    "latitude":23.9093807,
+    "longitude":120.6846156,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -612,6 +777,9 @@
     "address":"南投縣南投市民族路120號1樓",
     "phone":"2208906",
     "departments":"西醫一般科,",
+    "latitude":23.9102246,
+    "longitude":120.6909948,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -623,6 +791,9 @@
     "address":"南投縣南投市民族路165-1號",
     "phone":"049-2233088",
     "departments":"內科,",
+    "latitude":23.9095489,
+    "longitude":120.6898918,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -634,6 +805,9 @@
     "address":"南投縣南投市大同街149號",
     "phone":"0928956685",
     "departments":"中醫一般科,",
+    "latitude":23.9093641,
+    "longitude":120.6874667,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -645,6 +819,9 @@
     "address":"南投縣南投市彰南路二段１５號",
     "phone":"049-2222088",
     "departments":"西醫一般科,",
+    "latitude":23.9084511,
+    "longitude":120.6847337,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -656,6 +833,9 @@
     "address":"南投縣南投市中興路628號",
     "phone":"0910-419176",
     "departments":"中醫一般科,",
+    "latitude":23.904024,
+    "longitude":120.6906851,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -667,6 +847,9 @@
     "address":"南投縣南投市復興路307號",
     "phone":"049-2227374",
     "departments":"家庭醫學科,",
+    "latitude":23.9100299,
+    "longitude":120.68595,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -678,6 +861,9 @@
     "address":"南投縣南投市民族路5號",
     "phone":"049-2208888",
     "departments":"牙醫一般科,",
+    "latitude":23.9106943,
+    "longitude":120.6934674,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -689,6 +875,9 @@
     "address":"南投縣南投市文昌街",
     "phone":"049-2208679",
     "departments":"內科,",
+    "latitude":23.906986,
+    "longitude":120.6876406,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -700,6 +889,9 @@
     "address":"南投縣南投市三和一路87號1樓",
     "phone":"2240557",
     "departments":"中醫一般科,",
+    "latitude":23.9082843,
+    "longitude":120.6822409,
+    "geocode_method":"google_maps_center",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -711,6 +903,9 @@
     "address":"南投縣南投市民生街35號",
     "phone":"049-2226606",
     "departments":"內科,兒科,",
+    "latitude":23.9098637,
+    "longitude":120.6850789,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -722,6 +917,9 @@
     "address":"南投縣南投市中學西路85號",
     "phone":"",
     "departments":"內科,",
+    "latitude":23.9460952,
+    "longitude":120.6913021,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -733,6 +931,9 @@
     "address":"南投縣南投市民族路300號",
     "phone":"049-2222171",
     "departments":"西醫一般科,",
+    "latitude":23.9086871,
+    "longitude":120.6863035,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -744,6 +945,9 @@
     "address":"南投縣南投市復興路478號",
     "phone":"049231150",
     "departments":"家庭醫學科,內科,外科,兒科,婦產科,骨科,神經科,神經外科,泌尿科,眼科,皮膚科,精神科,復健科,麻醉科,放射診斷科,放射腫瘤科,解剖病理科,臨床病理科,核子醫學科,急診醫學科,整形外科,牙醫一般科,中醫一般科,",
+    "latitude":23.9140079,
+    "longitude":120.6849431,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -755,6 +959,9 @@
     "address":"南投縣南投市民權街５６號",
     "phone":"049-2222238",
     "departments":"牙醫一般科,",
+    "latitude":23.9098639,
+    "longitude":120.6872579,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -766,6 +973,9 @@
     "address":"南投縣南投市南陽路369號",
     "phone":"049-2236720",
     "departments":"牙醫一般科,",
+    "latitude":23.912997,
+    "longitude":120.683129,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -777,6 +987,9 @@
     "address":"南投縣南投市南崗三路60號",
     "phone":"049-2250456",
     "departments":"牙醫一般科,",
+    "latitude":23.9275935,
+    "longitude":120.6692498,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -788,6 +1001,9 @@
     "address":"南投縣南投市龍井街２７號",
     "phone":"049223408",
     "departments":"牙醫一般科,",
+    "latitude":23.9081442,
+    "longitude":120.6881758,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -799,6 +1015,9 @@
     "address":"南投縣南投市中山街14巷17號",
     "phone":"2201703",
     "departments":"牙醫一般科,",
+    "latitude":23.9057389,
+    "longitude":120.687064,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -810,6 +1029,9 @@
     "address":"南投縣南投市三和二路８６號",
     "phone":"049-2200368",
     "departments":"牙醫一般科,",
+    "latitude":23.9039489,
+    "longitude":120.6863748,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -821,6 +1043,9 @@
     "address":"南投縣南投市集賢路18號",
     "phone":"049-2222093",
     "departments":"牙醫一般科,",
+    "latitude":23.9049831,
+    "longitude":120.6847166,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -832,6 +1057,9 @@
     "address":"南投縣南投市彰南路二段364號",
     "phone":"049-2239922",
     "departments":"牙醫一般科,",
+    "latitude":23.9153519,
+    "longitude":120.6798129,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -843,6 +1071,9 @@
     "address":"南投縣南投市大同街3號",
     "phone":"049-22293733",
     "departments":"牙醫一般科,",
+    "latitude":23.9060969,
+    "longitude":120.688234,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -854,6 +1085,9 @@
     "address":"南投縣南投市文昌街５７號1樓、地下1樓",
     "phone":"049-2227623",
     "departments":"中醫一般科,",
+    "latitude":23.9072302,
+    "longitude":120.6873653,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -865,6 +1099,9 @@
     "address":"南投縣南投市中山街１４巷２１號",
     "phone":"",
     "departments":"中醫一般科,",
+    "latitude":23.9057573,
+    "longitude":120.6871305,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -876,6 +1113,9 @@
     "address":"南投縣南投市彰南路一段943號",
     "phone":"049-2226706",
     "departments":"中醫一般科,",
+    "latitude":23.9028521,
+    "longitude":120.6860004,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -887,6 +1127,9 @@
     "address":"南投縣南投市漳和里彰南路二段４７９號",
     "phone":"049-2223179",
     "departments":"中醫一般科,",
+    "latitude":23.9170373,
+    "longitude":120.6782533,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -898,6 +1141,9 @@
     "address":"南投縣南投市彰南路二段510號",
     "phone":"049-2252775",
     "departments":"中醫一般科,",
+    "latitude":23.9184066,
+    "longitude":120.6782875,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -909,6 +1155,9 @@
     "address":"南投縣南投市中興路608號",
     "phone":"049-2243197",
     "departments":"中醫一般科,",
+    "latitude":23.9050061,
+    "longitude":120.6905586,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -920,6 +1169,9 @@
     "address":"南投縣南投市復興路78號1樓",
     "phone":"049-2228696",
     "departments":"中醫一般科,",
+    "latitude":23.9036631,
+    "longitude":120.6880765,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -931,6 +1183,9 @@
     "address":"南投縣南投市集賢路58號1樓",
     "phone":"049-2202600",
     "departments":"西醫一般科,",
+    "latitude":23.9048048,
+    "longitude":120.683862,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -942,6 +1197,9 @@
     "address":"南投縣南投市南崗二路298號1樓",
     "phone":"049-2223013",
     "departments":"兒科,",
+    "latitude":23.913027,
+    "longitude":120.678218,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -953,6 +1211,9 @@
     "address":"南投縣南投市復興路307號",
     "phone":"049-2227374",
     "departments":"家庭醫學科,",
+    "latitude":23.9100299,
+    "longitude":120.68595,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -964,6 +1225,9 @@
     "address":"南投縣南投市彰南路二段３２８號",
     "phone":"049-2209226",
     "departments":"牙醫一般科,",
+    "latitude":23.9145382,
+    "longitude":120.6803947,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -975,6 +1239,9 @@
     "address":"南投縣南投市營北里學藝路5號",
     "phone":"049-2331339",
     "departments":"中醫一般科,",
+    "latitude":23.950312,
+    "longitude":120.6890875,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -986,6 +1253,9 @@
     "address":"南投縣南投市復興路88號",
     "phone":"049-2230981",
     "departments":"兒科,",
+    "latitude":23.9038469,
+    "longitude":120.688099,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -997,6 +1267,9 @@
     "address":"南投縣南投市南陽路486號",
     "phone":"2244185",
     "departments":"牙醫一般科,",
+    "latitude":23.9120143,
+    "longitude":120.6811263,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1008,6 +1281,9 @@
     "address":"南投縣南投市復興路８０號",
     "phone":"049-2244011",
     "departments":"牙醫一般科,",
+    "latitude":23.903687,
+    "longitude":120.688136,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1019,6 +1295,9 @@
     "address":"南投縣南投市信義街13、15號",
     "phone":"049-2208711",
     "departments":"牙醫一般科,",
+    "latitude":23.9109512,
+    "longitude":120.6918142,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1030,6 +1309,9 @@
     "address":"南投縣南投市南陽路415號1樓",
     "phone":"0926313847",
     "departments":"精神科,",
+    "latitude":23.912576,
+    "longitude":120.682146,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1041,6 +1323,9 @@
     "address":"南投縣南投市中學西路85號",
     "phone":"",
     "departments":"內科,",
+    "latitude":23.9460952,
+    "longitude":120.6913021,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1052,6 +1337,9 @@
     "address":"南投縣南投市仁德路五十七號",
     "phone":"049-2231150",
     "departments":"中醫一般科,",
+    "latitude":23.943283,
+    "longitude":120.6939738,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1063,6 +1351,9 @@
     "address":"南投縣南投市復興路99-4號",
     "phone":"049-2241856",
     "departments":"西醫一般科,",
+    "latitude":23.9039652,
+    "longitude":120.6878261,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1074,6 +1365,9 @@
     "address":"南投縣南投市三和二路39號",
     "phone":"049-2222319",
     "departments":"眼科,",
+    "latitude":23.904248,
+    "longitude":120.6891899,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1085,6 +1379,9 @@
     "address":"南投縣南投市南陽路475號",
     "phone":"049-2243055",
     "departments":"西醫一般科,",
+    "latitude":23.9115834,
+    "longitude":120.6811796,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1096,6 +1393,9 @@
     "address":"南投縣南投市復興路９１號",
     "phone":"049-2204786",
     "departments":"皮膚科,",
+    "latitude":23.9036722,
+    "longitude":120.6878943,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1107,6 +1407,9 @@
     "address":"南投縣南投市彰南路二段400號1樓",
     "phone":"049-2202155",
     "departments":"家庭醫學科,",
+    "latitude":23.9161162,
+    "longitude":120.679101,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1118,6 +1421,9 @@
     "address":"南投縣南投市三和一路15號",
     "phone":"049228471",
     "departments":"西醫一般科,",
+    "latitude":23.9025205,
+    "longitude":120.6884832,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1129,6 +1435,9 @@
     "address":"南投縣南投市大同南街30號",
     "phone":"049-2225677",
     "departments":"西醫一般科,",
+    "latitude":23.9037186,
+    "longitude":120.6890313,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1140,6 +1449,9 @@
     "address":"南投縣南投市復興路84號",
     "phone":"049-2202833",
     "departments":"內科,",
+    "latitude":23.9037669,
+    "longitude":120.688118,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1151,6 +1463,9 @@
     "address":"南投縣南投市三興里集賢路31號",
     "phone":"049-2222865",
     "departments":"中醫一般科,",
+    "latitude":23.9046552,
+    "longitude":120.6846209,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1162,6 +1477,9 @@
     "address":"南投縣南投市集賢路34號1樓",
     "phone":"2231115",
     "departments":"兒科,",
+    "latitude":23.905002,
+    "longitude":120.6843162,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1173,6 +1491,9 @@
     "address":"南投縣南投市中山街14巷23號",
     "phone":"049-2233979",
     "departments":"眼科,",
+    "latitude":23.905772,
+    "longitude":120.68723,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1184,6 +1505,9 @@
     "address":"南投縣南投市嘉和北路17、19號1樓",
     "phone":"049-2220565",
     "departments":"中醫一般科,",
+    "latitude":23.9008215,
+    "longitude":120.6864691,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1195,6 +1519,9 @@
     "address":"南投縣埔里鎮和平東路413號",
     "phone":"049-2900977",
     "departments":"內科,",
+    "latitude":23.9707856,
+    "longitude":120.9770222,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1206,6 +1533,9 @@
     "address":"南投縣埔里鎮中正一路22號",
     "phone":"049-2983192",
     "departments":"家庭醫學科,",
+    "latitude":23.9686887,
+    "longitude":120.963933,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1217,6 +1547,9 @@
     "address":"南投縣埔里鎮中正路408號",
     "phone":"049-2983212",
     "departments":"家庭醫學科,兒科,",
+    "latitude":23.9648985,
+    "longitude":120.967806,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1228,6 +1561,9 @@
     "address":"南投縣埔里鎮中山路二段３８６號",
     "phone":"049-2983713",
     "departments":"西醫一般科,",
+    "latitude":23.9640187,
+    "longitude":120.9659896,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1239,6 +1575,9 @@
     "address":"南投縣埔里鎮西安路一段76號",
     "phone":"049-2982577",
     "departments":"家庭醫學科,外科,",
+    "latitude":23.9654063,
+    "longitude":120.9658666,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1250,6 +1589,9 @@
     "address":"南投縣埔里鎮中山路三段１２８號",
     "phone":"049-2983878",
     "departments":"內科,兒科,",
+    "latitude":23.9668981,
+    "longitude":120.962689,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1261,6 +1603,9 @@
     "address":"南投縣埔里鎮北辰街1號",
     "phone":"049-2980289",
     "departments":"西醫一般科,",
+    "latitude":23.963677,
+    "longitude":120.9718575,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1272,6 +1617,9 @@
     "address":"南投縣埔里鎮中正路460號",
     "phone":"049-2987289",
     "departments":"西醫一般科,",
+    "latitude":23.9666311,
+    "longitude":120.9658173,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1283,6 +1631,9 @@
     "address":"南投縣埔里鎮中山路二段256號",
     "phone":"0492982157",
     "departments":"家庭醫學科,",
+    "latitude":23.9671117,
+    "longitude":120.9685859,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1294,6 +1645,9 @@
     "address":"南投縣埔里鎮中山路三段341號1F",
     "phone":"049-2918186",
     "departments":"牙醫一般科,",
+    "latitude":23.9688306,
+    "longitude":120.9565293,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1305,6 +1659,9 @@
     "address":"南投縣埔里鎮東華路120號1樓",
     "phone":"049-2985015",
     "departments":"中醫一般科,",
+    "latitude":23.9640268,
+    "longitude":120.9699872,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1316,6 +1673,9 @@
     "address":"南投縣埔里鎮信義路335巷1號1樓",
     "phone":"049-2989893",
     "departments":"中醫一般科,",
+    "latitude":23.9727244,
+    "longitude":120.9685586,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1327,6 +1687,9 @@
     "address":"南投縣埔里鎮中山路三段89號1樓",
     "phone":"049-2998980",
     "departments":"眼科,",
+    "latitude":23.9660824,
+    "longitude":120.9633283,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1338,6 +1701,9 @@
     "address":"南投縣埔里鎮清新里南興街258號1樓",
     "phone":"049-2421292",
     "departments":"牙醫一般科,",
+    "latitude":23.9636799,
+    "longitude":120.9646789,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1349,6 +1715,9 @@
     "address":"南投縣埔里鎮中正路633、635號1樓",
     "phone":"049-2916993",
     "departments":"中醫一般科,",
+    "latitude":23.9734409,
+    "longitude":120.9627561,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1360,6 +1729,9 @@
     "address":"南投縣埔里鎮一新里東峰路19號",
     "phone":"049-2930373",
     "departments":"家庭醫學科,",
+    "latitude":24.0028221,
+    "longitude":120.945604,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1371,6 +1743,9 @@
     "address":"南投縣埔里鎮南昌街198號1樓",
     "phone":"",
     "departments":"家庭醫學科,",
+    "latitude":23.9658037,
+    "longitude":120.9652293,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1382,6 +1757,9 @@
     "address":"南投縣埔里鎮西安路一段80號",
     "phone":"049-2990289",
     "departments":"家庭醫學科,",
+    "latitude":23.9655482,
+    "longitude":120.965946,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1393,6 +1771,9 @@
     "address":"南投縣埔里鎮鐵山路一號",
     "phone":"049-2912151",
     "departments":"家庭醫學科,內科,外科,兒科,婦產科,骨科,神經科,泌尿科,耳鼻喉科,眼科,皮膚科,精神科,復健科,麻醉科,放射診斷科,放射腫瘤科,解剖病理科,急診醫學科,整形外科,牙醫一般科,中醫一般科,",
+    "latitude":23.970487,
+    "longitude":120.9463085,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1404,6 +1785,9 @@
     "address":"南投縣埔里鎮中正一路１６２號",
     "phone":"049-2986178",
     "departments":"西醫一般科,",
+    "latitude":23.9711641,
+    "longitude":120.9671934,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1415,6 +1799,9 @@
     "address":"南投縣埔里鎮中正路４３５號",
     "phone":"049-2900719",
     "departments":"中醫一般科,",
+    "latitude":23.9656342,
+    "longitude":120.9665676,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1426,6 +1813,9 @@
     "address":"南投縣埔里鎮民生路137號1樓",
     "phone":"049-2423825",
     "departments":"中醫一般科,",
+    "latitude":23.9601382,
+    "longitude":120.9626992,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1437,6 +1827,9 @@
     "address":"南投縣埔里鎮八德路378號1樓",
     "phone":"0971623708",
     "departments":"中醫一般科,",
+    "latitude":23.9711379,
+    "longitude":120.963348,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1448,6 +1841,9 @@
     "address":"南投縣埔里鎮北安里2鄰中山路二段140號1樓",
     "phone":"2998077，0978-206323",
     "departments":"內科,",
+    "latitude":23.968814,
+    "longitude":120.971583,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1459,6 +1855,9 @@
     "address":"南投縣埔里鎮西安路一段333號1樓",
     "phone":"049-2996279",
     "departments":"中醫一般科,",
+    "latitude":23.9730756,
+    "longitude":120.969504,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1470,6 +1869,9 @@
     "address":"南投縣埔里鎮南昌街202號",
     "phone":"049-2995333",
     "departments":"中醫一般科,",
+    "latitude":23.9658474,
+    "longitude":120.965226,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1481,6 +1883,9 @@
     "address":"南投縣埔里鎮八德路243號1樓",
     "phone":"049-2906386",
     "departments":"中醫一般科,",
+    "latitude":23.9713615,
+    "longitude":120.966867,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1492,6 +1897,9 @@
     "address":"南投縣埔里鎮東峰路19號",
     "phone":"049-2930373",
     "departments":"中醫一般科,",
+    "latitude":24.0028221,
+    "longitude":120.945604,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1503,6 +1911,9 @@
     "address":"南投縣埔里鎮中山路二段355號",
     "phone":"049-2991151",
     "departments":"兒科,",
+    "latitude":23.9639571,
+    "longitude":120.966401,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1514,6 +1925,9 @@
     "address":"南投縣埔里鎮四維路26-1號1樓",
     "phone":"049-2423232",
     "departments":"中醫一般科,",
+    "latitude":23.9641342,
+    "longitude":120.9709629,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1525,6 +1939,9 @@
     "address":"南投縣埔里鎮中山路三段９２號",
     "phone":"049-2994577",
     "departments":"牙醫一般科,",
+    "latitude":23.9661598,
+    "longitude":120.9634385,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1536,6 +1953,9 @@
     "address":"南投縣埔里鎮中山路二段３３１號",
     "phone":"049-2982030",
     "departments":"家庭醫學科,外科,",
+    "latitude":23.9646137,
+    "longitude":120.9668896,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1547,6 +1967,9 @@
     "address":"南投縣埔里鎮隆生路81號",
     "phone":"049-2998003",
     "departments":"中醫一般科,",
+    "latitude":23.9598975,
+    "longitude":120.9679214,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1558,6 +1981,9 @@
     "address":"南投縣埔里鎮西安路一段88號",
     "phone":"049-2423799",
     "departments":"內科,",
+    "latitude":23.9656823,
+    "longitude":120.9661339,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1569,6 +1995,9 @@
     "address":"南投縣埔里鎮和平東路417號1樓",
     "phone":"049-2420453",
     "departments":"西醫一般科,",
+    "latitude":23.9709405,
+    "longitude":120.9768717,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1580,6 +2009,9 @@
     "address":"南投縣埔里鎮信義路1041號1樓",
     "phone":"",
     "departments":"西醫一般科,",
+    "latitude":23.9708714,
+    "longitude":120.9566446,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1591,6 +2023,9 @@
     "address":"南投縣埔里鎮中正路431號",
     "phone":"049-2903127",
     "departments":"家庭醫學科,",
+    "latitude":23.9655028,
+    "longitude":120.966736,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1602,6 +2037,9 @@
     "address":"南投縣埔里鎮中華路194號1樓",
     "phone":"049-2918891",
     "departments":"西醫一般科,",
+    "latitude":23.9700845,
+    "longitude":120.9729855,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1613,6 +2051,9 @@
     "address":"南投縣埔里鎮南昌街232號",
     "phone":"049-2996790",
     "departments":"耳鼻喉科,",
+    "latitude":23.9667649,
+    "longitude":120.9642914,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1624,6 +2065,9 @@
     "address":"南投縣埔里鎮蜈蚣里榮光路1號",
     "phone":"049-2998911",
     "departments":"家庭醫學科,內科,外科,兒科,婦產科,骨科,神經科,神經外科,泌尿科,耳鼻喉科,眼科,精神科,復健科,麻醉科,放射診斷科,急診醫學科,職業醫學科,牙醫一般科,中醫一般科,",
+    "latitude":23.975812,
+    "longitude":120.9958024,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1635,6 +2079,9 @@
     "address":"南投縣埔里鎮八德路12-2號",
     "phone":"049-2930200",
     "departments":"中醫一般科,",
+    "latitude":23.971557,
+    "longitude":120.971113,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1646,6 +2093,9 @@
     "address":"南投縣埔里鎮西康路64號",
     "phone":"049-2983033",
     "departments":"婦產科,",
+    "latitude":23.9660069,
+    "longitude":120.964595,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1657,6 +2107,9 @@
     "address":"南投縣埔里鎮南門里南昌街221號1樓",
     "phone":"049-2900303",
     "departments":"家庭醫學科,西醫一般科,",
+    "latitude":23.9664708,
+    "longitude":120.9643434,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1668,6 +2121,9 @@
     "address":"南投縣埔里鎮忠孝路300號1樓",
     "phone":"049-2424452",
     "departments":"家庭醫學科,",
+    "latitude":23.965381,
+    "longitude":120.9738578,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1679,6 +2135,9 @@
     "address":"南投縣埔里鎮南昌街196號1樓",
     "phone":"049-2996988",
     "departments":"外科,",
+    "latitude":23.9658174,
+    "longitude":120.9653175,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1690,6 +2149,9 @@
     "address":"南投縣埔里鎮中正路464號",
     "phone":"049-2990941",
     "departments":"西醫一般科,",
+    "latitude":23.9667913,
+    "longitude":120.9658483,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1701,6 +2163,9 @@
     "address":"南投縣埔里鎮中正路427號",
     "phone":"049-2911960",
     "departments":"家庭醫學科,",
+    "latitude":23.9655022,
+    "longitude":120.9667353,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1712,6 +2177,9 @@
     "address":"南投縣埔里鎮中山路三段100號",
     "phone":"049-2980445",
     "departments":"家庭醫學科,",
+    "latitude":23.966343,
+    "longitude":120.963244,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1723,6 +2191,9 @@
     "address":"南投縣埔里鎮信義路３５６號",
     "phone":"049-2906196",
     "departments":"牙醫一般科,",
+    "latitude":23.973439,
+    "longitude":120.968143,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1734,6 +2205,9 @@
     "address":"南投縣埔里鎮中山路二段３３６號",
     "phone":"049-2955111",
     "departments":"牙醫一般科,",
+    "latitude":23.9648705,
+    "longitude":120.9668286,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1745,6 +2219,9 @@
     "address":"南投縣埔里鎮北環路222號",
     "phone":"049981019",
     "departments":"西醫一般科,",
+    "latitude":23.9705541,
+    "longitude":120.967765,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1756,6 +2233,9 @@
     "address":"南投縣埔里鎮中正路452號",
     "phone":"049-2985855",
     "departments":"婦產科,",
+    "latitude":23.9664828,
+    "longitude":120.9659904,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1767,6 +2247,9 @@
     "address":"南投縣埔里鎮西安路一段70號1.2F",
     "phone":"049-2902467",
     "departments":"西醫一般科,",
+    "latitude":23.9651925,
+    "longitude":120.9656388,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1778,6 +2261,9 @@
     "address":"南投縣埔里鎮東峰路19號",
     "phone":"049-2930373",
     "departments":"牙醫一般科,",
+    "latitude":24.0028221,
+    "longitude":120.945604,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1789,6 +2275,9 @@
     "address":"南投縣埔里鎮中正路395號1F",
     "phone":"049-2997752",
     "departments":"兒科,",
+    "latitude":23.964686,
+    "longitude":120.9677279,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1800,6 +2289,9 @@
     "address":"南投縣埔里鎮中山路二段79號",
     "phone":"049-2997879",
     "departments":"中醫一般科,",
+    "latitude":23.970341,
+    "longitude":120.9751179,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1811,6 +2303,9 @@
     "address":"南投縣埔里鎮南興街243號",
     "phone":"049-2997376",
     "departments":"牙醫一般科,",
+    "latitude":23.9633403,
+    "longitude":120.9647114,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1822,6 +2317,9 @@
     "address":"南投縣埔里鎮東門里東榮路202號",
     "phone":"049-2983347",
     "departments":"牙醫一般科,",
+    "latitude":23.9655398,
+    "longitude":120.9697914,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1833,6 +2331,9 @@
     "address":"南投縣埔里鎮忠孝路３5 3號",
     "phone":"049-2999802",
     "departments":"牙醫一般科,",
+    "latitude":23.9651436,
+    "longitude":120.9758182,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1844,6 +2345,9 @@
     "address":"南投縣埔里鎮東華路７７號",
     "phone":"049-2980994",
     "departments":"牙醫一般科,",
+    "latitude":23.9630248,
+    "longitude":120.9686,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1855,6 +2359,9 @@
     "address":"南投縣埔里鎮中山路二段１３３之１號１Ｆ",
     "phone":"049-2420555",
     "departments":"牙醫一般科,",
+    "latitude":23.9690657,
+    "longitude":120.9728211,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1866,6 +2373,9 @@
     "address":"南投縣埔里鎮中正路402號",
     "phone":"049-2992070",
     "departments":"內科,",
+    "latitude":23.9648276,
+    "longitude":120.9678491,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1877,6 +2387,9 @@
     "address":"南投縣埔里鎮南昌街160號",
     "phone":"049-2988099",
     "departments":"兒科,",
+    "latitude":23.9650493,
+    "longitude":120.9661837,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1888,6 +2401,9 @@
     "address":"南投縣埔里鎮中山路三段39號",
     "phone":"049-2422477",
     "departments":"復健科,",
+    "latitude":23.9653165,
+    "longitude":120.9641338,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1899,6 +2415,9 @@
     "address":"南投縣埔里鎮忠孝路329號",
     "phone":"049-2994830",
     "departments":"兒科,",
+    "latitude":23.965111,
+    "longitude":120.9752,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1910,6 +2429,9 @@
     "address":"南投縣埔里鎮中山路二段349號",
     "phone":"049-2420623",
     "departments":"眼科,",
+    "latitude":23.9642353,
+    "longitude":120.9663857,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1921,6 +2443,9 @@
     "address":"南投縣埔里鎮南昌街190號",
     "phone":"049-2999197",
     "departments":"西醫一般科,",
+    "latitude":23.9657088,
+    "longitude":120.9653833,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1932,6 +2457,9 @@
     "address":"南投縣埔里鎮中山路2段182號1樓",
     "phone":"0492420606",
     "departments":"眼科,",
+    "latitude":23.9682561,
+    "longitude":120.9707324,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1943,6 +2471,9 @@
     "address":"南投縣埔里鎮中山路二段262號",
     "phone":"049-2991030",
     "departments":"內科,兒科,",
+    "latitude":23.966536,
+    "longitude":120.9686388,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1954,6 +2485,9 @@
     "address":"南投縣埔里鎮中華路250號1F",
     "phone":"049-2906112",
     "departments":"皮膚科,",
+    "latitude":23.9715238,
+    "longitude":120.9720387,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1965,6 +2499,9 @@
     "address":"南投縣埔里鎮中山路三段87號1樓",
     "phone":"049-2998980",
     "departments":"耳鼻喉科,",
+    "latitude":23.9660626,
+    "longitude":120.9632981,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1976,6 +2513,9 @@
     "address":"南投縣埔里鎮中山路二段247之1號",
     "phone":"049-2906668",
     "departments":"家庭醫學科,",
+    "latitude":23.9663456,
+    "longitude":120.9687391,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1987,6 +2527,9 @@
     "address":"南投縣埔里鎮西安路一段126號",
     "phone":"049-2996996",
     "departments":"西醫一般科,",
+    "latitude":23.9685272,
+    "longitude":120.9659099,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -1998,6 +2541,9 @@
     "address":"南投縣埔里鎮忠孝路31號1樓",
     "phone":"049-2992536",
     "departments":"西醫一般科,",
+    "latitude":23.9609433,
+    "longitude":120.9686659,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2009,6 +2555,9 @@
     "address":"南投縣埔里鎮南興街297號",
     "phone":"2424245",
     "departments":"中醫一般科,",
+    "latitude":23.9642537,
+    "longitude":120.9636806,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2020,6 +2569,9 @@
     "address":"南投縣埔里鎮北辰街119號1樓",
     "phone":"049-2999907",
     "departments":"復健科,",
+    "latitude":23.967754,
+    "longitude":120.9675193,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2031,6 +2583,9 @@
     "address":"南投縣埔里鎮中正路563號1樓",
     "phone":"049-2989448",
     "departments":"泌尿科,",
+    "latitude":23.9714308,
+    "longitude":120.963441,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2042,6 +2597,9 @@
     "address":"南投縣埔里鎮中山路二段135-1號1樓",
     "phone":"0930942928",
     "departments":"兒科,",
+    "latitude":23.969083,
+    "longitude":120.9726195,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2053,6 +2611,9 @@
     "address":"南投縣埔里鎮南昌街１８３號",
     "phone":"049-2906847",
     "departments":"中醫一般科,",
+    "latitude":23.9655328,
+    "longitude":120.9653273,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2064,6 +2625,9 @@
     "address":"南投縣埔里鎮中山路二段３５１號",
     "phone":"049-2987150",
     "departments":"中醫一般科,",
+    "latitude":23.9642899,
+    "longitude":120.9666308,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2075,6 +2639,9 @@
     "address":"南投縣埔里鎮西門里中正路432-2號1、2樓",
     "phone":"049-2900606",
     "departments":"牙醫一般科,",
+    "latitude":23.9659683,
+    "longitude":120.9667291,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2086,6 +2653,9 @@
     "address":"南投縣埔里鎮中華路77號",
     "phone":"049-2998600",
     "departments":"牙醫一般科,",
+    "latitude":23.9666903,
+    "longitude":120.9740466,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2097,6 +2667,9 @@
     "address":"南投縣埔里鎮東榮路82號",
     "phone":"049-2901585",
     "departments":"牙醫一般科,",
+    "latitude":23.9631989,
+    "longitude":120.967191,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2108,6 +2681,9 @@
     "address":"南投縣埔里鎮東華路９4號",
     "phone":"049-2988671",
     "departments":"牙醫一般科,",
+    "latitude":23.9631658,
+    "longitude":120.9690247,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2119,6 +2695,9 @@
     "address":"南投縣草屯鎮明正 里忠孝街408號",
     "phone":"049-2327989",
     "departments":"牙醫一般科,",
+    "latitude":23.984658,
+    "longitude":120.6812921,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2130,6 +2709,9 @@
     "address":"南投縣草屯鎮玉屏路１６１號",
     "phone":"049-2550800",
     "departments":"內科,精神科,",
+    "latitude":23.9898823,
+    "longitude":120.7045641,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2141,6 +2723,9 @@
     "address":"南投縣草屯鎮碧山路18號1樓",
     "phone":"049-2338895",
     "departments":"中醫一般科,",
+    "latitude":23.9779739,
+    "longitude":120.6873581,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2152,6 +2737,9 @@
     "address":"南投縣草屯鎮中山里草溪路1049號",
     "phone":"049-2320999",
     "departments":"牙醫一般科,",
+    "latitude":23.9776542,
+    "longitude":120.6817411,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2163,6 +2751,9 @@
     "address":"南投縣草屯鎮中正路１５１６號",
     "phone":"049-2560570",
     "departments":"牙醫一般科,",
+    "latitude":23.998926,
+    "longitude":120.6902339,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2174,6 +2765,9 @@
     "address":"南投縣草屯鎮平等街169號",
     "phone":"049-2321188",
     "departments":"內科,",
+    "latitude":23.9846733,
+    "longitude":120.6855129,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2185,6 +2779,9 @@
     "address":"南投縣草屯鎮東美街105號1樓",
     "phone":"049-2381153",
     "departments":"中醫一般科,",
+    "latitude":23.9810597,
+    "longitude":120.6853724,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2196,6 +2793,9 @@
     "address":"南投縣草屯鎮芬草路一段30、32號1樓",
     "phone":"049-2380666",
     "departments":"中醫一般科,",
+    "latitude":23.982607,
+    "longitude":120.6840011,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2207,6 +2807,9 @@
     "address":"南投縣草屯鎮中興路138號1~2樓",
     "phone":"049-2333874",
     "departments":"復健科,",
+    "latitude":23.9740194,
+    "longitude":120.6840713,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2218,6 +2821,9 @@
     "address":"南投縣草屯鎮虎山路535號1樓",
     "phone":"0928-467696",
     "departments":"西醫一般科,",
+    "latitude":23.9699994,
+    "longitude":120.6868298,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2229,6 +2835,9 @@
     "address":"南投縣草屯鎮中正路685、687號1F",
     "phone":"049-2320938",
     "departments":"中醫一般科,",
+    "latitude":23.9797388,
+    "longitude":120.684229,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2240,6 +2849,9 @@
     "address":"南投縣草屯鎮自由街134巷24號1F",
     "phone":"",
     "departments":"西醫一般科,",
+    "latitude":23.9846124,
+    "longitude":120.6849636,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2251,6 +2863,9 @@
     "address":"南投縣草屯鎮虎山路５２２號",
     "phone":"049-2335156",
     "departments":"牙醫一般科,",
+    "latitude":23.969429,
+    "longitude":120.6871446,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2262,6 +2877,9 @@
     "address":"南投縣草屯鎮富昌路２－１號",
     "phone":"049-2569085",
     "departments":"家庭醫學科,",
+    "latitude":23.9784185,
+    "longitude":120.6974853,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2273,6 +2891,9 @@
     "address":"南投縣草屯鎮和平里育英街200號",
     "phone":"049-2333100",
     "departments":"耳鼻喉科,西醫一般科,",
+    "latitude":23.9768646,
+    "longitude":120.6835591,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2284,6 +2905,9 @@
     "address":"南投縣草屯鎮平和里明賢街66號",
     "phone":"049-2313315",
     "departments":"西醫一般科,",
+    "latitude":23.975864,
+    "longitude":120.683252,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2295,6 +2919,9 @@
     "address":"南投縣草屯鎮和興三街２４號",
     "phone":"049-2367696",
     "departments":"西醫一般科,",
+    "latitude":23.9762139,
+    "longitude":120.6846651,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2306,6 +2933,9 @@
     "address":"南投縣草屯鎮虎山路122號",
     "phone":"049-2365841",
     "departments":"牙醫一般科,",
+    "latitude":23.9604976,
+    "longitude":120.6854804,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2317,6 +2947,9 @@
     "address":"南投縣草屯鎮碧山南路112-1號",
     "phone":"",
     "departments":"中醫一般科,",
+    "latitude":23.978252,
+    "longitude":120.678358,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2328,6 +2961,9 @@
     "address":"南投縣草屯鎮中山街２７５號",
     "phone":"049-362665",
     "departments":"耳鼻喉科,",
+    "latitude":23.9798419,
+    "longitude":120.6830769,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2339,6 +2975,9 @@
     "address":"南投縣草屯鎮太平路二段231號",
     "phone":"049-2326706",
     "departments":"家庭醫學科,",
+    "latitude":23.9747249,
+    "longitude":120.683457,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2350,6 +2989,9 @@
     "address":"南投縣草屯鎮芬草路一段129號",
     "phone":"049-2318666",
     "departments":"牙醫一般科,",
+    "latitude":23.9838814,
+    "longitude":120.6824107,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2361,6 +3003,9 @@
     "address":"南投縣草屯鎮碧山南路30號",
     "phone":"049-2302979",
     "departments":"中醫一般科,",
+    "latitude":23.978187,
+    "longitude":120.68088,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2372,6 +3017,9 @@
     "address":"南投縣草屯鎮草溪路９５９號",
     "phone":"049-2334747",
     "departments":"中醫一般科,",
+    "latitude":23.9850815,
+    "longitude":120.6778681,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2383,6 +3031,9 @@
     "address":"南投縣草屯鎮太平路一段445號",
     "phone":"049-2331718",
     "departments":"外科,骨科,",
+    "latitude":23.9664656,
+    "longitude":120.6821467,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2394,6 +3045,9 @@
     "address":"南投縣草屯鎮中山街281號",
     "phone":"049-2333609",
     "departments":"牙醫一般科,",
+    "latitude":23.9799015,
+    "longitude":120.68309,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2405,6 +3059,9 @@
     "address":"南投縣草屯鎮太平路二段２２８號1-2樓",
     "phone":"049-2380295",
     "departments":"內科,",
+    "latitude":23.9760184,
+    "longitude":120.6839613,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2416,6 +3073,9 @@
     "address":"南投縣草屯鎮虎山路１２６號",
     "phone":"049-2370526",
     "departments":"西醫一般科,",
+    "latitude":23.9608537,
+    "longitude":120.685437,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2427,6 +3087,9 @@
     "address":"南投縣草屯鎮中山街195號",
     "phone":"049-2306678",
     "departments":"兒科,",
+    "latitude":23.9782544,
+    "longitude":120.6827943,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2438,6 +3101,9 @@
     "address":"南投縣草屯鎮中正路567之3號",
     "phone":"049-2569847",
     "departments":"牙醫一般科,",
+    "latitude":23.9789796,
+    "longitude":120.6986674,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2449,6 +3115,9 @@
     "address":"南投縣草屯鎮碧山路634號",
     "phone":"049-2381000",
     "departments":"牙醫一般科,",
+    "latitude":23.978026,
+    "longitude":120.6749264,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2460,6 +3129,9 @@
     "address":"南投縣草屯鎮太平路一段503號",
     "phone":"049-2339387",
     "departments":"中醫一般科,",
+    "latitude":23.967732,
+    "longitude":120.682441,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2471,6 +3143,9 @@
     "address":"南投縣草屯鎮中興路379號",
     "phone":"049-2328937",
     "departments":"中醫一般科,",
+    "latitude":23.9758162,
+    "longitude":120.6888217,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2482,6 +3157,9 @@
     "address":"南投縣草屯鎮虎山路827號",
     "phone":"049-2380168",
     "departments":"中醫一般科,",
+    "latitude":23.9761629,
+    "longitude":120.6857697,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2493,6 +3171,9 @@
     "address":"南投縣草屯鎮明賢街一段28號",
     "phone":"",
     "departments":"中醫一般科,",
+    "latitude":23.9755313,
+    "longitude":120.6869199,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2504,6 +3185,9 @@
     "address":"南投縣草屯鎮虎山路897號",
     "phone":"049-2334277",
     "departments":"婦產科,",
+    "latitude":23.978264,
+    "longitude":120.685715,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2515,6 +3199,9 @@
     "address":"南投縣草屯鎮草溪路993號1至2樓",
     "phone":"049-2304666",
     "departments":"復健科,",
+    "latitude":23.9765306,
+    "longitude":120.6812994,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2526,6 +3213,9 @@
     "address":"南投縣草屯鎮虎山路１３４號",
     "phone":"049-2317523",
     "departments":"牙醫一般科,",
+    "latitude":23.9609041,
+    "longitude":120.6854072,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2537,6 +3227,9 @@
     "address":"南投縣草屯鎮芬草路一段177號1樓、2樓",
     "phone":"049-2365815",
     "departments":"牙醫一般科,",
+    "latitude":23.9852156,
+    "longitude":120.680963,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2548,6 +3241,9 @@
     "address":"南投縣草屯鎮和興三街20號1樓",
     "phone":"049-2301796",
     "departments":"牙醫一般科,",
+    "latitude":23.9761892,
+    "longitude":120.6846625,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2559,6 +3255,9 @@
     "address":"南投縣草屯鎮平等街140號",
     "phone":"049-2321188",
     "departments":"家庭醫學科,內科,外科,復健科,中醫一般科,",
+    "latitude":23.9847733,
+    "longitude":120.6859284,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2570,6 +3269,9 @@
     "address":"南投縣草屯鎮富中路198號1樓",
     "phone":"2566128",
     "departments":"中醫一般科,",
+    "latitude":23.9736795,
+    "longitude":120.7043853,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2581,6 +3283,9 @@
     "address":"南投縣草屯鎮太平路一段460號1.2樓",
     "phone":"0492393299",
     "departments":"中醫一般科,",
+    "latitude":23.9673498,
+    "longitude":120.6826603,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2592,6 +3297,9 @@
     "address":"南投縣草屯鎮青雲街３２號",
     "phone":"049-2330231",
     "departments":"牙醫一般科,",
+    "latitude":23.979793,
+    "longitude":120.68588,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2603,6 +3311,9 @@
     "address":"南投縣草屯鎮中山街１７７號",
     "phone":"049-2314369",
     "departments":"牙醫一般科,",
+    "latitude":23.9776969,
+    "longitude":120.6827199,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2614,6 +3325,9 @@
     "address":"南投縣草屯鎮建國街２９號",
     "phone":"049-2313090",
     "departments":"牙醫一般科,",
+    "latitude":23.9798242,
+    "longitude":120.6853305,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2625,6 +3339,9 @@
     "address":"南投縣草屯鎮虎山路７９０號",
     "phone":"049-2355178",
     "departments":"牙醫一般科,",
+    "latitude":23.976231,
+    "longitude":120.685983,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2636,6 +3353,9 @@
     "address":"南投縣草屯鎮太平路二段２００號",
     "phone":"049-2336730",
     "departments":"牙醫一般科,",
+    "latitude":23.9740579,
+    "longitude":120.6836159,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2647,6 +3367,9 @@
     "address":"南投縣草屯鎮中正路６27號",
     "phone":"049-2356921",
     "departments":"牙醫一般科,",
+    "latitude":23.97891,
+    "longitude":120.685299,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2658,6 +3381,9 @@
     "address":"南投縣草屯鎮山腳里新富路159號",
     "phone":"049-2319519",
     "departments":"牙醫一般科,",
+    "latitude":23.9692138,
+    "longitude":120.6835128,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2669,6 +3395,9 @@
     "address":"南投縣草屯鎮碧山南路42號",
     "phone":"049-2355697",
     "departments":"牙醫一般科,",
+    "latitude":23.978219,
+    "longitude":120.680023,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2680,6 +3409,9 @@
     "address":"南投縣草屯鎮東美街105號3樓",
     "phone":"049-2380380",
     "departments":"牙醫一般科,",
+    "latitude":23.9810597,
+    "longitude":120.6853724,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2691,6 +3423,9 @@
     "address":"南投縣草屯鎮中正路638號",
     "phone":"049-2333131",
     "departments":"牙醫一般科,",
+    "latitude":23.9791259,
+    "longitude":120.6848845,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2702,6 +3437,9 @@
     "address":"南投縣草屯鎮虎山路825號",
     "phone":"049-2354066",
     "departments":"牙醫一般科,",
+    "latitude":23.9761239,
+    "longitude":120.6857703,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2713,6 +3451,9 @@
     "address":"南投縣草屯鎮中正路747號",
     "phone":"049-2302233",
     "departments":"牙醫一般科,",
+    "latitude":23.981155,
+    "longitude":120.68441,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2724,6 +3465,9 @@
     "address":"南投縣草屯鎮太平路二段93、95號1樓",
     "phone":"049-2326989",
     "departments":"內科,",
+    "latitude":23.9715618,
+    "longitude":120.6830402,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2735,6 +3479,9 @@
     "address":"南投縣草屯鎮新豐路728巷36號1F",
     "phone":"049-2353197",
     "departments":"復健科,",
+    "latitude":24.0033798,
+    "longitude":120.6791,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2746,6 +3493,9 @@
     "address":"南投縣草屯鎮中山街36號及38號1F",
     "phone":"049-2323151",
     "departments":"兒科,",
+    "latitude":23.9750671,
+    "longitude":120.6826093,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2757,6 +3507,9 @@
     "address":"南投縣草屯鎮炎峰街14-2號",
     "phone":"",
     "departments":"西醫一般科,",
+    "latitude":23.979883,
+    "longitude":120.6864909,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2768,6 +3521,9 @@
     "address":"南投縣草屯鎮太平路二段28號1.2樓",
     "phone":"049-2306989",
     "departments":"神經外科,",
+    "latitude":23.9701377,
+    "longitude":120.6831031,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2779,6 +3535,9 @@
     "address":"南投縣草屯鎮碧山南路21號1樓",
     "phone":"049-2307728",
     "departments":"兒科,",
+    "latitude":23.9779767,
+    "longitude":120.68111,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2790,6 +3549,9 @@
     "address":"南投縣草屯鎮太平路二段207號",
     "phone":"049-2307369",
     "departments":"外科,骨科,",
+    "latitude":23.973708,
+    "longitude":120.6832834,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2801,6 +3563,9 @@
     "address":"南投縣草屯鎮虎山路786號",
     "phone":"",
     "departments":"兒科,",
+    "latitude":23.9761432,
+    "longitude":120.6859896,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2812,6 +3577,9 @@
     "address":"南投縣草屯鎮中山街184號",
     "phone":"049-2333464",
     "departments":"家庭醫學科,",
+    "latitude":23.9777996,
+    "longitude":120.6829533,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2823,6 +3591,9 @@
     "address":"南投縣草屯鎮中正路602之1號",
     "phone":"049-2327707",
     "departments":"眼科,",
+    "latitude":23.979088,
+    "longitude":120.686585,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2834,6 +3605,9 @@
     "address":"南投縣草屯鎮中山街２４２號",
     "phone":"049-2333420",
     "departments":"西醫一般科,",
+    "latitude":23.9791709,
+    "longitude":120.6832169,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2845,6 +3619,9 @@
     "address":"南投縣草屯鎮育英街１８７號",
     "phone":"049-2338615",
     "departments":"耳鼻喉科,",
+    "latitude":23.9767115,
+    "longitude":120.6834501,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2856,6 +3633,9 @@
     "address":"南投縣草屯鎮太平路二段274號",
     "phone":"049-2334203",
     "departments":"家庭醫學科,內科,",
+    "latitude":23.9771779,
+    "longitude":120.6842389,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2867,6 +3647,9 @@
     "address":"南投縣草屯鎮草溪路１０１１號",
     "phone":"049-2336195",
     "departments":"中醫一般科,",
+    "latitude":23.976834,
+    "longitude":120.6814569,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2878,6 +3661,9 @@
     "address":"南投縣草屯鎮虎山路７３６號",
     "phone":"049-2357509",
     "departments":"家庭醫學科,兒科,",
+    "latitude":23.9749746,
+    "longitude":120.6859583,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2889,6 +3675,9 @@
     "address":"南投縣草屯鎮仁愛街68號",
     "phone":"049-2334474",
     "departments":"牙醫一般科,",
+    "latitude":23.9799132,
+    "longitude":120.6788968,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2900,6 +3689,9 @@
     "address":"南投縣草屯鎮碧山南路13號",
     "phone":"049-2301010",
     "departments":"家庭醫學科,內科,",
+    "latitude":23.977941,
+    "longitude":120.6812479,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2911,6 +3703,9 @@
     "address":"南投縣草屯鎮虎山路６91號",
     "phone":"049-2307141",
     "departments":"牙醫一般科,",
+    "latitude":23.9732454,
+    "longitude":120.6859787,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2922,6 +3717,9 @@
     "address":"南投縣草屯鎮中山街120號1樓",
     "phone":"049-2356233",
     "departments":"中醫一般科,",
+    "latitude":23.9761446,
+    "longitude":120.682747,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2933,6 +3731,9 @@
     "address":"南投縣草屯鎮明賢街10號",
     "phone":"049-2354243",
     "departments":"耳鼻喉科,",
+    "latitude":23.9756856,
+    "longitude":120.6854495,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2944,6 +3745,9 @@
     "address":"南投縣草屯鎮虎山路746號",
     "phone":"2320606",
     "departments":"兒科,",
+    "latitude":23.9751953,
+    "longitude":120.6859731,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2955,6 +3759,9 @@
     "address":"南投縣草屯鎮太平路二段175號",
     "phone":"049-2301287",
     "departments":"牙醫一般科,",
+    "latitude":23.9730113,
+    "longitude":120.6831985,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2966,6 +3773,9 @@
     "address":"南投縣草屯鎮虎山路788號",
     "phone":"049-2365652",
     "departments":"西醫一般科,",
+    "latitude":23.976191,
+    "longitude":120.685986,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2977,6 +3787,9 @@
     "address":"南投縣草屯鎮中正路670號",
     "phone":"049-2338109",
     "departments":"耳鼻喉科,",
+    "latitude":23.979404,
+    "longitude":120.684456,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2988,6 +3801,9 @@
     "address":"南投縣草屯鎮虎山路509號",
     "phone":"049-2316072",
     "departments":"內科,兒科,",
+    "latitude":23.9690419,
+    "longitude":120.6869495,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -2999,6 +3815,9 @@
     "address":"南投縣草屯鎮南埔里中正路233-12號",
     "phone":"049-2551410",
     "departments":"西醫一般科,",
+    "latitude":23.9794466,
+    "longitude":120.7226315,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3010,6 +3829,9 @@
     "address":"南投縣草屯鎮中興路290號1、2樓",
     "phone":"049-2322138",
     "departments":"中醫一般科,",
+    "latitude":23.9738094,
+    "longitude":120.6876222,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3021,6 +3843,9 @@
     "address":"南投縣草屯鎮虎山路１７９－１號",
     "phone":"049-2358671",
     "departments":"牙醫一般科,",
+    "latitude":23.9616299,
+    "longitude":120.6850885,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3032,6 +3857,9 @@
     "address":"南投縣草屯鎮太平路二段117號1、2樓",
     "phone":"049-2323238",
     "departments":"眼科,",
+    "latitude":23.9719035,
+    "longitude":120.6830162,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3043,6 +3871,9 @@
     "address":"南投縣草屯鎮炎峰街94號",
     "phone":"049-2328000",
     "departments":"骨科,",
+    "latitude":23.9810747,
+    "longitude":120.6858566,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3054,6 +3885,9 @@
     "address":"南投縣草屯鎮中正路733號",
     "phone":"049-2362021",
     "departments":"內科,兒科,",
+    "latitude":23.98086,
+    "longitude":120.6844175,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3065,6 +3899,9 @@
     "address":"南投縣草屯鎮中山街277號",
     "phone":"049-2354658",
     "departments":"內科,兒科,",
+    "latitude":23.9798882,
+    "longitude":120.6830838,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3076,6 +3913,9 @@
     "address":"南投縣草屯鎮中正路771號",
     "phone":"049-2322897",
     "departments":"皮膚科,",
+    "latitude":23.9816699,
+    "longitude":120.684465,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3087,6 +3927,9 @@
     "address":"南投縣草屯鎮中正路608號",
     "phone":"049-2333168",
     "departments":"婦產科,",
+    "latitude":23.9791299,
+    "longitude":120.6861652,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3098,6 +3941,9 @@
     "address":"南投縣草屯鎮草溪路1026號",
     "phone":"049-2330332",
     "departments":"皮膚科,",
+    "latitude":23.9769059,
+    "longitude":120.6818887,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3109,6 +3955,9 @@
     "address":"南投縣草屯鎮中正路800號1.2F",
     "phone":"049-2353333",
     "departments":"牙醫一般科,",
+    "latitude":23.9823001,
+    "longitude":120.685032,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3120,6 +3969,9 @@
     "address":"南投縣草屯鎮草溪路978號1-2樓",
     "phone":"049-2320190",
     "departments":"眼科,",
+    "latitude":23.9763626,
+    "longitude":120.6814609,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3131,6 +3983,9 @@
     "address":"南投縣草屯鎮太平路一段255號1及2樓",
     "phone":"049-2332788",
     "departments":"外科,婦產科,",
+    "latitude":23.9620134,
+    "longitude":120.6815037,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3142,6 +3997,9 @@
     "address":"南投縣草屯鎮中興路152號",
     "phone":"049-2356600",
     "departments":"牙醫一般科,",
+    "latitude":23.9779945,
+    "longitude":120.6748625,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3153,6 +4011,9 @@
     "address":"南投縣草屯鎮虎山路37號",
     "phone":"049-2392501",
     "departments":"中醫一般科,",
+    "latitude":23.9585232,
+    "longitude":120.6847451,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3164,6 +4025,9 @@
     "address":"南投縣草屯鎮中正路６２６號",
     "phone":"049-2318735",
     "departments":"兒科,",
+    "latitude":23.9791245,
+    "longitude":120.6853461,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3175,6 +4039,9 @@
     "address":"南投縣草屯鎮中正路1222號",
     "phone":"049-2333359",
     "departments":"內科,",
+    "latitude":23.992669,
+    "longitude":120.68838,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3186,6 +4053,9 @@
     "address":"南投縣草屯鎮玉屏路43-13號",
     "phone":"049-2566636",
     "departments":"西醫一般科,",
+    "latitude":23.9971553,
+    "longitude":120.7189859,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3197,6 +4067,9 @@
     "address":"南投縣草屯鎮育英街101號1樓",
     "phone":"049-2380866",
     "departments":"西醫一般科,",
+    "latitude":23.976523,
+    "longitude":120.686508,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3208,6 +4081,9 @@
     "address":"南投縣草屯鎮玉峯里炎峰街84號1樓",
     "phone":"049-2314945",
     "departments":"精神科,",
+    "latitude":23.9809249,
+    "longitude":120.6859749,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3219,6 +4095,9 @@
     "address":"南投縣草屯鎮中山街269號",
     "phone":"049-2336559",
     "departments":"中醫一般科,",
+    "latitude":23.9797599,
+    "longitude":120.6830684,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3230,6 +4109,9 @@
     "address":"南投縣草屯鎮太平路1段95-1號1-2樓",
     "phone":"049-2390030",
     "departments":"中醫一般科,",
+    "latitude":23.9583037,
+    "longitude":120.6809757,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3241,6 +4123,9 @@
     "address":"南投縣草屯鎮太平路2段198號1樓",
     "phone":"049-2367569",
     "departments":"中醫一般科,",
+    "latitude":23.9738195,
+    "longitude":120.6835952,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3252,6 +4137,9 @@
     "address":"南投縣草屯鎮中山街154、156號1樓",
     "phone":"049-2353636",
     "departments":"內科,",
+    "latitude":23.9772121,
+    "longitude":120.6828608,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3263,6 +4151,9 @@
     "address":"南投縣草屯鎮虎山路677號1、2樓",
     "phone":"049-2336637",
     "departments":"牙醫一般科,",
+    "latitude":23.9708546,
+    "longitude":120.6866486,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3274,6 +4165,9 @@
     "address":"南投縣草屯鎮草鞋墩一街5及7號1樓",
     "phone":"0492310628",
     "departments":"中醫一般科,",
+    "latitude":23.9739548,
+    "longitude":120.6807716,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3285,6 +4179,9 @@
     "address":"南投縣草屯鎮新生路169號1樓、2樓",
     "phone":"049-2331258",
     "departments":"中醫一般科,",
+    "latitude":23.9650132,
+    "longitude":120.6842318,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3296,6 +4193,9 @@
     "address":"南投縣草屯鎮太平路一段200號",
     "phone":"049-2358151",
     "departments":"家庭醫學科,內科,外科,兒科,婦產科,骨科,神經科,神經外科,泌尿科,眼科,復健科,麻醉科,放射診斷科,急診醫學科,牙醫一般科,",
+    "latitude":23.9605827,
+    "longitude":120.6816596,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3307,6 +4207,9 @@
     "address":"南投縣草屯鎮虎山路９１５號",
     "phone":"049-2314149",
     "departments":"家庭醫學科,內科,外科,復健科,放射診斷科,急診醫學科,",
+    "latitude":23.9785896,
+    "longitude":120.6857436,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3318,6 +4221,9 @@
     "address":"南投縣草屯鎮中山街53號",
     "phone":"049-2326299",
     "departments":"泌尿科,",
+    "latitude":23.9751739,
+    "longitude":120.682366,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3329,6 +4235,9 @@
     "address":"南投縣草屯鎮草溪路882巷7號",
     "phone":"0492362023",
     "departments":"西醫一般科,",
+    "latitude":23.9733423,
+    "longitude":120.6807744,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3340,6 +4249,9 @@
     "address":"南投縣竹山鎮集山路三段1001號",
     "phone":"049-2642801",
     "departments":"外科,婦產科,",
+    "latitude":23.755291,
+    "longitude":120.681122,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3351,6 +4263,9 @@
     "address":"南投縣竹山鎮埔頭街一巷一號",
     "phone":"049-2643086",
     "departments":"內科,兒科,",
+    "latitude":23.7534253,
+    "longitude":120.6803538,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3362,6 +4277,9 @@
     "address":"南投縣竹山鎮集山路三段833號",
     "phone":"049-2655907",
     "departments":"家庭醫學科,",
+    "latitude":23.7577693,
+    "longitude":120.6846074,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3373,6 +4291,9 @@
     "address":"南投縣竹山鎮集山路三段1062號",
     "phone":"049-2662352",
     "departments":"耳鼻喉科,",
+    "latitude":23.7553484,
+    "longitude":120.6807683,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3384,6 +4305,9 @@
     "address":"南投縣竹山鎮集山路三段483號",
     "phone":"049-2630208",
     "departments":"內科,",
+    "latitude":23.7610619,
+    "longitude":120.6935329,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3395,6 +4319,9 @@
     "address":"南投縣竹山鎮集山路三段213號",
     "phone":"049-2642557",
     "departments":"中醫一般科,",
+    "latitude":23.7634251,
+    "longitude":120.7012637,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3406,6 +4333,9 @@
     "address":"南投縣竹山鎮集山路三段777號",
     "phone":"",
     "departments":"中醫一般科,",
+    "latitude":23.758546,
+    "longitude":120.6859704,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3417,6 +4347,9 @@
     "address":"南投縣竹山鎮大仁路187號1樓",
     "phone":"049-2653998；0932-522862",
     "departments":"耳鼻喉科,",
+    "latitude":23.7572077,
+    "longitude":120.673282,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3428,6 +4361,9 @@
     "address":"南投縣竹山鎮集山路三段816號",
     "phone":"049-2653722",
     "departments":"家庭醫學科,",
+    "latitude":23.7593218,
+    "longitude":120.6865049,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3439,6 +4375,9 @@
     "address":"南投縣竹山鎮延和里集山路三段516號1F",
     "phone":"049-2658926",
     "departments":"中醫一般科,",
+    "latitude":23.7616577,
+    "longitude":120.694313,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3450,6 +4389,9 @@
     "address":"南投縣竹山鎮集山路2段75號",
     "phone":"049-2624266",
     "departments":"家庭醫學科,內科,外科,兒科,婦產科,骨科,神經科,神經外科,泌尿科,耳鼻喉科,復健科,麻醉科,放射診斷科,急診醫學科,牙醫一般科,中醫一般科,",
+    "latitude":23.8000765,
+    "longitude":120.7140106,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3461,6 +4403,9 @@
     "address":"南投縣竹山鎮集山路三段６２３巷一號",
     "phone":"049-2643559",
     "departments":"外科,婦產科,",
+    "latitude":23.7598071,
+    "longitude":120.6898244,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3472,6 +4417,9 @@
     "address":"南投縣竹山鎮集山路三段816-3及816-4號",
     "phone":"049-2660639",
     "departments":"內科,",
+    "latitude":23.7596092,
+    "longitude":120.686325,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3483,6 +4431,9 @@
     "address":"南投縣竹山鎮公所路126號",
     "phone":"049642026",
     "departments":"",
+    "latitude":23.759486,
+    "longitude":120.672477,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3494,6 +4445,9 @@
     "address":"南投縣竹山鎮集山路3段",
     "phone":"049-2637733",
     "departments":"耳鼻喉科,",
+    "latitude":23.7570435,
+    "longitude":120.6833181,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3505,6 +4459,9 @@
     "address":"南投縣竹山鎮前山路一段95號",
     "phone":"049-2642494",
     "departments":"眼科,",
+    "latitude":23.7571927,
+    "longitude":120.6795836,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3516,6 +4473,9 @@
     "address":"南投縣竹山鎮前山路1段23號",
     "phone":"049-2652991",
     "departments":"眼科,",
+    "latitude":23.7566178,
+    "longitude":120.6814881,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3527,6 +4487,9 @@
     "address":"南投縣竹山鎮下橫街５３－８號",
     "phone":"049-2654246",
     "departments":"中醫一般科,",
+    "latitude":23.7568206,
+    "longitude":120.6838418,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3538,6 +4501,9 @@
     "address":"南投縣竹山鎮集山路三段948-1號1樓",
     "phone":"",
     "departments":"內科,",
+    "latitude":23.757356,
+    "longitude":120.683454,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3549,6 +4515,9 @@
     "address":"南投縣竹山鎮集山路三段797號1樓",
     "phone":"",
     "departments":"牙醫一般科,",
+    "latitude":23.758355,
+    "longitude":120.6854581,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3560,6 +4529,9 @@
     "address":"南投縣竹山鎮集山路三段425號",
     "phone":"049-2655989",
     "departments":"牙醫一般科,",
+    "latitude":23.7616184,
+    "longitude":120.6954842,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3571,6 +4543,9 @@
     "address":"南投縣竹山鎮中正巷27-99號",
     "phone":"2651932",
     "departments":"西醫一般科,",
+    "latitude":23.7561505,
+    "longitude":120.6914258,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3582,6 +4557,9 @@
     "address":"南投縣竹山鎮林圯街14 之2號",
     "phone":"049-2643391",
     "departments":"牙醫一般科,",
+    "latitude":23.7541672,
+    "longitude":120.681964,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3593,6 +4571,9 @@
     "address":"南投縣竹山鎮菜園路３－１號",
     "phone":"049-2653418",
     "departments":"牙醫一般科,",
+    "latitude":23.754835,
+    "longitude":120.685381,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3604,6 +4585,9 @@
     "address":"南投縣竹山鎮中正橫街７２號",
     "phone":"049-2656466",
     "departments":"牙醫一般科,",
+    "latitude":23.7556973,
+    "longitude":120.6833074,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3615,6 +4599,9 @@
     "address":"南投縣竹山鎮橫街１３號",
     "phone":"049-2653163",
     "departments":"牙醫一般科,",
+    "latitude":23.7539349,
+    "longitude":120.684247,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3626,6 +4613,9 @@
     "address":"南投縣竹山鎮前山路一段５４號",
     "phone":"049-2660175",
     "departments":"牙醫一般科,",
+    "latitude":23.7572943,
+    "longitude":120.679844,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3637,6 +4627,9 @@
     "address":"南投縣竹山鎮前山路一段９９號",
     "phone":"049-2660260",
     "departments":"牙醫一般科,",
+    "latitude":23.7572152,
+    "longitude":120.6795587,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3648,6 +4641,9 @@
     "address":"南投縣竹山鎮集山路三段207-4號",
     "phone":"049-2635058",
     "departments":"牙醫一般科,",
+    "latitude":23.7635795,
+    "longitude":120.7017555,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3659,6 +4655,9 @@
     "address":"南投縣竹山鎮集山路三段785號",
     "phone":"049-2649649",
     "departments":"中醫一般科,",
+    "latitude":23.7584213,
+    "longitude":120.6857433,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3670,6 +4669,9 @@
     "address":"南投縣竹山鎮大明路183號",
     "phone":"049-2654936",
     "departments":"中醫一般科,",
+    "latitude":23.7600627,
+    "longitude":120.6848355,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3681,6 +4683,9 @@
     "address":"南投縣竹山鎮橫街79號",
     "phone":"049-2630702",
     "departments":"中醫一般科,",
+    "latitude":23.7561798,
+    "longitude":120.6828177,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3692,6 +4697,9 @@
     "address":"南投縣竹山鎮集山路三段272巷16號",
     "phone":"049-2658949",
     "departments":"家庭醫學科,內科,神經科,復健科,麻醉科,放射診斷科,急診醫學科,中醫一般科,",
+    "latitude":23.7643168,
+    "longitude":120.7000633,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3703,6 +4711,9 @@
     "address":"南投縣竹山鎮集山路三段879號",
     "phone":"049-2652288",
     "departments":"兒科,",
+    "latitude":23.7571276,
+    "longitude":120.6835747,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3714,6 +4725,9 @@
     "address":"南投縣竹山鎮頂橫街６０號",
     "phone":"049-2659766",
     "departments":"中醫一般科,",
+    "latitude":23.7566695,
+    "longitude":120.6805813,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3725,6 +4739,9 @@
     "address":"南投縣竹山鎮竹山路2號",
     "phone":"049-2642930",
     "departments":"內科,兒科,",
+    "latitude":23.7575634,
+    "longitude":120.68667,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3736,6 +4753,9 @@
     "address":"南投縣竹山鎮下坪里枋坪巷2-9號",
     "phone":"049-2649319",
     "departments":"內科,",
+    "latitude":23.7621548,
+    "longitude":120.6811766,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3747,6 +4767,9 @@
     "address":"南投縣竹山鎮下橫街58-7號",
     "phone":"049-2648276",
     "departments":"西醫一般科,",
+    "latitude":23.7580249,
+    "longitude":120.683356,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3758,6 +4781,9 @@
     "address":"南投縣竹山鎮大明路１９４號",
     "phone":"049-2643770",
     "departments":"婦產科,",
+    "latitude":23.7605801,
+    "longitude":120.6870687,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3769,6 +4795,9 @@
     "address":"南投縣竹山鎮集山路三段１８號",
     "phone":"049-2642446",
     "departments":"西醫一般科,",
+    "latitude":23.7668674,
+    "longitude":120.7061522,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3780,6 +4809,9 @@
     "address":"南投縣竹山鎮集山路三段816之2號",
     "phone":"049-2660583",
     "departments":"西醫一般科,",
+    "latitude":23.7594116,
+    "longitude":120.686427,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3791,6 +4823,9 @@
     "address":"南投縣竹山鎮集山路三段820號",
     "phone":"049-2642778",
     "departments":"皮膚科,",
+    "latitude":23.7591946,
+    "longitude":120.6865787,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3802,6 +4837,9 @@
     "address":"南投縣竹山鎮雲林路５９號",
     "phone":"049-2643301",
     "departments":"西醫一般科,",
+    "latitude":23.755381,
+    "longitude":120.6825139,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3813,6 +4851,9 @@
     "address":"南投縣集集鎮集集街102號1樓",
     "phone":"049-2762277",
     "departments":"中醫一般科,",
+    "latitude":23.8280035,
+    "longitude":120.7823142,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3824,6 +4865,9 @@
     "address":"南投縣集集鎮民生路340號",
     "phone":"049-2762860",
     "departments":"牙醫一般科,",
+    "latitude":23.8269922,
+    "longitude":120.7793189,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3835,6 +4879,9 @@
     "address":"南投縣集集鎮民生路234號",
     "phone":"049-2761888",
     "departments":"西醫一般科,",
+    "latitude":23.8270519,
+    "longitude":120.7825259,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3846,6 +4893,9 @@
     "address":"南投縣集集鎮民生路106號",
     "phone":"049-2762015",
     "departments":"內科,",
+    "latitude":23.8288989,
+    "longitude":120.7866294,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3857,6 +4907,9 @@
     "address":"南投縣集集鎮民生路242號",
     "phone":"049-2762888",
     "departments":"西醫一般科,",
+    "latitude":23.8270439,
+    "longitude":120.7824039,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3868,6 +4921,9 @@
     "address":"南投縣名間鄉中正村彰南路42號",
     "phone":"049-2732135",
     "departments":"家庭醫學科,",
+    "latitude":23.838452,
+    "longitude":120.702839,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3879,6 +4935,9 @@
     "address":"南投縣名間鄉員集路126號",
     "phone":"049-2737171",
     "departments":"西醫一般科,",
+    "latitude":23.8356985,
+    "longitude":120.7026906,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3890,6 +4949,9 @@
     "address":"南投縣名間鄉中山村1鄰彰南路186號、188號1樓",
     "phone":"049-2732055",
     "departments":"中醫一般科,",
+    "latitude":23.8433744,
+    "longitude":120.6993631,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3901,6 +4963,9 @@
     "address":"南投縣名間鄉員集路93號",
     "phone":"049-2730089",
     "departments":"家庭醫學科,",
+    "latitude":23.8355575,
+    "longitude":120.7036468,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3912,6 +4977,9 @@
     "address":"南投縣名間鄉員集路93號",
     "phone":"049-2730089",
     "departments":"家庭醫學科,",
+    "latitude":23.8355575,
+    "longitude":120.7036468,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3923,6 +4991,9 @@
     "address":"南投縣名間鄉南雅街124號",
     "phone":"049-2737666",
     "departments":"兒科,",
+    "latitude":23.8380605,
+    "longitude":120.7021818,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3934,6 +5005,9 @@
     "address":"南投縣名間鄉新街村彰南路４７０號",
     "phone":"049-2239936",
     "departments":"西醫一般科,",
+    "latitude":23.8795617,
+    "longitude":120.6932271,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3945,6 +5019,9 @@
     "address":"南投縣名間鄉南田路86-16號",
     "phone":"2273525",
     "departments":"西醫一般科,",
+    "latitude":23.8761044,
+    "longitude":120.6563046,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3956,6 +5033,9 @@
     "address":"南投縣名間鄉名松路二段279號",
     "phone":"049-2583777",
     "departments":"內科,",
+    "latitude":23.8358515,
+    "longitude":120.6340912,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3967,6 +5047,9 @@
     "address":"南投縣名間鄉彰南路６５－１號",
     "phone":"049-2735353",
     "departments":"西醫一般科,",
+    "latitude":23.839596,
+    "longitude":120.701402,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3978,6 +5061,9 @@
     "address":"南投縣名間鄉彰南路96之2號1樓",
     "phone":"049-2739909",
     "departments":"眼科,",
+    "latitude":23.8416726,
+    "longitude":120.7004708,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -3989,6 +5075,9 @@
     "address":"南投縣名間鄉員集路１４７－３號",
     "phone":"049-2730781",
     "departments":"牙醫一般科,",
+    "latitude":23.8354257,
+    "longitude":120.7016483,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4000,6 +5089,9 @@
     "address":"南投縣名間鄉員集路126號",
     "phone":"049-2737111",
     "departments":"中醫一般科,",
+    "latitude":23.8356985,
+    "longitude":120.7026906,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4011,6 +5103,9 @@
     "address":"南投縣名間鄉彰南路373之4號",
     "phone":"049-2220918",
     "departments":"中醫一般科,",
+    "latitude":23.875354,
+    "longitude":120.693029,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4022,6 +5117,9 @@
     "address":"南投縣名間鄉濁水村彰南路1-5號",
     "phone":"049-2736531",
     "departments":"牙醫一般科,",
+    "latitude":23.836099,
+    "longitude":120.705147,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4033,6 +5131,9 @@
     "address":"南投縣名間鄉董門巷36號1樓",
     "phone":"0492730988",
     "departments":"西醫一般科,",
+    "latitude":23.8385049,
+    "longitude":120.7002895,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4044,6 +5145,9 @@
     "address":"南投縣名間鄉松山村豐柏路２７－１號",
     "phone":"049-2530030",
     "departments":"牙醫一般科,",
+    "latitude":23.8340835,
+    "longitude":120.6344375,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4055,6 +5159,9 @@
     "address":"南投縣鹿谷鄉中正路二段20號",
     "phone":"049752002",
     "departments":"西醫一般科,",
+    "latitude":23.7448759,
+    "longitude":120.7542366,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4066,6 +5173,9 @@
     "address":"南投縣鹿谷鄉中正路一段55號",
     "phone":"049-2755102",
     "departments":"西醫一般科,",
+    "latitude":23.7383399,
+    "longitude":120.7606413,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4077,6 +5187,9 @@
     "address":"南投縣鹿谷鄉廣興村光復路188號一樓",
     "phone":"049-",
     "departments":"西醫一般科,",
+    "latitude":23.7370179,
+    "longitude":120.76067,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4088,6 +5201,9 @@
     "address":"南投縣鹿谷鄉彰雅村中正路一段324號",
     "phone":"049751753",
     "departments":"西醫一般科,",
+    "latitude":23.7437896,
+    "longitude":120.7551968,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4099,6 +5215,9 @@
     "address":"南投縣中寮鄉永平村永昌街102號",
     "phone":"049-2691404",
     "departments":"西醫一般科,",
+    "latitude":23.8808579,
+    "longitude":120.7655807,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4110,6 +5229,9 @@
     "address":"南投縣中寮鄉永平村永安街188號",
     "phone":"049-2691996",
     "departments":"家庭醫學科,",
+    "latitude":23.8806118,
+    "longitude":120.7644715,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4121,6 +5243,9 @@
     "address":"南投縣中寮鄉龍岩村龍南路196號1F",
     "phone":"049-2601601",
     "departments":"西醫一般科,",
+    "latitude":23.9354128,
+    "longitude":120.7602209,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4132,6 +5257,9 @@
     "address":"南投縣中寮鄉永平村永安街73號1樓",
     "phone":"2692468",
     "departments":"西醫一般科,",
+    "latitude":23.8792589,
+    "longitude":120.7673835,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4143,6 +5271,9 @@
     "address":"南投縣中寮鄉初中巷2-1號",
     "phone":"049-2694988",
     "departments":"西醫一般科,",
+    "latitude":23.8794691,
+    "longitude":120.7648071,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4154,6 +5285,9 @@
     "address":"南投縣中寮鄉永平村永平路２４９號",
     "phone":"049-2694686",
     "departments":"中醫一般科,",
+    "latitude":23.8788384,
+    "longitude":120.7658618,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4165,6 +5299,9 @@
     "address":"南投縣魚池鄉魚池街４００號",
     "phone":"049-2895654",
     "departments":"牙醫一般科,",
+    "latitude":23.897483,
+    "longitude":120.935808,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4176,6 +5313,9 @@
     "address":"南投縣魚池鄉魚池街194號",
     "phone":"049-2895513",
     "departments":"西醫一般科,",
+    "latitude":23.8954991,
+    "longitude":120.9411904,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4187,6 +5327,9 @@
     "address":"南投縣魚池鄉魚池街334巷16號",
     "phone":"049-285139",
     "departments":"西醫一般科,",
+    "latitude":23.897394,
+    "longitude":120.938073,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4198,6 +5341,9 @@
     "address":"南投縣魚池鄉魚池街366號",
     "phone":"049-2896805",
     "departments":"中醫一般科,",
+    "latitude":23.8970267,
+    "longitude":120.9364743,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4209,6 +5355,9 @@
     "address":"南投縣魚池鄉魚池村魚池街392號",
     "phone":"049-2897448",
     "departments":"西醫一般科,",
+    "latitude":23.8973034,
+    "longitude":120.9358939,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4220,6 +5369,9 @@
     "address":"南投縣魚池鄉魚池街125之2號1樓",
     "phone":"049-2898591",
     "departments":"兒科,",
+    "latitude":23.8967478,
+    "longitude":120.9369616,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4231,6 +5383,9 @@
     "address":"南投縣魚池鄉魚池街４６1號",
     "phone":"049-2898918",
     "departments":"牙醫一般科,",
+    "latitude":23.8968131,
+    "longitude":120.9355679,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4242,6 +5397,9 @@
     "address":"南投縣國姓鄉中興路130號1樓",
     "phone":"049-2722778",
     "departments":"西醫一般科,",
+    "latitude":24.0412933,
+    "longitude":120.856601,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4253,6 +5411,9 @@
     "address":"南投縣國姓鄉民族街４２號",
     "phone":"049-2721009",
     "departments":"家庭醫學科,",
+    "latitude":24.037817,
+    "longitude":120.8547007,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4264,6 +5425,9 @@
     "address":"南投縣國姓鄉北山村南港路303號1樓",
     "phone":"049-2452506",
     "departments":"西醫一般科,",
+    "latitude":23.9808068,
+    "longitude":120.8720818,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4275,6 +5439,9 @@
     "address":"南投縣國姓鄉中興路51號",
     "phone":"049-2720507",
     "departments":"婦產科,西醫一般科,",
+    "latitude":24.04266,
+    "longitude":120.8579769,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4286,6 +5453,9 @@
     "address":"南投縣國姓鄉中興路170號1樓",
     "phone":"049-2723391",
     "departments":"中醫一般科,",
+    "latitude":24.0406487,
+    "longitude":120.8560074,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4297,6 +5467,9 @@
     "address":"南投縣國姓鄉國姓村中興路326號",
     "phone":"049-2720147",
     "departments":"牙醫一般科,",
+    "latitude":24.038138,
+    "longitude":120.854015,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4308,6 +5481,9 @@
     "address":"南投縣水里鄉城中村太平街87號",
     "phone":"049-2770757",
     "departments":"中醫一般科,",
+    "latitude":23.8167287,
+    "longitude":120.8519017,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4319,6 +5495,9 @@
     "address":"南投縣水里鄉民權路",
     "phone":"",
     "departments":"耳鼻喉科,",
+    "latitude":23.8178446,
+    "longitude":120.8532288,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4330,6 +5509,9 @@
     "address":"南投縣水里鄉中央村民族路492號",
     "phone":"",
     "departments":"中醫一般科,",
+    "latitude":23.816359,
+    "longitude":120.8534752,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4341,6 +5523,9 @@
     "address":"南投縣水里鄉城中村太平街53號",
     "phone":"049770143",
     "departments":"牙醫一般科,",
+    "latitude":23.8169034,
+    "longitude":120.8526046,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4352,6 +5537,9 @@
     "address":"南投縣水里鄉水里村民權路182號",
     "phone":"049-2778345",
     "departments":"牙醫一般科,",
+    "latitude":23.8179356,
+    "longitude":120.8533965,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4363,6 +5551,9 @@
     "address":"南投縣水里鄉中央村中正路112號",
     "phone":"049_2778563",
     "departments":"牙醫一般科,",
+    "latitude":23.8150199,
+    "longitude":120.8524324,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4374,6 +5565,9 @@
     "address":"南投縣水里鄉民權路272號1F",
     "phone":"049-2770607",
     "departments":"中醫一般科,",
+    "latitude":23.8172047,
+    "longitude":120.8519952,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4385,6 +5579,9 @@
     "address":"南投縣水里鄉民生路387號1樓",
     "phone":"049-2777153",
     "departments":"中醫一般科,",
+    "latitude":23.8169206,
+    "longitude":120.8539756,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4396,6 +5593,9 @@
     "address":"南投縣水里鄉中正路38號",
     "phone":"0492871999",
     "departments":"家庭醫學科,內科,外科,骨科,復健科,",
+    "latitude":23.8178534,
+    "longitude":120.855135,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4407,6 +5607,9 @@
     "address":"南投縣水里鄉博愛路205號",
     "phone":"049-2770079",
     "departments":"家庭醫學科,",
+    "latitude":23.8106061,
+    "longitude":120.8490869,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4418,6 +5621,9 @@
     "address":"南投縣水里鄉民生路126號",
     "phone":"0910546828",
     "departments":"家庭醫學科,外科,",
+    "latitude":23.8116592,
+    "longitude":120.8558233,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4429,6 +5635,9 @@
     "address":"南投縣水里鄉民權路189號",
     "phone":"049-2777799",
     "departments":"眼科,",
+    "latitude":23.8170745,
+    "longitude":120.852055,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4440,6 +5649,9 @@
     "address":"南投縣水里鄉民族路362號1樓",
     "phone":"049-2770000",
     "departments":"家庭醫學科,",
+    "latitude":23.8103942,
+    "longitude":120.8512197,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4451,6 +5663,9 @@
     "address":"南投縣水里鄉民權路210號1樓",
     "phone":"049-2770115",
     "departments":"中醫一般科,",
+    "latitude":23.8177286,
+    "longitude":120.8529897,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4462,6 +5677,9 @@
     "address":"南投縣水里鄉民權路230及232號",
     "phone":"049-2778877",
     "departments":"家庭醫學科,",
+    "latitude":23.8175299,
+    "longitude":120.8526212,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4473,6 +5691,9 @@
     "address":"南投縣水里鄉民生路377號",
     "phone":"049-2770957",
     "departments":"內科,",
+    "latitude":23.8167048,
+    "longitude":120.8540823,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4484,6 +5705,9 @@
     "address":"南投縣水里鄉民族路356號1樓",
     "phone":"0923-829758",
     "departments":"中醫一般科,",
+    "latitude":23.8135719,
+    "longitude":120.8549475,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4495,6 +5719,9 @@
     "address":"南投縣水里鄉民生路201及203號1樓",
     "phone":"049-2776160",
     "departments":"家庭醫學科,",
+    "latitude":23.8115974,
+    "longitude":120.8555602,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4506,6 +5733,9 @@
     "address":"南投縣信義鄉人和村民生巷68號1樓",
     "phone":"049-2777369",
     "departments":"家庭醫學科,",
+    "latitude":23.776443,
+    "longitude":120.896972,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4517,6 +5747,9 @@
     "address":"南投縣信義鄉地利村開信巷121號",
     "phone":"049-274 2321",
     "departments":"家庭醫學科,",
+    "latitude":23.7936588,
+    "longitude":120.9418546,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4528,6 +5761,9 @@
     "address":"南投縣信義鄉同富村同和巷９８－４號",
     "phone":"049-2702055",
     "departments":"牙醫一般科,",
+    "latitude":23.5922908,
+    "longitude":120.8899033,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4539,6 +5775,9 @@
     "address":"南投縣信義鄉玉山路45號",
     "phone":"049-2791148",
     "departments":"西醫一般科,",
+    "latitude":23.696291,
+    "longitude":120.8546711,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4550,6 +5789,9 @@
     "address":"南投縣信義鄉玉山路２９－１號",
     "phone":"049-2792257",
     "departments":"家庭醫學科,",
+    "latitude":23.6958479,
+    "longitude":120.8548906,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4561,6 +5803,9 @@
     "address":"南投縣信義鄉同和巷99號",
     "phone":"049-2702308",
     "departments":"內科,",
+    "latitude":23.5918766,
+    "longitude":120.8894522,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4572,6 +5817,9 @@
     "address":"南投縣信義鄉同富村同和巷67-1號",
     "phone":"702702",
     "departments":"家庭醫學科,",
+    "latitude":23.5922187,
+    "longitude":120.8889101,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4583,6 +5831,9 @@
     "address":"南投縣信義鄉明德村新開巷100號",
     "phone":"049-2791850",
     "departments":"家庭醫學科,",
+    "latitude":23.6961649,
+    "longitude":120.8545858,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4594,6 +5845,9 @@
     "address":"南投縣仁愛鄉大同村五福巷17號",
     "phone":"049-2802341",
     "departments":"西醫一般科,",
+    "latitude":24.0242777,
+    "longitude":121.1343823,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4605,6 +5859,9 @@
     "address":"南投縣仁愛鄉大同村仁和路１08號",
     "phone":"049-2802250",
     "departments":"西醫一般科,",
+    "latitude":24.0229989,
+    "longitude":121.1327019,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4616,6 +5873,9 @@
     "address":"南投縣仁愛鄉大同村仁和路55號",
     "phone":"049-2802188",
     "departments":"家庭醫學科,",
+    "latitude":24.0223388,
+    "longitude":121.1319464,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4627,6 +5887,9 @@
     "address":"南投縣仁愛鄉大同村仁和路148之1號",
     "phone":"0980672206；049-2801823",
     "departments":"內科,",
+    "latitude":24.0234248,
+    "longitude":121.1329337,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   },
@@ -4638,6 +5901,9 @@
     "address":"南投縣仁愛鄉大同村仁和路153號",
     "phone":"049-2802922",
     "departments":"家庭醫學科,",
+    "latitude":24.023173,
+    "longitude":121.132271,
+    "geocode_method":"google_maps_result",
     "source_name":"醫療機構與人員基本資料",
     "source_url":"https:\/\/dep.mohw.gov.tw\/doma\/fp-4926-54415-106.html"
   }

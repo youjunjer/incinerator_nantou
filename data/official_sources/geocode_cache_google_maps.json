@@ -1,0 +1,3052 @@
+{
+  "南投國小 南投縣南投市彰南路一段1059號": {
+    "latitude": 23.9070479,
+    "longitude": 120.68468569999999,
+    "method": "google_maps_result"
+  },
+  "平和國小 南投縣南投市平和里育樂路62號": {
+    "latitude": 23.912623099999998,
+    "longitude": 120.6916297,
+    "method": "google_maps_result"
+  },
+  "新豐國小 南投縣南投市彰南路三段221號": {
+    "latitude": 23.928925,
+    "longitude": 120.6729889,
+    "method": "google_maps_result"
+  },
+  "營盤國小 南投縣南投市營南里營盤路136號": {
+    "latitude": 23.944673899999998,
+    "longitude": 120.67478879999999,
+    "method": "google_maps_result"
+  },
+  "西嶺國小 南投縣南投市鳳鳴里八卦路894號": {
+    "latitude": 23.9250281,
+    "longitude": 120.63850529999999,
+    "method": "google_maps_result"
+  },
+  "德興國小 南投縣南投市內興里中興路200號": {
+    "latitude": 23.932428299999998,
+    "longitude": 120.6929931,
+    "method": "google_maps_result"
+  },
+  "光華國小 南投縣南投市光華里光華四路2號": {
+    "latitude": 23.9527519,
+    "longitude": 120.6914781,
+    "method": "google_maps_result"
+  },
+  "光榮國小 南投縣南投市光榮里八鄰光榮北路19號": {
+    "latitude": 23.9458444,
+    "longitude": 120.69669859999999,
+    "method": "google_maps_result"
+  },
+  "文山國小 南投縣南投市福山里八卦路349號": {
+    "latitude": 23.90636,
+    "longitude": 120.638038,
+    "method": "google_maps_result"
+  },
+  "僑建國小 南投縣南投市彰南路三段847號": {
+    "latitude": 23.9407356,
+    "longitude": 120.6677349,
+    "method": "google_maps_result"
+  },
+  "漳和國小 南投縣南投市文林路16號": {
+    "latitude": 23.9132403,
+    "longitude": 120.67701939999999,
+    "method": "google_maps_result"
+  },
+  "嘉和國小 南投縣南投市彰南路一段639巷80號": {
+    "latitude": 23.8966434,
+    "longitude": 120.6844667,
+    "method": "google_maps_result"
+  },
+  "光復國小 南投縣南投市光明里光明一路67號": {
+    "latitude": 23.9418468,
+    "longitude": 120.70196419999999,
+    "method": "google_maps_result"
+  },
+  "千秋國小 南投縣南投市千秋里千秋路131巷1號": {
+    "latitude": 23.891896499999998,
+    "longitude": 120.7130993,
+    "method": "google_maps_result"
+  },
+  "漳興國小 南投縣南投市復興路669號": {
+    "latitude": 23.918746799999997,
+    "longitude": 120.6812545,
+    "method": "google_maps_result"
+  },
+  "康壽國小 南投縣南投市南陽路269號": {
+    "latitude": 23.913402899999998,
+    "longitude": 120.68668059999999,
+    "method": "google_maps_result"
+  },
+  "埔里國小 南投縣埔里鎮西門里西康路127號": {
+    "latitude": 23.9687466,
+    "longitude": 120.9665366,
+    "method": "google_maps_result"
+  },
+  "南光國小 南投縣埔里鎮杷城里中正路251號": {
+    "latitude": 23.9604225,
+    "longitude": 120.97026819999999,
+    "method": "google_maps_result"
+  },
+  "育英國小 南投縣埔里鎮清新里育英街20號": {
+    "latitude": 23.962412,
+    "longitude": 120.962037,
+    "method": "google_maps_result"
+  },
+  "史港國小 南投縣埔里鎮史港里獅子路9號": {
+    "latitude": 24.0124683,
+    "longitude": 120.9573135,
+    "method": "google_maps_result"
+  },
+  "愛蘭國小 南投縣埔里鎮愛蘭里鐵山路7號": {
+    "latitude": 23.9738549,
+    "longitude": 120.943992,
+    "method": "google_maps_result"
+  },
+  "溪南國小 南投縣埔里鎮溪南里珠生路68號": {
+    "latitude": 23.9477995,
+    "longitude": 120.9556906,
+    "method": "google_maps_result"
+  },
+  "水尾國小 南投縣埔里鎮一新里永豐路92號": {
+    "latitude": 23.998860399999998,
+    "longitude": 120.92965509999999,
+    "method": "google_maps_result"
+  },
+  "桃源國小 南投縣埔里鎮桃米里桃米巷68號": {
+    "latitude": 23.9421361,
+    "longitude": 120.92616939999999,
+    "method": "google_maps_result"
+  },
+  "麒麟國小 南投縣埔里鎮麒麟里武界路7號": {
+    "latitude": 23.931388899999998,
+    "longitude": 120.9902778,
+    "method": "google_maps_result"
+  },
+  "太平國小 南投縣埔里鎮合成里西安路三段167巷35號": {
+    "latitude": 24.026535199999998,
+    "longitude": 120.92171169999999,
+    "method": "google_maps_result"
+  },
+  "忠孝國小 南投縣埔里鎮牛眠里守城路28號": {
+    "latitude": 23.991811,
+    "longitude": 120.979959,
+    "method": "google_maps_result"
+  },
+  "中峰國小 南投縣埔里鎮中山路一段228號": {
+    "latitude": 23.9761608,
+    "longitude": 120.98454579999999,
+    "method": "google_maps_result"
+  },
+  "大成國小 南投縣埔里鎮中山路三段565號": {
+    "latitude": 23.9703004,
+    "longitude": 120.95105699999999,
+    "method": "google_maps_result"
+  },
+  "草屯國小 南投縣草屯鎮玉峰里玉屏路210號": {
+    "latitude": 23.9816808,
+    "longitude": 120.68695919999999,
+    "method": "google_maps_result"
+  },
+  "新庄國小 南投縣草屯鎮新庄里新庄三路32號": {
+    "latitude": 23.994883899999998,
+    "longitude": 120.6679214,
+    "method": "google_maps_result"
+  },
+  "碧峰國小 南投縣草屯鎮碧峰里立人路439號": {
+    "latitude": 23.969859,
+    "longitude": 120.66546729999999,
+    "method": "google_maps_result"
+  },
+  "土城國小 南投縣草屯鎮土城里中正路189號": {
+    "latitude": 23.9843328,
+    "longitude": 120.7428825,
+    "method": "google_maps_result"
+  },
+  "雙冬國小 南投縣草屯鎮雙冬里中正路34號": {
+    "latitude": 23.984444999999997,
+    "longitude": 120.795493,
+    "method": "google_maps_result"
+  },
+  "炎峰國小 南投縣草屯鎮中興路101號": {
+    "latitude": 23.9744913,
+    "longitude": 120.6843782,
+    "method": "google_maps_result"
+  },
+  "中原國小 南投縣草屯鎮中原里坪腳巷20號": {
+    "latitude": 23.9851678,
+    "longitude": 120.72026729999999,
+    "method": "google_maps_result"
+  },
+  "平林國小 南投縣草屯鎮健行路65巷90號": {
+    "latitude": 23.992086,
+    "longitude": 120.762598,
+    "method": "google_maps_result"
+  },
+  "坪頂國小 南投縣草屯鎮坪頂里南坪路40號": {
+    "latitude": 23.9669523,
+    "longitude": 120.73935589999999,
+    "method": "google_maps_result"
+  },
+  "僑光國小 南投縣草屯鎮稻香路20-2號": {
+    "latitude": 23.9939958,
+    "longitude": 120.68664299999999,
+    "method": "google_maps_result"
+  },
+  "北投國小 南投縣草屯鎮北投路文教巷43號": {
+    "latitude": 23.9868024,
+    "longitude": 120.65815549999999,
+    "method": "google_maps_result"
+  },
+  "敦和國小 南投縣草屯鎮敦和路72-6號": {
+    "latitude": 23.9817248,
+    "longitude": 120.6778648,
+    "method": "google_maps_result"
+  },
+  "富功國小 南投縣草屯鎮富寮里中正路567號": {
+    "latitude": 23.979073,
+    "longitude": 120.69824299999999,
+    "method": "google_maps_result"
+  },
+  "虎山國小 南投縣草屯鎮新生路76號": {
+    "latitude": 23.9629889,
+    "longitude": 120.6841639,
+    "method": "google_maps_result"
+  },
+  "竹山國小 南投縣竹山鎮延和里向學街32號": {
+    "latitude": 23.761149399999997,
+    "longitude": 120.6873067,
+    "method": "google_maps_result"
+  },
+  "延平國小 南投縣竹山鎮集山路二段1161號": {
+    "latitude": 23.7683324,
+    "longitude": 120.7079205,
+    "method": "google_maps_result"
+  },
+  "社寮國小 南投縣竹山鎮社寮里集山路一段1723號": {
+    "latitude": 23.810398499999998,
+    "longitude": 120.7218858,
+    "method": "google_maps_result"
+  },
+  "過溪國小 南投縣竹山鎮福興里鯉南路136號": {
+    "latitude": 23.727639699999997,
+    "longitude": 120.66654349999999,
+    "method": "google_maps_result"
+  },
+  "大鞍國小 南投縣竹山鎮大鞍里竹寮巷21號": {
+    "latitude": 23.699319,
+    "longitude": 120.716895,
+    "method": "google_maps_result"
+  },
+  "瑞竹國小 南投縣竹山鎮瑞竹里鯉南路251號": {
+    "latitude": 23.6644285,
+    "longitude": 120.6664297,
+    "method": "google_maps_result"
+  },
+  "秀林國小 南投縣竹山鎮頂林路456號": {
+    "latitude": 23.7332556,
+    "longitude": 120.68884419999999,
+    "method": "google_maps_result"
+  },
+  "雲林國小 南投縣竹山鎮雲林里大明路666號": {
+    "latitude": 23.7562547,
+    "longitude": 120.67827319999999,
+    "method": "google_maps_result"
+  },
+  "鯉魚國小 南投縣竹山鎮鯉魚里鯉行路92號": {
+    "latitude": 23.714406699999998,
+    "longitude": 120.6549728,
+    "method": "google_maps_result"
+  },
+  "桶頭國小 南投縣竹山鎮鯉南路312之1號": {
+    "latitude": 23.646097899999997,
+    "longitude": 120.6565047,
+    "method": "google_maps_result"
+  },
+  "中州國小 南投縣竹山鎮集山路一段955號": {
+    "latitude": 23.812045599999998,
+    "longitude": 120.7381175,
+    "method": "google_maps_result"
+  },
+  "中和國小 南投縣竹山鎮集山路三段1394號": {
+    "latitude": 23.757509,
+    "longitude": 120.66811519999999,
+    "method": "google_maps_result"
+  },
+  "前山國小 南投縣竹山鎮自強路100號": {
+    "latitude": 23.7516432,
+    "longitude": 120.6783792,
+    "method": "google_maps_result"
+  },
+  "集集國小 南投縣集集鎮吳厝里育才街147號": {
+    "latitude": 23.8277778,
+    "longitude": 120.7866667,
+    "method": "google_maps_result"
+  },
+  "隘寮國小 南投縣集集鎮田寮里田寮巷4號": {
+    "latitude": 23.8324641,
+    "longitude": 120.75072689999999,
+    "method": "google_maps_result"
+  },
+  "永昌國小 南投縣集集鎮永昌里東昌巷4號": {
+    "latitude": 23.827258399999998,
+    "longitude": 120.79903259999999,
+    "method": "google_maps_result"
+  },
+  "和平國小 南投縣集集鎮和平里集集街178號": {
+    "latitude": 23.8293075,
+    "longitude": 120.78108209999999,
+    "method": "google_maps_result"
+  },
+  "名間國小 南投縣名間鄉中山村彰南路220號": {
+    "latitude": 23.8445887,
+    "longitude": 120.69775419999999,
+    "method": "google_maps_result"
+  },
+  "新街國小 南投縣名間鄉新街村彰南路375號": {
+    "latitude": 23.8762863,
+    "longitude": 120.6931745,
+    "method": "google_maps_result"
+  },
+  "名崗國小 南投縣名間鄉大坑村南田路222號": {
+    "latitude": 23.8703036,
+    "longitude": 120.64638389999999,
+    "method": "google_maps_result"
+  },
+  "中山國小 南投縣名間鄉名松路一段294號": {
+    "latitude": 23.8362964,
+    "longitude": 120.6623745,
+    "method": "google_maps_result"
+  },
+  "弓鞋國小 南投縣名間鄉名松路二段580號": {
+    "latitude": 23.841733299999998,
+    "longitude": 120.63077779999999,
+    "method": "google_maps_result"
+  },
+  "田豐國小 南投縣名間鄉田仔村田仔巷40號": {
+    "latitude": 23.870041,
+    "longitude": 120.6763251,
+    "method": "google_maps_result"
+  },
+  "僑興國小 南投縣名間鄉東湖村彰南路259號": {
+    "latitude": 23.858785599999997,
+    "longitude": 120.6939034,
+    "method": "google_maps_result"
+  },
+  "新民國小 南投縣名間鄉新民村新民巷43號": {
+    "latitude": 23.820416299999998,
+    "longitude": 120.6867595,
+    "method": "google_maps_result"
+  },
+  "鹿谷國小 南投縣鹿谷鄉鹿谷村中正路2段174號": {
+    "latitude": 23.748884999999998,
+    "longitude": 120.751526,
+    "method": "google_maps_result"
+  },
+  "秀峰國小 南投縣鹿谷鄉秀峰村仁愛路152號": {
+    "latitude": 23.783555,
+    "longitude": 120.777515,
+    "method": "google_maps_result"
+  },
+  "文昌國小 南投縣鹿谷鄉竹林村光復路96號": {
+    "latitude": 23.7276876,
+    "longitude": 120.7548284,
+    "method": "google_maps_result"
+  },
+  "鳳凰國小 南投縣鹿谷鄉鳳凰村仁義路35之1號": {
+    "latitude": 23.742984399999997,
+    "longitude": 120.77998889999999,
+    "method": "google_maps_result"
+  },
+  "內湖國小 南投縣鹿谷鄉內湖村興產路51號": {
+    "latitude": 23.713025,
+    "longitude": 120.780238,
+    "method": "google_maps_result"
+  },
+  "初鄉國小 南投縣鹿谷鄉初鄉村仁愛路259號": {
+    "latitude": 23.7671285,
+    "longitude": 120.737259,
+    "method": "google_maps_result"
+  },
+  "瑞田國小 南投縣鹿谷鄉瑞田村仁愛路80號": {
+    "latitude": 23.8024375,
+    "longitude": 120.7899375,
+    "method": "google_maps_result"
+  },
+  "廣興國小 南投縣鹿谷鄉廣興村興產路97號": {
+    "latitude": 23.735955699999998,
+    "longitude": 120.7643451,
+    "method": "google_maps_result"
+  },
+  "中寮國小 南投縣中寮鄉永平村永平路316號": {
+    "latitude": 23.8798492,
+    "longitude": 120.7639198,
+    "method": "google_maps_result"
+  },
+  "爽文國小 南投縣中寮鄉爽文村龍南路159號": {
+    "latitude": 23.936505,
+    "longitude": 120.76189,
+    "method": "google_maps_result"
+  },
+  "永樂國小 南投縣中寮鄉福盛村永樂路88號": {
+    "latitude": 23.8833506,
+    "longitude": 120.7987338,
+    "method": "google_maps_result"
+  },
+  "永康國小 南投縣中寮鄉永福村仙峰巷44號": {
+    "latitude": 23.886237599999998,
+    "longitude": 120.7397771,
+    "method": "google_maps_result"
+  },
+  "清水國小 南投縣中寮鄉清水村瀧林巷3號": {
+    "latitude": 23.9450343,
+    "longitude": 120.7907225,
+    "method": "google_maps_result"
+  },
+  "至誠國小 南投縣中寮鄉永平路489之1號": {
+    "latitude": 23.8933991,
+    "longitude": 120.720726,
+    "method": "google_maps_result"
+  },
+  "永和國小 南投縣中寮鄉龍南路321之1號": {
+    "latitude": 23.925196999999997,
+    "longitude": 120.73194149999999,
+    "method": "google_maps_result"
+  },
+  "廣福國小 南投縣中寮鄉廣福村內城巷3之2號": {
+    "latitude": 23.8991011,
+    "longitude": 120.7596725,
+    "method": "google_maps_result"
+  },
+  "魚池國小 南投縣魚池鄉魚池村瓊文巷41號": {
+    "latitude": 23.8994234,
+    "longitude": 120.9370534,
+    "method": "google_maps_result"
+  },
+  "頭社國小 南投縣魚池鄉頭社村平和巷105號": {
+    "latitude": 23.8372975,
+    "longitude": 120.9025956,
+    "method": "google_maps_result"
+  },
+  "東光國小 南投縣魚池鄉東光村慶隆巷36號": {
+    "latitude": 23.8906158,
+    "longitude": 120.9666587,
+    "method": "google_maps_result"
+  },
+  "五城國小 南投縣魚池鄉五城村華龍巷1之2號": {
+    "latitude": 23.890552,
+    "longitude": 120.88923199999999,
+    "method": "google_maps_result"
+  },
+  "明潭國小 南投縣魚池鄉水社村中山路190號": {
+    "latitude": 23.8682375,
+    "longitude": 120.9111829,
+    "method": "google_maps_result"
+  },
+  "新城國小 南投縣魚池鄉新城村通文巷7之1號": {
+    "latitude": 23.903865,
+    "longitude": 120.9248403,
+    "method": "google_maps_result"
+  },
+  "伊達邵國小 南投縣魚池鄉日月村中正路211巷1號": {
+    "latitude": 23.8485721,
+    "longitude": 120.9354304,
+    "method": "google_maps_result"
+  },
+  "共和國小 南投縣魚池鄉共和村五馬巷57之1號": {
+    "latitude": 23.9190792,
+    "longitude": 120.9660533,
+    "method": "google_maps_result"
+  },
+  "國姓國小 南投縣國姓鄉石門村國姓路311號": {
+    "latitude": 24.039329499999997,
+    "longitude": 120.85694699999999,
+    "method": "google_maps_result"
+  },
+  "北山國小 南投縣國姓鄉中正路4段119-1號": {
+    "latitude": 23.9809056,
+    "longitude": 120.8766167,
+    "method": "google_maps_result"
+  },
+  "北港國小 南投縣國姓鄉北港村國姓路63號": {
+    "latitude": 24.0575004,
+    "longitude": 120.9111674,
+    "method": "google_maps_result"
+  },
+  "福龜國小 南投縣國姓鄉福龜村長壽巷83號": {
+    "latitude": 24.0115344,
+    "longitude": 120.82242579999999,
+    "method": "google_maps_result"
+  },
+  "長流國小 南投縣國姓鄉長流村大長路559號": {
+    "latitude": 24.066192599999997,
+    "longitude": 120.876193,
+    "method": "google_maps_result"
+  },
+  "南港國小 南投縣國姓鄉南港村南港路112-8號": {
+    "latitude": 23.9503389,
+    "longitude": 120.8692421,
+    "method": "google_maps_result"
+  },
+  "育樂國小 南投縣國姓鄉柑林村中正路2段223號": {
+    "latitude": 24.017804899999998,
+    "longitude": 120.8454136,
+    "method": "google_maps_result"
+  },
+  "長福國小 南投縣國姓鄉長福村大長路71號": {
+    "latitude": 24.093055,
+    "longitude": 120.887346,
+    "method": "google_maps_result"
+  },
+  "乾峰國小 南投縣國姓鄉乾溝村中西巷3號": {
+    "latitude": 24.027842,
+    "longitude": 120.8252871,
+    "method": "google_maps_result"
+  },
+  "水里國小 南投縣水里鄉南光村民族路151號": {
+    "latitude": 23.810295999999997,
+    "longitude": 120.8551512,
+    "method": "google_maps_result"
+  },
+  "郡坑國小 南投縣水里鄉上安村水信路三段303巷8號": {
+    "latitude": 23.7372543,
+    "longitude": 120.85581599999999,
+    "method": "google_maps_result"
+  },
+  "民和國小 南投縣水里鄉民和村文明路70號": {
+    "latitude": 23.7954065,
+    "longitude": 120.93259309999999,
+    "method": "google_maps_result"
+  },
+  "新興國小 南投縣水里鄉新興村新興巷15號": {
+    "latitude": 23.8839275,
+    "longitude": 120.8707982,
+    "method": "google_maps_result"
+  },
+  "永興國小 南投縣水里鄉永興村林朋巷148號": {
+    "latitude": 23.7846244,
+    "longitude": 120.8633497,
+    "method": "google_maps_result"
+  },
+  "成城國小 南投縣水里鄉新城村中山路二段150號": {
+    "latitude": 23.819056999999997,
+    "longitude": 120.84813249999999,
+    "method": "google_maps_result"
+  },
+  "信義國小 南投縣信義鄉明德村玉山路24號": {
+    "latitude": 23.6976412,
+    "longitude": 120.85454089999999,
+    "method": "google_maps_result"
+  },
+  "羅娜國小 南投縣信義鄉羅娜村信筆巷1鄰73號": {
+    "latitude": 23.6278285,
+    "longitude": 120.8706287,
+    "method": "google_maps_result"
+  },
+  "同富國小 南投縣信義鄉同富村同和巷4號": {
+    "latitude": 23.5938889,
+    "longitude": 120.8883333,
+    "method": "google_maps_result"
+  },
+  "愛國國小 南投縣信義鄉愛國村愛國巷108號": {
+    "latitude": 23.6939516,
+    "longitude": 120.8486135,
+    "method": "google_maps_result"
+  },
+  "人和國小 南投縣信義鄉人和村民生巷3號": {
+    "latitude": 23.779366099999997,
+    "longitude": 120.8969528,
+    "method": "google_maps_result"
+  },
+  "地利國小 南投縣信義鄉地利村開信巷17號": {
+    "latitude": 23.794033,
+    "longitude": 120.94335059999999,
+    "method": "google_maps_result"
+  },
+  "東埔國小 南投縣信義鄉東埔村開高巷63號": {
+    "latitude": 23.5619353,
+    "longitude": 120.92762669999999,
+    "method": "google_maps_result"
+  },
+  "潭南國小 南投縣信義鄉潭南村和平巷49號": {
+    "latitude": 23.821336799999997,
+    "longitude": 120.94021269999999,
+    "method": "google_maps_result"
+  },
+  "桐林國小 南投縣信義鄉同富村太平巷18號": {
+    "latitude": 23.5602958,
+    "longitude": 120.8747683,
+    "method": "google_maps_result"
+  },
+  "隆華國小 南投縣信義鄉神木村民和巷65-6號": {
+    "latitude": 23.563043999999998,
+    "longitude": 120.86787,
+    "method": "google_maps_result"
+  },
+  "希娜巴嵐國小 南投縣信義鄉新鄉村新鄉路80號": {
+    "latitude": 23.6400176,
+    "longitude": 120.8695668,
+    "method": "google_maps_result"
+  },
+  "久美國小 南投縣信義鄉望美村美信巷54號": {
+    "latitude": 23.6158333,
+    "longitude": 120.8841667,
+    "method": "google_maps_result"
+  },
+  "雙龍國小 南投縣信義鄉雙龍村光復巷4號": {
+    "latitude": 23.7854,
+    "longitude": 120.950171,
+    "method": "google_maps_result"
+  },
+  "豐丘國小 南投縣信義鄉豐丘村高平巷77號": {
+    "latitude": 23.6698746,
+    "longitude": 120.8748086,
+    "method": "google_maps_result"
+  },
+  "仁愛國小 南投縣仁愛鄉大同村山農巷5號": {
+    "latitude": 24.0208333,
+    "longitude": 121.13333329999999,
+    "method": "google_maps_result"
+  },
+  "親愛國小 南投縣仁愛鄉親愛村高平路3號": {
+    "latitude": 23.9682604,
+    "longitude": 121.1090048,
+    "method": "google_maps_result"
+  },
+  "法治國小 南投縣仁愛鄉法治村界山巷6號": {
+    "latitude": 23.916619999999998,
+    "longitude": 121.046736,
+    "method": "google_maps_result"
+  },
+  "德鹿谷國小 南投縣仁愛鄉德鹿谷村莎都部落一巷46號": {
+    "latitude": 24.0859222,
+    "longitude": 121.2165904,
+    "method": "google_maps_result"
+  },
+  "互助國小 南投縣仁愛鄉互助村中華路19號": {
+    "latitude": 24.063236999999997,
+    "longitude": 120.969669,
+    "method": "google_maps_result"
+  },
+  "力行國小 南投縣仁愛鄉力行村新望洋67號": {
+    "latitude": 24.147989199999998,
+    "longitude": 121.1890945,
+    "method": "google_maps_result"
+  },
+  "南豐國小 南投縣仁愛鄉南豐村楓林路3號": {
+    "latitude": 24.0000355,
+    "longitude": 121.078475,
+    "method": "google_maps_result"
+  },
+  "中正國小 南投縣仁愛鄉中正村平等巷114號": {
+    "latitude": 23.9048207,
+    "longitude": 120.9907348,
+    "method": "google_maps_result"
+  },
+  "廬山國小 南投縣仁愛鄉精英村中華巷19號": {
+    "latitude": 24.0347457,
+    "longitude": 121.1858484,
+    "method": "google_maps_result"
+  },
+  "發祥國小 南投縣仁愛鄉發祥村光復巷24號": {
+    "latitude": 24.123282099999997,
+    "longitude": 121.15772159999999,
+    "method": "google_maps_result"
+  },
+  "萬豐國小 南投縣仁愛鄉萬豐村清華巷8號": {
+    "latitude": 23.947176199999998,
+    "longitude": 121.07593019999999,
+    "method": "google_maps_result"
+  },
+  "都達國小 南投縣仁愛鄉都達村法觀路17號": {
+    "latitude": 24.0594756,
+    "longitude": 121.19197659999999,
+    "method": "google_maps_result"
+  },
+  "春陽國小 南投縣仁愛鄉春陽村永樂巷58號": {
+    "latitude": 24.027804699999997,
+    "longitude": 121.1484864,
+    "method": "google_maps_result"
+  },
+  "紅葉國小 南投縣仁愛鄉發祥村仁盛路70號": {
+    "latitude": 24.159665999999998,
+    "longitude": 121.1771701,
+    "method": "google_maps_result"
+  },
+  "清境國小 南投縣仁愛鄉定遠新村24號": {
+    "latitude": 24.044566999999997,
+    "longitude": 121.15857279999999,
+    "method": "google_maps_result"
+  },
+  "南投國中 南投縣南投市漳和里祖祠路361號": {
+    "latitude": 23.913130199999998,
+    "longitude": 120.6754934,
+    "method": "google_maps_result"
+  },
+  "南崗國中 南投縣南投市大庄路94號": {
+    "latitude": 23.895768699999998,
+    "longitude": 120.6829636,
+    "method": "google_maps_result"
+  },
+  "中興國中 南投縣南投市內興里新興路309號": {
+    "latitude": 23.931568799999997,
+    "longitude": 120.693658,
+    "method": "google_maps_result"
+  },
+  "鳳鳴國中 南投縣南投市鳳鳴里八卦路896號": {
+    "latitude": 23.925248699999997,
+    "longitude": 120.63945059999999,
+    "method": "google_maps_result"
+  },
+  "草屯國中 南投縣草屯鎮炎峰里虎山路808號": {
+    "latitude": 23.9773088,
+    "longitude": 120.685998,
+    "method": "google_maps_result"
+  },
+  "日新國中 南投縣草屯鎮新豐里稻香路45號": {
+    "latitude": 23.9947408,
+    "longitude": 120.6769951,
+    "method": "google_maps_result"
+  },
+  "旭光高中 南投縣草屯鎮中正路568之23號": {
+    "latitude": 23.979521899999998,
+    "longitude": 120.6945993,
+    "method": "google_maps_result"
+  },
+  "埔里國中 南投縣埔里鎮西安路一段193號": {
+    "latitude": 23.968138,
+    "longitude": 120.96847,
+    "method": "google_maps_result"
+  },
+  "宏仁國中 南投縣埔里鎮東門里公園路20號": {
+    "latitude": 23.9614151,
+    "longitude": 120.97281559999999,
+    "method": "google_maps_result"
+  },
+  "大成國中 南投縣埔里鎮大城路169號": {
+    "latitude": 23.9720494,
+    "longitude": 120.9526286,
+    "method": "google_maps_result"
+  },
+  "竹山國中 南投縣竹山鎮中山里竹山路217號": {
+    "latitude": 23.7533668,
+    "longitude": 120.68183459999999,
+    "method": "google_maps_result"
+  },
+  "瑞竹國中 南投縣竹山鎮瑞竹里瑞東巷20號": {
+    "latitude": 23.667516499999998,
+    "longitude": 120.6715814,
+    "method": "google_maps_result"
+  },
+  "延和國中 南投縣竹山鎮鹿山路40號": {
+    "latitude": 23.7604828,
+    "longitude": 120.6950715,
+    "method": "google_maps_result"
+  },
+  "社寮國中 南投縣竹山鎮集山路一段1729號": {
+    "latitude": 23.8087654,
+    "longitude": 120.7204455,
+    "method": "google_maps_result"
+  },
+  "集集國中 南投縣集集鎮集集里成功路200號": {
+    "latitude": 23.831925299999998,
+    "longitude": 120.78436889999999,
+    "method": "google_maps_result"
+  },
+  "中寮國中 南投縣中寮鄉復興村初中巷50號": {
+    "latitude": 23.884147,
+    "longitude": 120.7667965,
+    "method": "google_maps_result"
+  },
+  "爽文國中 南投縣中寮鄉爽文村4 鄰竹坪巷40號": {
+    "latitude": 23.9340457,
+    "longitude": 120.7623977,
+    "method": "google_maps_result"
+  },
+  "名間國中 南投縣名間鄉中山村彰南路237號": {
+    "latitude": 23.844905999999998,
+    "longitude": 120.6951144,
+    "method": "google_maps_result"
+  },
+  "三光國中 南投縣名間鄉新光村名山路50號": {
+    "latitude": 23.8502778,
+    "longitude": 120.66916669999999,
+    "method": "google_maps_result"
+  },
+  "水里國中 南投縣水里鄉民生路68號": {
+    "latitude": 23.8104697,
+    "longitude": 120.8568926,
+    "method": "google_maps_result"
+  },
+  "民和國中 南投縣水里鄉民和村中學路29號": {
+    "latitude": 23.7990131,
+    "longitude": 120.91784659999999,
+    "method": "google_maps_result"
+  },
+  "魚池國中 南投縣魚池鄉魚池村魚池街441-6號": {
+    "latitude": 23.8943691,
+    "longitude": 120.9317932,
+    "method": "google_maps_result"
+  },
+  "明潭國中 南投縣魚池鄉中山路190號": {
+    "latitude": 23.8676601,
+    "longitude": 120.9104448,
+    "method": "google_maps_result"
+  },
+  "鹿谷國中 南投縣鹿谷鄉彰雅村仁義路94之1號": {
+    "latitude": 23.7490928,
+    "longitude": 120.7589191,
+    "method": "google_maps_result"
+  },
+  "瑞峰國中 南投縣鹿谷鄉仁愛路154之1號": {
+    "latitude": 23.7826308,
+    "longitude": 120.7758379,
+    "method": "google_maps_result"
+  },
+  "國姓國中 南投縣國姓鄉石門村國姓路237號": {
+    "latitude": 24.042665,
+    "longitude": 120.858612,
+    "method": "google_maps_result"
+  },
+  "北山國中 南投縣國姓鄉北山村中正路四段157號": {
+    "latitude": 23.980476499999998,
+    "longitude": 120.87333439999999,
+    "method": "google_maps_result"
+  },
+  "北梅國中 南投縣國姓鄉北港村國姓路62號": {
+    "latitude": 24.0572269,
+    "longitude": 120.91164619999999,
+    "method": "google_maps_result"
+  },
+  "仁愛國中 南投縣仁愛鄉大同村信義巷28號": {
+    "latitude": 24.0317914,
+    "longitude": 121.141863,
+    "method": "google_maps_result"
+  },
+  "信義國中 南投縣信義鄉玉山路20號": {
+    "latitude": 23.6964893,
+    "longitude": 120.85385889999999,
+    "method": "google_maps_result"
+  },
+  "同富國中 南投縣信義鄉同富村同和巷7號": {
+    "latitude": 23.595129999999997,
+    "longitude": 120.88740039999999,
+    "method": "google_maps_result"
+  },
+  "營北國中 南投縣南投市營北里向上路2號": {
+    "latitude": 23.9522405,
+    "longitude": 120.686685,
+    "method": "google_maps_result"
+  },
+  "財團法人南投縣私立南投仁愛之家 54058南投縣南投市三興里39鄰民族路617號": {
+    "latitude": 23.905501599999997,
+    "longitude": 120.67593769999999,
+    "method": "google_maps_result"
+  },
+  "財團法人南投縣私立傑瑞社會福利基金 會附設南投縣私立傑瑞老人之家 54059南投縣南投市三興里31鄰嶺興路210-3號": {
+    "latitude": 23.900581,
+    "longitude": 120.658079,
+    "method": "google_maps_result"
+  },
+  "南投縣私立仁和長期照顧中心 54065南投縣南投市平山里仁和路14號": {
+    "latitude": 23.9234926,
+    "longitude": 120.67278859999999,
+    "method": "google_maps_result"
+  },
+  "南投縣私立千恩老人長期照顧中心(養護型) 54059南投縣南投市彰和里40鄰文化路322號": {
+    "latitude": 23.9102288,
+    "longitude": 120.6753183,
+    "method": "google_maps_result"
+  },
+  "南投縣私立東山長期照顧中心 54052南投縣南投市東山里2鄰東山路13之1號": {
+    "latitude": 23.9231366,
+    "longitude": 120.7158372,
+    "method": "google_maps_result"
+  },
+  "南投縣私立寶優老人養護中心 54252南投縣草屯鎮新豐里6鄰稻香路25-27號": {
+    "latitude": 23.9985166,
+    "longitude": 120.68602039999999,
+    "method": "google_maps_result"
+  },
+  "南投縣私立保生長期照顧中心(養護型) 54254南投縣草屯鎮敦和里33鄰博愛路689號": {
+    "latitude": 23.9873019,
+    "longitude": 120.67590899999999,
+    "method": "google_maps_result"
+  },
+  "南投縣私立博愛長期照顧中心 54256南投縣草屯鎮明正里29鄰博愛路470號": {
+    "latitude": 23.9859468,
+    "longitude": 120.684134,
+    "method": "google_maps_result"
+  },
+  "南投縣私立尚德老人養護中心 55148南投縣名間鄉東湖村2鄰山腳巷54-20號": {
+    "latitude": 23.8660019,
+    "longitude": 120.7046285,
+    "method": "google_maps_result"
+  },
+  "南投縣祥和老人養護中心 55148南投縣名間鄉東湖村15鄰彰南路256-1巷100號": {
+    "latitude": 23.8552136,
+    "longitude": 120.6988823,
+    "method": "google_maps_result"
+  },
+  "南投縣私立同心居老人養護中心 55141南投縣竹山鎮雲林里33鄰大仁路199巷2號": {
+    "latitude": 23.7572551,
+    "longitude": 120.672952,
+    "method": "google_maps_result"
+  },
+  "南投縣私立淨慧長期照護中心 55794南投縣竹山鎮社寮里8鄰田中巷58號": {
+    "latitude": 23.8172592,
+    "longitude": 120.7241694,
+    "method": "google_maps_result"
+  },
+  "南投縣私立慈愛老人養護中心 55757南投縣竹山鎮雲林里34鄰大勇路21號": {
+    "latitude": 23.7573534,
+    "longitude": 120.67453859999999,
+    "method": "google_maps_result"
+  },
+  "南投縣私立億安養護中心 55751南投縣竹山鎮延和里4鄰大和街258號": {
+    "latitude": 23.7640806,
+    "longitude": 120.6938606,
+    "method": "google_maps_result"
+  },
+  "南投縣私立佳尚好長期照顧中心(養護型) 54063南投縣南投市彰南路2段672巷65號": {
+    "latitude": 23.923132,
+    "longitude": 120.67872299999999,
+    "method": "google_maps_result"
+  },
+  "福山診所 南投縣南投市福山里八卦路507號1樓": {
+    "latitude": 23.9122499,
+    "longitude": 120.6381076,
+    "method": "google_maps_result"
+  },
+  "怡和內科診所 南投縣南投市復興路99-3號": {
+    "latitude": 23.903936899999998,
+    "longitude": 120.687737,
+    "method": "google_maps_result"
+  },
+  "盧牙醫診所 南投縣南投市中山街２４８號": {
+    "latitude": 23.9106731,
+    "longitude": 120.6845359,
+    "method": "google_maps_result"
+  },
+  "廖牙醫診所 南投縣南投市文昌街８４號": {
+    "latitude": 23.9074106,
+    "longitude": 120.68609289999999,
+    "method": "google_maps_result"
+  },
+  "慧和牙醫診所 南投縣南投市三和二路三號": {
+    "latitude": 23.9045517,
+    "longitude": 120.6904964,
+    "method": "google_maps_result"
+  },
+  "陳子柔牙醫診所 南投縣南投市彰南路二段366號": {
+    "latitude": 23.9153859,
+    "longitude": 120.67978799999999,
+    "method": "google_maps_result"
+  },
+  "子泰診所 南投縣南投市南崗二路298號1樓": {
+    "latitude": 23.913027,
+    "longitude": 120.678218,
+    "method": "google_maps_result"
+  },
+  "曾俊傑診所 南投縣南投市大同街１巷２號": {
+    "latitude": 23.9061093,
+    "longitude": 120.6882728,
+    "method": "google_maps_result"
+  },
+  "楊聰明診所 南投縣南投市復興路373號": {
+    "latitude": 23.9116863,
+    "longitude": 120.68520629999999,
+    "method": "google_maps_result"
+  },
+  "新協合聯合診所 南投縣南投市三和二路105號": {
+    "latitude": 23.9036916,
+    "longitude": 120.68684789999999,
+    "method": "google_maps_result"
+  },
+  "嘉欣診所 南投縣南投市彰南路一段937號1樓": {
+    "latitude": 23.9026805,
+    "longitude": 120.68597059999999,
+    "method": "google_maps_result"
+  },
+  "何耳鼻喉科診所 南投縣南投市民族路258號": {
+    "latitude": 23.909002899999997,
+    "longitude": 120.6872049,
+    "method": "google_maps_result"
+  },
+  "蔡長志診所 南投縣南投市三和二路63號": {
+    "latitude": 23.904124,
+    "longitude": 120.688468,
+    "method": "google_maps_result"
+  },
+  "光振診所 南投縣南投市大同街１７４號": {
+    "latitude": 23.9097419,
+    "longitude": 120.687585,
+    "method": "google_maps_result"
+  },
+  "陳文裕內兒科診所 南投縣南投市復興路159號": {
+    "latitude": 23.906365599999997,
+    "longitude": 120.6872228,
+    "method": "google_maps_result"
+  },
+  "聰安耳鼻喉科診所 南投縣南投市復興路191號": {
+    "latitude": 23.906917099999998,
+    "longitude": 120.6871482,
+    "method": "google_maps_result"
+  },
+  "李澤霖耳鼻喉科診所 南投縣南投市文昌街98號": {
+    "latitude": 23.9074363,
+    "longitude": 120.68561969999999,
+    "method": "google_maps_result"
+  },
+  "楊鎮安診所 南投縣南投市民生街47號": {
+    "latitude": 23.9098243,
+    "longitude": 120.68476869999999,
+    "method": "google_maps_result"
+  },
+  "劉外科診所 南投縣南投市三和二路85號": {
+    "latitude": 23.903813,
+    "longitude": 120.687541,
+    "method": "google_maps_result"
+  },
+  "許內兒科診所 南投縣南投市民族路280號": {
+    "latitude": 23.9088094,
+    "longitude": 120.6868228,
+    "method": "google_maps_result"
+  },
+  "陳外科診所 南投縣南投市中山街238號": {
+    "latitude": 23.9104642,
+    "longitude": 120.68479629999999,
+    "method": "google_maps_result"
+  },
+  "眾安診所 南投縣南投市文昌街75號": {
+    "latitude": 23.907248199999998,
+    "longitude": 120.68674689999999,
+    "method": "google_maps_result"
+  },
+  "馨生婦產科小兒科診所 南投縣南投市中山街14巷13號1.2.3.5樓，15號1-2樓": {
+    "latitude": 23.9055909,
+    "longitude": 120.68695059999999,
+    "method": "google_maps_result"
+  },
+  "德林婦產科診所(德林聯合門診) 南投縣南投市民族路165-1號": {
+    "latitude": 23.909548899999997,
+    "longitude": 120.6898918,
+    "method": "google_maps_result"
+  },
+  "徐紹倍皮膚科診所 南投縣南投市中興路620-2號": {
+    "latitude": 23.9040975,
+    "longitude": 120.6907007,
+    "method": "google_maps_result"
+  },
+  "陳祖永眼科診所 南投縣南投市復興路96-2號1F": {
+    "latitude": 23.9040557,
+    "longitude": 120.68805719999999,
+    "method": "google_maps_result"
+  },
+  "得生診所 南投縣南投市民族路325號": {
+    "latitude": 23.9077447,
+    "longitude": 120.6848035,
+    "method": "google_maps_result"
+  },
+  "建華中醫診所 南投縣南投市公園南街101號1樓": {
+    "latitude": 23.9035709,
+    "longitude": 120.69003339999999,
+    "method": "google_maps_result"
+  },
+  "一心堂中醫診所 南投縣南投市復興路257號": {
+    "latitude": 23.9089931,
+    "longitude": 120.6863449,
+    "method": "google_maps_result"
+  },
+  "名淵內兒科診所 南投縣南投市民族路244號": {
+    "latitude": 23.909050999999998,
+    "longitude": 120.6875153,
+    "method": "google_maps_result"
+  },
+  "英仁外科診所 南投縣南投市玉井街98號": {
+    "latitude": 23.9115874,
+    "longitude": 120.6850008,
+    "method": "google_maps_result"
+  },
+  "黃子卿小兒科診所 南投縣南投市民族路123號1-2樓": {
+    "latitude": 23.9099242,
+    "longitude": 120.69082809999999,
+    "method": "google_maps_result"
+  },
+  "惠良精神科診所 南投縣南投市大同南街24號1F": {
+    "latitude": 23.9034169,
+    "longitude": 120.6891412,
+    "method": "google_maps_result"
+  },
+  "平安診所 南投縣南投市八德路376號1樓": {
+    "latitude": 23.908506199999998,
+    "longitude": 120.63709089999999,
+    "method": "google_maps_result"
+  },
+  "幼安小兒科診所 南投縣南投市民族路243號": {
+    "latitude": 23.9087443,
+    "longitude": 120.68740299999999,
+    "method": "google_maps_result"
+  },
+  "福氣中醫診所 南投縣南投市仁德路136號1樓": {
+    "latitude": 23.9423131,
+    "longitude": 120.69222459999999,
+    "method": "google_maps_result"
+  },
+  "建安中醫診所 南投縣南投市中山街16號": {
+    "latitude": 23.9056397,
+    "longitude": 120.6866929,
+    "method": "google_maps_result"
+  },
+  "禾安中醫診所 南投縣南投市民族路260號1樓": {
+    "latitude": 23.908922099999998,
+    "longitude": 120.68727109999999,
+    "method": "google_maps_result"
+  },
+  "富康中醫診所 南投縣南投市祖祠路275號1F": {
+    "latitude": 23.9143315,
+    "longitude": 120.67815239999999,
+    "method": "google_maps_result"
+  },
+  "詠欣牙醫診所 南投縣南投市民族路150號1至2樓": {
+    "latitude": 23.9100096,
+    "longitude": 120.69036919999999,
+    "method": "google_maps_result"
+  },
+  "立德牙醫診所 南投縣南投市大同南街2-2號": {
+    "latitude": 23.9030582,
+    "longitude": 120.68920999999999,
+    "method": "google_maps_result"
+  },
+  "南投縣南投市衛生所 南投縣南投市三和一路13號": {
+    "latitude": 23.902588599999998,
+    "longitude": 120.6887489,
+    "method": "google_maps_result"
+  },
+  "陳加偉耳鼻喉科診所 南投縣南投市復興路109號": {
+    "latitude": 23.9048269,
+    "longitude": 120.6875329,
+    "method": "google_maps_result"
+  },
+  "景聖耳鼻喉科診所 南投縣南投市中興路502-1號": {
+    "latitude": 23.9085793,
+    "longitude": 120.6918321,
+    "method": "google_maps_result"
+  },
+  "宜民牙醫診所 南投縣南投市漳興里復興路493號": {
+    "latitude": 23.9148799,
+    "longitude": 120.6837832,
+    "method": "google_maps_result"
+  },
+  "芸禾中醫診所 南投縣南投市平和里民族路98號1樓": {
+    "latitude": 23.910292899999998,
+    "longitude": 120.69142219999999,
+    "method": "google_maps_result"
+  },
+  "尚恩親子耳鼻喉科診所 南投縣南投市三和里公園南街3號1樓": {
+    "latitude": 23.906142499999998,
+    "longitude": 120.6896024,
+    "method": "google_maps_result"
+  },
+  "詠祥中醫診所 南投縣南投市中山街191、193號1樓": {
+    "latitude": 23.9094718,
+    "longitude": 120.6853969,
+    "method": "google_maps_result"
+  },
+  "坤融中醫診所 南投縣南投市中山街154號1F": {
+    "latitude": 23.908863999999998,
+    "longitude": 120.68605,
+    "method": "google_maps_result"
+  },
+  "希望牙醫診所 南投縣南投市三和里大同南街85號": {
+    "latitude": 23.9050521,
+    "longitude": 120.688547,
+    "method": "google_maps_result"
+  },
+  "彰化基督教醫療財團法人南投基督教醫院 南投縣南投市中興路870號": {
+    "latitude": 23.898894499999997,
+    "longitude": 120.6839696,
+    "method": "google_maps_result"
+  },
+  "忠聖診所 南投縣南投市中山街195號1F": {
+    "latitude": 23.9096656,
+    "longitude": 120.68538029999999,
+    "method": "google_maps_result"
+  },
+  "隆安中醫診所 南投縣南投市彰南路二段8號1F": {
+    "latitude": 23.908369,
+    "longitude": 120.685026,
+    "method": "google_maps_result"
+  },
+  "鑽石牙醫診所 南投縣南投市中興路566號": {
+    "latitude": 23.906083499999998,
+    "longitude": 120.69037469999999,
+    "method": "google_maps_result"
+  },
+  "中心診所 南投縣南投市彰南路二段50號": {
+    "latitude": 23.9093807,
+    "longitude": 120.6846156,
+    "method": "google_maps_result"
+  },
+  "寶嶸診所 南投縣南投市民族路120號1樓": {
+    "latitude": 23.9102246,
+    "longitude": 120.6909948,
+    "method": "google_maps_result"
+  },
+  "德林內科診所(德林聯合門診) 南投縣南投市民族路165-1號": {
+    "latitude": 23.909548899999997,
+    "longitude": 120.6898918,
+    "method": "google_maps_result"
+  },
+  "順安中醫診所 南投縣南投市大同街149號": {
+    "latitude": 23.909364099999998,
+    "longitude": 120.68746669999999,
+    "method": "google_maps_result"
+  },
+  "義德診所 南投縣南投市彰南路二段１５號": {
+    "latitude": 23.9084511,
+    "longitude": 120.6847337,
+    "method": "google_maps_result"
+  },
+  "萬寶堂中醫診所 南投縣南投市中興路628號": {
+    "latitude": 23.904024,
+    "longitude": 120.6906851,
+    "method": "google_maps_result"
+  },
+  "亞中診所 南投縣南投市復興路307號": {
+    "latitude": 23.910029899999998,
+    "longitude": 120.68594999999999,
+    "method": "google_maps_result"
+  },
+  "健華牙醫診所 南投縣南投市民族路5號": {
+    "latitude": 23.9106943,
+    "longitude": 120.69346739999999,
+    "method": "google_maps_result"
+  },
+  "農安診所 南投縣南投市文昌街": {
+    "latitude": 23.906986,
+    "longitude": 120.6876406,
+    "method": "google_maps_result"
+  },
+  "維康中醫診所 南投縣南投市三和一路87號1樓": {
+    "latitude": 23.9082843,
+    "longitude": 120.6822409,
+    "method": "google_maps_center"
+  },
+  "永吉診所 南投縣南投市民生街35號": {
+    "latitude": 23.9098637,
+    "longitude": 120.6850789,
+    "method": "google_maps_result"
+  },
+  "蔡良迪診所 南投縣南投市中學西路85號": {
+    "latitude": 23.9460952,
+    "longitude": 120.6913021,
+    "method": "google_maps_result"
+  },
+  "淵源診所 南投縣南投市民族路300號": {
+    "latitude": 23.908687099999998,
+    "longitude": 120.6863035,
+    "method": "google_maps_result"
+  },
+  "衛生福利部南投醫院 南投縣南投市復興路478號": {
+    "latitude": 23.914007899999998,
+    "longitude": 120.6849431,
+    "method": "google_maps_result"
+  },
+  "祐川牙醫診所 南投縣南投市民權街５６號": {
+    "latitude": 23.909863899999998,
+    "longitude": 120.68725789999999,
+    "method": "google_maps_result"
+  },
+  "立大牙醫診所 南投縣南投市南陽路369號": {
+    "latitude": 23.912996999999997,
+    "longitude": 120.683129,
+    "method": "google_maps_result"
+  },
+  "杏蓉牙醫診所 南投縣南投市南崗三路60號": {
+    "latitude": 23.9275935,
+    "longitude": 120.66924979999999,
+    "method": "google_maps_result"
+  },
+  "統一牙醫診所 南投縣南投市龍井街２７號": {
+    "latitude": 23.9081442,
+    "longitude": 120.6881758,
+    "method": "google_maps_result"
+  },
+  "安泰牙醫診所 南投縣南投市中山街14巷17號": {
+    "latitude": 23.9057389,
+    "longitude": 120.68706399999999,
+    "method": "google_maps_result"
+  },
+  "華信牙醫診所 南投縣南投市三和二路８６號": {
+    "latitude": 23.9039489,
+    "longitude": 120.6863748,
+    "method": "google_maps_result"
+  },
+  "日新牙醫診所 南投縣南投市集賢路18號": {
+    "latitude": 23.9049831,
+    "longitude": 120.6847166,
+    "method": "google_maps_result"
+  },
+  "仁和牙醫診所 南投縣南投市彰南路二段364號": {
+    "latitude": 23.915351899999997,
+    "longitude": 120.67981289999999,
+    "method": "google_maps_result"
+  },
+  "康雅牙醫診所 南投縣南投市大同街3號": {
+    "latitude": 23.906096899999998,
+    "longitude": 120.688234,
+    "method": "google_maps_result"
+  },
+  "同慶中醫診所 南投縣南投市文昌街５７號1樓、地下1樓": {
+    "latitude": 23.907230199999997,
+    "longitude": 120.6873653,
+    "method": "google_maps_result"
+  },
+  "陳清隆中醫診所 南投縣南投市中山街１４巷２１號": {
+    "latitude": 23.905757299999998,
+    "longitude": 120.6871305,
+    "method": "google_maps_result"
+  },
+  "仁愛中醫診所 南投縣南投市彰南路一段943號": {
+    "latitude": 23.9028521,
+    "longitude": 120.6860004,
+    "method": "google_maps_result"
+  },
+  "惠生中醫診所 南投縣南投市漳和里彰南路二段４７９號": {
+    "latitude": 23.9170373,
+    "longitude": 120.6782533,
+    "method": "google_maps_result"
+  },
+  "德安中醫診所 南投縣南投市彰南路二段510號": {
+    "latitude": 23.918406599999997,
+    "longitude": 120.6782875,
+    "method": "google_maps_result"
+  },
+  "合德中醫診所 南投縣南投市中興路608號": {
+    "latitude": 23.905006099999998,
+    "longitude": 120.69055859999999,
+    "method": "google_maps_result"
+  },
+  "一品堂中醫診所 南投縣南投市復興路78號1樓": {
+    "latitude": 23.9036631,
+    "longitude": 120.6880765,
+    "method": "google_maps_result"
+  },
+  "仲治診所 南投縣南投市集賢路58號1樓": {
+    "latitude": 23.904804799999997,
+    "longitude": 120.68386199999999,
+    "method": "google_maps_result"
+  },
+  "現代牙醫診所 南投縣南投市彰南路二段３２８號": {
+    "latitude": 23.9145382,
+    "longitude": 120.6803947,
+    "method": "google_maps_result"
+  },
+  "中興大愛中醫診所 南投縣南投市營北里學藝路5號": {
+    "latitude": 23.950312,
+    "longitude": 120.6890875,
+    "method": "google_maps_result"
+  },
+  "李月瑛小兒科診所 南投縣南投市復興路88號": {
+    "latitude": 23.903846899999998,
+    "longitude": 120.688099,
+    "method": "google_maps_result"
+  },
+  "全美牙醫診所 南投縣南投市南陽路486號": {
+    "latitude": 23.9120143,
+    "longitude": 120.68112629999999,
+    "method": "google_maps_result"
+  },
+  "佑昇牙醫診所 南投縣南投市復興路８０號": {
+    "latitude": 23.903686999999998,
+    "longitude": 120.688136,
+    "method": "google_maps_result"
+  },
+  "新和牙醫診所 南投縣南投市信義街13、15號": {
+    "latitude": 23.9109512,
+    "longitude": 120.6918142,
+    "method": "google_maps_result"
+  },
+  "致遠身心科診所 南投縣南投市南陽路415號1樓": {
+    "latitude": 23.912575999999998,
+    "longitude": 120.68214599999999,
+    "method": "google_maps_result"
+  },
+  "元和堂中醫診所 南投縣南投市仁德路五十七號": {
+    "latitude": 23.943282999999997,
+    "longitude": 120.6939738,
+    "method": "google_maps_result"
+  },
+  "大千診所 南投縣南投市復興路99-4號": {
+    "latitude": 23.9039652,
+    "longitude": 120.6878261,
+    "method": "google_maps_result"
+  },
+  "簡美華眼科診所 南投縣南投市三和二路39號": {
+    "latitude": 23.904248,
+    "longitude": 120.68918989999999,
+    "method": "google_maps_result"
+  },
+  "詹建盛診所 南投縣南投市南陽路475號": {
+    "latitude": 23.911583399999998,
+    "longitude": 120.6811796,
+    "method": "google_maps_result"
+  },
+  "黃皮膚科診所 南投縣南投市復興路９１號": {
+    "latitude": 23.9036722,
+    "longitude": 120.6878943,
+    "method": "google_maps_result"
+  },
+  "梁力仁診所 南投縣南投市彰南路二段400號1樓": {
+    "latitude": 23.916116199999998,
+    "longitude": 120.67910099999999,
+    "method": "google_maps_result"
+  },
+  "南投縣慢性病防治所 南投縣南投市三和一路15號": {
+    "latitude": 23.902520499999998,
+    "longitude": 120.6884832,
+    "method": "google_maps_result"
+  },
+  "泰全診所 南投縣南投市大同南街30號": {
+    "latitude": 23.903718599999998,
+    "longitude": 120.6890313,
+    "method": "google_maps_result"
+  },
+  "馬冠中內科診所 南投縣南投市復興路84號": {
+    "latitude": 23.903766899999997,
+    "longitude": 120.68811799999999,
+    "method": "google_maps_result"
+  },
+  "生元中醫診所 南投縣南投市三興里集賢路31號": {
+    "latitude": 23.9046552,
+    "longitude": 120.6846209,
+    "method": "google_maps_result"
+  },
+  "佳成小兒科診所 南投縣南投市集賢路34號1樓": {
+    "latitude": 23.905002,
+    "longitude": 120.6843162,
+    "method": "google_maps_result"
+  },
+  "明光眼科診所 南投縣南投市中山街14巷23號": {
+    "latitude": 23.905772,
+    "longitude": 120.68723,
+    "method": "google_maps_result"
+  },
+  "聖恩中醫診所 南投縣南投市嘉和北路17、19號1樓": {
+    "latitude": 23.9008215,
+    "longitude": 120.6864691,
+    "method": "google_maps_result"
+  },
+  "福樂診所 南投縣埔里鎮和平東路413號": {
+    "latitude": 23.9707856,
+    "longitude": 120.9770222,
+    "method": "google_maps_result"
+  },
+  "一弘診所 南投縣埔里鎮中正一路22號": {
+    "latitude": 23.968688699999998,
+    "longitude": 120.963933,
+    "method": "google_maps_result"
+  },
+  "童小兒家醫科聯合診所 南投縣埔里鎮中正路408號": {
+    "latitude": 23.9648985,
+    "longitude": 120.967806,
+    "method": "google_maps_result"
+  },
+  "江診所 南投縣埔里鎮中山路二段３８６號": {
+    "latitude": 23.9640187,
+    "longitude": 120.9659896,
+    "method": "google_maps_result"
+  },
+  "黃正誠診所 南投縣埔里鎮西安路一段76號": {
+    "latitude": 23.965406299999998,
+    "longitude": 120.9658666,
+    "method": "google_maps_result"
+  },
+  "泰源診所 南投縣埔里鎮中山路三段１２８號": {
+    "latitude": 23.966898099999998,
+    "longitude": 120.962689,
+    "method": "google_maps_result"
+  },
+  "詹診所 南投縣埔里鎮北辰街1號": {
+    "latitude": 23.963677,
+    "longitude": 120.9718575,
+    "method": "google_maps_result"
+  },
+  "安泰診所 南投縣埔里鎮中正路460號": {
+    "latitude": 23.966631099999997,
+    "longitude": 120.9658173,
+    "method": "google_maps_result"
+  },
+  "南投縣埔里鎮衛生所 南投縣埔里鎮中山路二段256號": {
+    "latitude": 23.9671117,
+    "longitude": 120.9685859,
+    "method": "google_maps_result"
+  },
+  "自然牙醫診所 南投縣埔里鎮中山路三段341號1F": {
+    "latitude": 23.9688306,
+    "longitude": 120.9565293,
+    "method": "google_maps_result"
+  },
+  "首茗中醫診所 南投縣埔里鎮東華路120號1樓": {
+    "latitude": 23.9640268,
+    "longitude": 120.96998719999999,
+    "method": "google_maps_result"
+  },
+  "晟瑞中醫診所 南投縣埔里鎮信義路335巷1號1樓": {
+    "latitude": 23.9727244,
+    "longitude": 120.9685586,
+    "method": "google_maps_result"
+  },
+  "賴雅雲眼科診所(張大川聯合診所) 南投縣埔里鎮中山路三段89號1樓": {
+    "latitude": 23.966082399999998,
+    "longitude": 120.9633283,
+    "method": "google_maps_result"
+  },
+  "春日部牙醫診所 南投縣埔里鎮清新里南興街258號1樓": {
+    "latitude": 23.9636799,
+    "longitude": 120.9646789,
+    "method": "google_maps_result"
+  },
+  "南華中醫診所 南投縣埔里鎮中正路633、635號1樓": {
+    "latitude": 23.9734409,
+    "longitude": 120.9627561,
+    "method": "google_maps_result"
+  },
+  "普仁診所 南投縣埔里鎮一新里東峰路19號": {
+    "latitude": 24.0028221,
+    "longitude": 120.94560399999999,
+    "method": "google_maps_result"
+  },
+  "黃稚晴診所 南投縣埔里鎮南昌街198號1樓": {
+    "latitude": 23.9658037,
+    "longitude": 120.96522929999999,
+    "method": "google_maps_result"
+  },
+  "許瑞娟診所 南投縣埔里鎮西安路一段80號": {
+    "latitude": 23.9655482,
+    "longitude": 120.96594599999999,
+    "method": "google_maps_result"
+  },
+  "埔基醫療財團法人埔里基督教醫院 南投縣埔里鎮鐵山路一號": {
+    "latitude": 23.970487,
+    "longitude": 120.9463085,
+    "method": "google_maps_result"
+  },
+  "得恩診所 南投縣埔里鎮中正一路１６２號": {
+    "latitude": 23.9711641,
+    "longitude": 120.9671934,
+    "method": "google_maps_result"
+  },
+  "濟生中醫診所 南投縣埔里鎮中正路４３５號": {
+    "latitude": 23.9656342,
+    "longitude": 120.96656759999999,
+    "method": "google_maps_result"
+  },
+  "民生中醫診所 南投縣埔里鎮民生路137號1樓": {
+    "latitude": 23.9601382,
+    "longitude": 120.96269919999999,
+    "method": "google_maps_result"
+  },
+  "悠然中醫診所 南投縣埔里鎮八德路378號1樓": {
+    "latitude": 23.9711379,
+    "longitude": 120.963348,
+    "method": "google_maps_result"
+  },
+  "廣菩診所 南投縣埔里鎮北安里2鄰中山路二段140號1樓": {
+    "latitude": 23.968814,
+    "longitude": 120.971583,
+    "method": "google_maps_result"
+  },
+  "十方中醫診所 南投縣埔里鎮西安路一段333號1樓": {
+    "latitude": 23.973075599999998,
+    "longitude": 120.969504,
+    "method": "google_maps_result"
+  },
+  "大眾中醫診所 南投縣埔里鎮南昌街202號": {
+    "latitude": 23.965847399999998,
+    "longitude": 120.965226,
+    "method": "google_maps_result"
+  },
+  "元濟中醫診所 南投縣埔里鎮八德路243號1樓": {
+    "latitude": 23.9713615,
+    "longitude": 120.966867,
+    "method": "google_maps_result"
+  },
+  "普仁中醫診所 南投縣埔里鎮東峰路19號": {
+    "latitude": 24.0028221,
+    "longitude": 120.94560399999999,
+    "method": "google_maps_result"
+  },
+  "李振明診所 南投縣埔里鎮中山路二段355號": {
+    "latitude": 23.9639571,
+    "longitude": 120.96640099999999,
+    "method": "google_maps_result"
+  },
+  "裕生中醫診所 南投縣埔里鎮四維路26-1號1樓": {
+    "latitude": 23.9641342,
+    "longitude": 120.97096289999999,
+    "method": "google_maps_result"
+  },
+  "全民牙醫診所 南投縣埔里鎮中山路三段９２號": {
+    "latitude": 23.9661598,
+    "longitude": 120.9634385,
+    "method": "google_maps_result"
+  },
+  "呂外科診所 南投縣埔里鎮中山路二段３３１號": {
+    "latitude": 23.964613699999997,
+    "longitude": 120.96688959999999,
+    "method": "google_maps_result"
+  },
+  "隆昇中醫診所 南投縣埔里鎮隆生路81號": {
+    "latitude": 23.9598975,
+    "longitude": 120.9679214,
+    "method": "google_maps_result"
+  },
+  "金生診所 南投縣埔里鎮西安路一段88號": {
+    "latitude": 23.965682299999997,
+    "longitude": 120.96613389999999,
+    "method": "google_maps_result"
+  },
+  "惠承診所 南投縣埔里鎮和平東路417號1樓": {
+    "latitude": 23.970940499999998,
+    "longitude": 120.97687169999999,
+    "method": "google_maps_result"
+  },
+  "維美診所 南投縣埔里鎮信義路1041號1樓": {
+    "latitude": 23.9708714,
+    "longitude": 120.95664459999999,
+    "method": "google_maps_result"
+  },
+  "陳立強診所 南投縣埔里鎮中正路431號": {
+    "latitude": 23.9655028,
+    "longitude": 120.966736,
+    "method": "google_maps_result"
+  },
+  "悅心診所 南投縣埔里鎮中華路194號1樓": {
+    "latitude": 23.9700845,
+    "longitude": 120.9729855,
+    "method": "google_maps_result"
+  },
+  "芸通耳鼻喉科診所 南投縣埔里鎮南昌街232號": {
+    "latitude": 23.966764899999998,
+    "longitude": 120.9642914,
+    "method": "google_maps_result"
+  },
+  "臺中榮民總醫院埔里分院 南投縣埔里鎮蜈蚣里榮光路1號": {
+    "latitude": 23.975811999999998,
+    "longitude": 120.99580239999999,
+    "method": "google_maps_result"
+  },
+  "平安中醫診所 南投縣埔里鎮八德路12-2號": {
+    "latitude": 23.971557,
+    "longitude": 120.97111299999999,
+    "method": "google_maps_result"
+  },
+  "王婦產科診所 南投縣埔里鎮西康路64號": {
+    "latitude": 23.9660069,
+    "longitude": 120.96459499999999,
+    "method": "google_maps_result"
+  },
+  "陳宏麟診所 南投縣埔里鎮南門里南昌街221號1樓": {
+    "latitude": 23.9664708,
+    "longitude": 120.96434339999999,
+    "method": "google_maps_result"
+  },
+  "晨洋診所 南投縣埔里鎮忠孝路300號1樓": {
+    "latitude": 23.965380999999997,
+    "longitude": 120.97385779999999,
+    "method": "google_maps_result"
+  },
+  "育成診所 南投縣埔里鎮南昌街196號1樓": {
+    "latitude": 23.9658174,
+    "longitude": 120.9653175,
+    "method": "google_maps_result"
+  },
+  "黎俊奇診所 南投縣埔里鎮中正路464號": {
+    "latitude": 23.9667913,
+    "longitude": 120.96584829999999,
+    "method": "google_maps_result"
+  },
+  "新仁愛診所 南投縣埔里鎮中正路427號": {
+    "latitude": 23.9655022,
+    "longitude": 120.9667353,
+    "method": "google_maps_result"
+  },
+  "安杏診所 南投縣埔里鎮中山路三段100號": {
+    "latitude": 23.966343,
+    "longitude": 120.96324399999999,
+    "method": "google_maps_result"
+  },
+  "東海牙醫診所 南投縣埔里鎮信義路３５６號": {
+    "latitude": 23.973439,
+    "longitude": 120.968143,
+    "method": "google_maps_result"
+  },
+  "永昇牙醫診所 南投縣埔里鎮中山路二段３３６號": {
+    "latitude": 23.9648705,
+    "longitude": 120.9668286,
+    "method": "google_maps_result"
+  },
+  "醫療財團法人台灣血液基金會台中捐血中心埔里捐血站 南投縣埔里鎮北環路222號": {
+    "latitude": 23.970554099999998,
+    "longitude": 120.967765,
+    "method": "google_maps_result"
+  },
+  "慶生婦產科診所 南投縣埔里鎮中正路452號": {
+    "latitude": 23.966482799999998,
+    "longitude": 120.9659904,
+    "method": "google_maps_result"
+  },
+  "惠安診所 南投縣埔里鎮西安路一段70號1.2F": {
+    "latitude": 23.9651925,
+    "longitude": 120.9656388,
+    "method": "google_maps_result"
+  },
+  "普仁牙醫診所 南投縣埔里鎮東峰路19號": {
+    "latitude": 24.0028221,
+    "longitude": 120.94560399999999,
+    "method": "google_maps_result"
+  },
+  "祐安小兒科診所 南投縣埔里鎮中正路395號1F": {
+    "latitude": 23.964686,
+    "longitude": 120.9677279,
+    "method": "google_maps_result"
+  },
+  "福康中醫診所 南投縣埔里鎮中山路二段79號": {
+    "latitude": 23.970340999999998,
+    "longitude": 120.9751179,
+    "method": "google_maps_result"
+  },
+  "聖惠牙醫診所 南投縣埔里鎮南興街243號": {
+    "latitude": 23.9633403,
+    "longitude": 120.9647114,
+    "method": "google_maps_result"
+  },
+  "懷恩牙醫診所 南投縣埔里鎮東門里東榮路202號": {
+    "latitude": 23.9655398,
+    "longitude": 120.96979139999999,
+    "method": "google_maps_result"
+  },
+  "成安牙醫診所 南投縣埔里鎮忠孝路３5 3號": {
+    "latitude": 23.965143599999998,
+    "longitude": 120.97581819999999,
+    "method": "google_maps_result"
+  },
+  "東華牙醫診所 南投縣埔里鎮東華路７７號": {
+    "latitude": 23.9630248,
+    "longitude": 120.9686,
+    "method": "google_maps_result"
+  },
+  "中心牙醫診所 南投縣埔里鎮中山路二段１３３之１號１Ｆ": {
+    "latitude": 23.969065699999998,
+    "longitude": 120.97282109999999,
+    "method": "google_maps_result"
+  },
+  "人安內科診所 南投縣埔里鎮中正路402號": {
+    "latitude": 23.9648276,
+    "longitude": 120.9678491,
+    "method": "google_maps_result"
+  },
+  "聖光小兒科診所 南投縣埔里鎮南昌街160號": {
+    "latitude": 23.9650493,
+    "longitude": 120.96618369999999,
+    "method": "google_maps_result"
+  },
+  "昱安復健科診所 南投縣埔里鎮中山路三段39號": {
+    "latitude": 23.9653165,
+    "longitude": 120.9641338,
+    "method": "google_maps_result"
+  },
+  "長榮診所 南投縣埔里鎮忠孝路329號": {
+    "latitude": 23.965111,
+    "longitude": 120.9752,
+    "method": "google_maps_result"
+  },
+  "莊眼科診所 南投縣埔里鎮中山路二段349號": {
+    "latitude": 23.9642353,
+    "longitude": 120.96638569999999,
+    "method": "google_maps_result"
+  },
+  "劉春輝診所 南投縣埔里鎮南昌街190號": {
+    "latitude": 23.965708799999998,
+    "longitude": 120.9653833,
+    "method": "google_maps_result"
+  },
+  "李眼科診所 南投縣埔里鎮中山路2段182號1樓": {
+    "latitude": 23.968256099999998,
+    "longitude": 120.97073239999999,
+    "method": "google_maps_result"
+  },
+  "安麗小兒科內科診所 南投縣埔里鎮中山路二段262號": {
+    "latitude": 23.966535999999998,
+    "longitude": 120.9686388,
+    "method": "google_maps_result"
+  },
+  "台大建村皮膚科診所 南投縣埔里鎮中華路250號1F": {
+    "latitude": 23.9715238,
+    "longitude": 120.9720387,
+    "method": "google_maps_result"
+  },
+  "張大川耳鼻喉科診所(張大川聯合診所) 南投縣埔里鎮中山路三段87號1樓": {
+    "latitude": 23.966062599999997,
+    "longitude": 120.96329809999999,
+    "method": "google_maps_result"
+  },
+  "幸生診所 南投縣埔里鎮中山路二段247之1號": {
+    "latitude": 23.9663456,
+    "longitude": 120.9687391,
+    "method": "google_maps_result"
+  },
+  "慈惠診所 南投縣埔里鎮西安路一段126號": {
+    "latitude": 23.9685272,
+    "longitude": 120.9659099,
+    "method": "google_maps_result"
+  },
+  "日光診所 南投縣埔里鎮忠孝路31號1樓": {
+    "latitude": 23.9609433,
+    "longitude": 120.96866589999999,
+    "method": "google_maps_result"
+  },
+  "智全中醫診所 南投縣埔里鎮南興街297號": {
+    "latitude": 23.9642537,
+    "longitude": 120.96368059999999,
+    "method": "google_maps_result"
+  },
+  "錫安診所 南投縣埔里鎮北辰街119號1樓": {
+    "latitude": 23.967754,
+    "longitude": 120.96751929999999,
+    "method": "google_maps_result"
+  },
+  "郭佳隴診所 南投縣埔里鎮中正路563號1樓": {
+    "latitude": 23.9714308,
+    "longitude": 120.96344099999999,
+    "method": "google_maps_result"
+  },
+  "新興小兒科診所 南投縣埔里鎮中山路二段135-1號1樓": {
+    "latitude": 23.969082999999998,
+    "longitude": 120.9726195,
+    "method": "google_maps_result"
+  },
+  "施治寰中醫診所 南投縣埔里鎮南昌街１８３號": {
+    "latitude": 23.9655328,
+    "longitude": 120.9653273,
+    "method": "google_maps_result"
+  },
+  "冠雲中醫診所 南投縣埔里鎮中山路二段３５１號": {
+    "latitude": 23.964289899999997,
+    "longitude": 120.96663079999999,
+    "method": "google_maps_result"
+  },
+  "麗緻牙醫診所 南投縣埔里鎮西門里中正路432-2號1、2樓": {
+    "latitude": 23.9659683,
+    "longitude": 120.9667291,
+    "method": "google_maps_result"
+  },
+  "埔渼牙醫診所 南投縣埔里鎮中華路77號": {
+    "latitude": 23.9666903,
+    "longitude": 120.9740466,
+    "method": "google_maps_result"
+  },
+  "名家牙醫診所 南投縣埔里鎮東榮路82號": {
+    "latitude": 23.9631989,
+    "longitude": 120.967191,
+    "method": "google_maps_result"
+  },
+  "仁仲牙醫診所 南投縣埔里鎮東華路９4號": {
+    "latitude": 23.9631658,
+    "longitude": 120.96902469999999,
+    "method": "google_maps_result"
+  },
+  "大權牙醫診所 南投縣草屯鎮明正 里忠孝街408號": {
+    "latitude": 23.984658,
+    "longitude": 120.6812921,
+    "method": "google_maps_result"
+  },
+  "衛生福利部草屯療養院 南投縣草屯鎮玉屏路１６１號": {
+    "latitude": 23.989882299999998,
+    "longitude": 120.7045641,
+    "method": "google_maps_result"
+  },
+  "豐本中醫診所 南投縣草屯鎮碧山路18號1樓": {
+    "latitude": 23.9779739,
+    "longitude": 120.6873581,
+    "method": "google_maps_result"
+  },
+  "文華牙醫診所 南投縣草屯鎮中山里草溪路1049號": {
+    "latitude": 23.9776542,
+    "longitude": 120.6817411,
+    "method": "google_maps_result"
+  },
+  "弘泰安牙醫診所 南投縣草屯鎮中正路１５１６號": {
+    "latitude": 23.998925999999997,
+    "longitude": 120.6902339,
+    "method": "google_maps_result"
+  },
+  "惠家診所 南投縣草屯鎮平等街169號": {
+    "latitude": 23.984673299999997,
+    "longitude": 120.68551289999999,
+    "method": "google_maps_result"
+  },
+  "元真中醫診所 南投縣草屯鎮東美街105號1樓": {
+    "latitude": 23.9810597,
+    "longitude": 120.68537239999999,
+    "method": "google_maps_result"
+  },
+  "草屯長庚中醫診所 南投縣草屯鎮芬草路一段30、32號1樓": {
+    "latitude": 23.982606999999998,
+    "longitude": 120.68400109999999,
+    "method": "google_maps_result"
+  },
+  "安心復健科診所 南投縣草屯鎮中興路138號1~2樓": {
+    "latitude": 23.9740194,
+    "longitude": 120.6840713,
+    "method": "google_maps_result"
+  },
+  "加州美學診所 南投縣草屯鎮虎山路535號1樓": {
+    "latitude": 23.9699994,
+    "longitude": 120.6868298,
+    "method": "google_maps_result"
+  },
+  "佳仁堂中醫診所 南投縣草屯鎮中正路685、687號1F": {
+    "latitude": 23.9797388,
+    "longitude": 120.68422899999999,
+    "method": "google_maps_result"
+  },
+  "尚德診所 南投縣草屯鎮自由街134巷24號1F": {
+    "latitude": 23.9846124,
+    "longitude": 120.68496359999999,
+    "method": "google_maps_result"
+  },
+  "簡仲謀牙醫診所 南投縣草屯鎮虎山路５２２號": {
+    "latitude": 23.969428999999998,
+    "longitude": 120.6871446,
+    "method": "google_maps_result"
+  },
+  "蔡文雄診所 南投縣草屯鎮富昌路２－１號": {
+    "latitude": 23.9784185,
+    "longitude": 120.6974853,
+    "method": "google_maps_result"
+  },
+  "品康耳鼻喉科診所 南投縣草屯鎮和平里育英街200號": {
+    "latitude": 23.9768646,
+    "longitude": 120.6835591,
+    "method": "google_maps_result"
+  },
+  "佳佳診所 南投縣草屯鎮平和里明賢街66號": {
+    "latitude": 23.975863999999998,
+    "longitude": 120.683252,
+    "method": "google_maps_result"
+  },
+  "育英診所 南投縣草屯鎮和興三街２４號": {
+    "latitude": 23.976213899999998,
+    "longitude": 120.68466509999999,
+    "method": "google_maps_result"
+  },
+  "保和牙醫診所 南投縣草屯鎮虎山路122號": {
+    "latitude": 23.9604976,
+    "longitude": 120.68548039999999,
+    "method": "google_maps_result"
+  },
+  "鴻濟中醫診所 南投縣草屯鎮碧山南路112-1號": {
+    "latitude": 23.978251999999998,
+    "longitude": 120.67835799999999,
+    "method": "google_maps_result"
+  },
+  "張國治耳鼻喉科診所 南投縣草屯鎮中山街２７５號": {
+    "latitude": 23.9798419,
+    "longitude": 120.68307689999999,
+    "method": "google_maps_result"
+  },
+  "王診所 南投縣草屯鎮太平路二段231號": {
+    "latitude": 23.9747249,
+    "longitude": 120.68345699999999,
+    "method": "google_maps_result"
+  },
+  "宏駿牙醫診所 南投縣草屯鎮芬草路一段129號": {
+    "latitude": 23.983881399999998,
+    "longitude": 120.68241069999999,
+    "method": "google_maps_result"
+  },
+  "聖明中醫診所 南投縣草屯鎮碧山南路30號": {
+    "latitude": 23.978187,
+    "longitude": 120.68087999999999,
+    "method": "google_maps_result"
+  },
+  "蒼生中醫診所 南投縣草屯鎮草溪路９５９號": {
+    "latitude": 23.9850815,
+    "longitude": 120.6778681,
+    "method": "google_maps_result"
+  },
+  "陳宏源診所 南投縣草屯鎮太平路一段445號": {
+    "latitude": 23.9664656,
+    "longitude": 120.68214669999999,
+    "method": "google_maps_result"
+  },
+  "信安牙醫診所 南投縣草屯鎮中山街281號": {
+    "latitude": 23.9799015,
+    "longitude": 120.68308999999999,
+    "method": "google_maps_result"
+  },
+  "草屯陳診所 南投縣草屯鎮太平路二段２２８號1-2樓": {
+    "latitude": 23.976018399999997,
+    "longitude": 120.68396129999999,
+    "method": "google_maps_result"
+  },
+  "仁民診所 南投縣草屯鎮虎山路１２６號": {
+    "latitude": 23.960853699999998,
+    "longitude": 120.685437,
+    "method": "google_maps_result"
+  },
+  "林俊杰小兒科診所 南投縣草屯鎮中山街195號": {
+    "latitude": 23.978254399999997,
+    "longitude": 120.6827943,
+    "method": "google_maps_result"
+  },
+  "匡美牙醫診所 南投縣草屯鎮中正路567之3號": {
+    "latitude": 23.9789796,
+    "longitude": 120.69866739999999,
+    "method": "google_maps_result"
+  },
+  "仁德牙醫診所 南投縣草屯鎮碧山路634號": {
+    "latitude": 23.978026,
+    "longitude": 120.67492639999999,
+    "method": "google_maps_result"
+  },
+  "洪日宏中醫診所 南投縣草屯鎮太平路一段503號": {
+    "latitude": 23.967731999999998,
+    "longitude": 120.682441,
+    "method": "google_maps_result"
+  },
+  "王崇儒中醫診所 南投縣草屯鎮中興路379號": {
+    "latitude": 23.9758162,
+    "longitude": 120.68882169999999,
+    "method": "google_maps_result"
+  },
+  "宏昌中醫診所 南投縣草屯鎮虎山路827號": {
+    "latitude": 23.9761629,
+    "longitude": 120.6857697,
+    "method": "google_maps_result"
+  },
+  "永安中醫診所 南投縣草屯鎮明賢街一段28號": {
+    "latitude": 23.9755313,
+    "longitude": 120.68691989999999,
+    "method": "google_maps_result"
+  },
+  "洪明本婦產科診所 南投縣草屯鎮虎山路897號": {
+    "latitude": 23.978264,
+    "longitude": 120.68571499999999,
+    "method": "google_maps_result"
+  },
+  "寶仁復健科診所 南投縣草屯鎮草溪路993號1至2樓": {
+    "latitude": 23.9765306,
+    "longitude": 120.6812994,
+    "method": "google_maps_result"
+  },
+  "林牙醫診所 南投縣草屯鎮虎山路１３４號": {
+    "latitude": 23.9609041,
+    "longitude": 120.6854072,
+    "method": "google_maps_result"
+  },
+  "沐熙牙醫診所 南投縣草屯鎮芬草路一段177號1樓、2樓": {
+    "latitude": 23.9852156,
+    "longitude": 120.68096299999999,
+    "method": "google_maps_result"
+  },
+  "益泉牙醫診所 南投縣草屯鎮和興三街20號1樓": {
+    "latitude": 23.9761892,
+    "longitude": 120.68466249999999,
+    "method": "google_maps_result"
+  },
+  "惠和醫院 南投縣草屯鎮平等街140號": {
+    "latitude": 23.9847733,
+    "longitude": 120.6859284,
+    "method": "google_maps_result"
+  },
+  "向陽中醫診所 南投縣草屯鎮富中路198號1樓": {
+    "latitude": 23.9736795,
+    "longitude": 120.7043853,
+    "method": "google_maps_result"
+  },
+  "開明堂中醫診所 南投縣草屯鎮太平路一段460號1.2樓": {
+    "latitude": 23.967349799999997,
+    "longitude": 120.6826603,
+    "method": "google_maps_result"
+  },
+  "勝美牙醫診所 南投縣草屯鎮青雲街３２號": {
+    "latitude": 23.979792999999997,
+    "longitude": 120.68588,
+    "method": "google_maps_result"
+  },
+  "育全牙醫診所 南投縣草屯鎮中山街１７７號": {
+    "latitude": 23.977696899999998,
+    "longitude": 120.6827199,
+    "method": "google_maps_result"
+  },
+  "森洲牙醫診所 南投縣草屯鎮建國街２９號": {
+    "latitude": 23.9798242,
+    "longitude": 120.68533049999999,
+    "method": "google_maps_result"
+  },
+  "林政德牙醫診所 南投縣草屯鎮虎山路７９０號": {
+    "latitude": 23.976231,
+    "longitude": 120.685983,
+    "method": "google_maps_result"
+  },
+  "白牙醫診所 南投縣草屯鎮太平路二段２００號": {
+    "latitude": 23.9740579,
+    "longitude": 120.68361589999999,
+    "method": "google_maps_result"
+  },
+  "泰誠牙醫診所 南投縣草屯鎮中正路６27號": {
+    "latitude": 23.97891,
+    "longitude": 120.685299,
+    "method": "google_maps_result"
+  },
+  "安麗牙醫診所 南投縣草屯鎮山腳里新富路159號": {
+    "latitude": 23.9692138,
+    "longitude": 120.68351279999999,
+    "method": "google_maps_result"
+  },
+  "上揚牙醫診所 南投縣草屯鎮碧山南路42號": {
+    "latitude": 23.978219,
+    "longitude": 120.68002299999999,
+    "method": "google_maps_result"
+  },
+  "江舜生牙醫診所 南投縣草屯鎮東美街105號3樓": {
+    "latitude": 23.9810597,
+    "longitude": 120.68537239999999,
+    "method": "google_maps_result"
+  },
+  "聖恩牙醫診所 南投縣草屯鎮中正路638號": {
+    "latitude": 23.9791259,
+    "longitude": 120.6848845,
+    "method": "google_maps_result"
+  },
+  "巧傑牙醫診所 南投縣草屯鎮虎山路825號": {
+    "latitude": 23.976123899999997,
+    "longitude": 120.6857703,
+    "method": "google_maps_result"
+  },
+  "展維牙醫診所 南投縣草屯鎮中正路747號": {
+    "latitude": 23.981154999999998,
+    "longitude": 120.68441,
+    "method": "google_maps_result"
+  },
+  "吳英滄診所 南投縣草屯鎮太平路二段93、95號1樓": {
+    "latitude": 23.9715618,
+    "longitude": 120.6830402,
+    "method": "google_maps_result"
+  },
+  "群和診所 南投縣草屯鎮新豐路728巷36號1F": {
+    "latitude": 24.003379799999998,
+    "longitude": 120.67909999999999,
+    "method": "google_maps_result"
+  },
+  "洪瑞成小兒科診所 南投縣草屯鎮中山街36號及38號1F": {
+    "latitude": 23.9750671,
+    "longitude": 120.6826093,
+    "method": "google_maps_result"
+  },
+  "英全診所 南投縣草屯鎮炎峰街14-2號": {
+    "latitude": 23.979882999999997,
+    "longitude": 120.6864909,
+    "method": "google_maps_result"
+  },
+  "草鞋墩神經外科診所 南投縣草屯鎮太平路二段28號1.2樓": {
+    "latitude": 23.9701377,
+    "longitude": 120.6831031,
+    "method": "google_maps_result"
+  },
+  "聖方小兒科診所 南投縣草屯鎮碧山南路21號1樓": {
+    "latitude": 23.9779767,
+    "longitude": 120.68110999999999,
+    "method": "google_maps_result"
+  },
+  "姚美輝骨科外科診所 南投縣草屯鎮太平路二段207號": {
+    "latitude": 23.973708,
+    "longitude": 120.6832834,
+    "method": "google_maps_result"
+  },
+  "小太陽小兒科診所 南投縣草屯鎮虎山路786號": {
+    "latitude": 23.9761432,
+    "longitude": 120.6859896,
+    "method": "google_maps_result"
+  },
+  "簡國仁診所 南投縣草屯鎮中山街184號": {
+    "latitude": 23.977799599999997,
+    "longitude": 120.6829533,
+    "method": "google_maps_result"
+  },
+  "現代眼科診所 南投縣草屯鎮中正路602之1號": {
+    "latitude": 23.979087999999997,
+    "longitude": 120.686585,
+    "method": "google_maps_result"
+  },
+  "滄浪診所 南投縣草屯鎮中山街２４２號": {
+    "latitude": 23.9791709,
+    "longitude": 120.68321689999999,
+    "method": "google_maps_result"
+  },
+  "李耳鼻喉科診所 南投縣草屯鎮育英街１８７號": {
+    "latitude": 23.9767115,
+    "longitude": 120.68345009999999,
+    "method": "google_maps_result"
+  },
+  "光陽診所 南投縣草屯鎮太平路二段274號": {
+    "latitude": 23.977177899999997,
+    "longitude": 120.6842389,
+    "method": "google_maps_result"
+  },
+  "恆元中醫診所 南投縣草屯鎮草溪路１０１１號": {
+    "latitude": 23.976834,
+    "longitude": 120.6814569,
+    "method": "google_maps_result"
+  },
+  "錦林診所 南投縣草屯鎮虎山路７３６號": {
+    "latitude": 23.9749746,
+    "longitude": 120.6859583,
+    "method": "google_maps_result"
+  },
+  "許智淵牙科診所 南投縣草屯鎮仁愛街68號": {
+    "latitude": 23.9799132,
+    "longitude": 120.67889679999999,
+    "method": "google_maps_result"
+  },
+  "謝立中聯合診所 南投縣草屯鎮碧山南路13號": {
+    "latitude": 23.977940999999998,
+    "longitude": 120.68124789999999,
+    "method": "google_maps_result"
+  },
+  "信基牙醫診所 南投縣草屯鎮虎山路６91號": {
+    "latitude": 23.9732454,
+    "longitude": 120.68597869999999,
+    "method": "google_maps_result"
+  },
+  "永盛中醫診所 南投縣草屯鎮中山街120號1樓": {
+    "latitude": 23.976144599999998,
+    "longitude": 120.68274699999999,
+    "method": "google_maps_result"
+  },
+  "陳俊義耳鼻喉科診所 南投縣草屯鎮明賢街10號": {
+    "latitude": 23.9756856,
+    "longitude": 120.68544949999999,
+    "method": "google_maps_result"
+  },
+  "祐幼小兒科診所 南投縣草屯鎮虎山路746號": {
+    "latitude": 23.9751953,
+    "longitude": 120.6859731,
+    "method": "google_maps_result"
+  },
+  "恩典牙醫診所 南投縣草屯鎮太平路二段175號": {
+    "latitude": 23.9730113,
+    "longitude": 120.68319849999999,
+    "method": "google_maps_result"
+  },
+  "培恭診所 南投縣草屯鎮虎山路788號": {
+    "latitude": 23.976191,
+    "longitude": 120.685986,
+    "method": "google_maps_result"
+  },
+  "宏安耳鼻喉科診所 南投縣草屯鎮中正路670號": {
+    "latitude": 23.979404,
+    "longitude": 120.684456,
+    "method": "google_maps_result"
+  },
+  "陳國楨內兒科診所 南投縣草屯鎮虎山路509號": {
+    "latitude": 23.9690419,
+    "longitude": 120.6869495,
+    "method": "google_maps_result"
+  },
+  "大雅診所 南投縣草屯鎮南埔里中正路233-12號": {
+    "latitude": 23.9794466,
+    "longitude": 120.72263149999999,
+    "method": "google_maps_result"
+  },
+  "草屯中醫診所 南投縣草屯鎮中興路290號1、2樓": {
+    "latitude": 23.9738094,
+    "longitude": 120.68762219999999,
+    "method": "google_maps_result"
+  },
+  "東陽牙醫診所 南投縣草屯鎮虎山路１７９－１號": {
+    "latitude": 23.9616299,
+    "longitude": 120.68508849999999,
+    "method": "google_maps_result"
+  },
+  "嘉信眼科診所 南投縣草屯鎮太平路二段117號1、2樓": {
+    "latitude": 23.9719035,
+    "longitude": 120.6830162,
+    "method": "google_maps_result"
+  },
+  "蔡文龍診所 南投縣草屯鎮炎峰街94號": {
+    "latitude": 23.9810747,
+    "longitude": 120.6858566,
+    "method": "google_maps_result"
+  },
+  "李內兒科診所 南投縣草屯鎮中正路733號": {
+    "latitude": 23.98086,
+    "longitude": 120.6844175,
+    "method": "google_maps_result"
+  },
+  "賜安診所 南投縣草屯鎮中山街277號": {
+    "latitude": 23.979888199999998,
+    "longitude": 120.68308379999999,
+    "method": "google_maps_result"
+  },
+  "邱哲煌皮膚科診所 南投縣草屯鎮中正路771號": {
+    "latitude": 23.9816699,
+    "longitude": 120.68446499999999,
+    "method": "google_maps_result"
+  },
+  "泰安婦產科診所 南投縣草屯鎮中正路608號": {
+    "latitude": 23.9791299,
+    "longitude": 120.68616519999999,
+    "method": "google_maps_result"
+  },
+  "戴偉竣皮膚科診所 南投縣草屯鎮草溪路1026號": {
+    "latitude": 23.9769059,
+    "longitude": 120.68188869999999,
+    "method": "google_maps_result"
+  },
+  "鼎真牙醫診所 南投縣草屯鎮中正路800號1.2F": {
+    "latitude": 23.9823001,
+    "longitude": 120.68503199999999,
+    "method": "google_maps_result"
+  },
+  "為國眼科診所 南投縣草屯鎮草溪路978號1-2樓": {
+    "latitude": 23.976362599999998,
+    "longitude": 120.68146089999999,
+    "method": "google_maps_result"
+  },
+  "達文西診所 南投縣草屯鎮太平路一段255號1及2樓": {
+    "latitude": 23.9620134,
+    "longitude": 120.6815037,
+    "method": "google_maps_result"
+  },
+  "紐約牙醫診所 南投縣草屯鎮中興路152號": {
+    "latitude": 23.977994499999998,
+    "longitude": 120.67486249999999,
+    "method": "google_maps_result"
+  },
+  "彌陀中醫診所 南投縣草屯鎮虎山路37號": {
+    "latitude": 23.9585232,
+    "longitude": 120.6847451,
+    "method": "google_maps_result"
+  },
+  "林洸燁小兒科診所 南投縣草屯鎮中正路６２６號": {
+    "latitude": 23.979124499999998,
+    "longitude": 120.68534609999999,
+    "method": "google_maps_result"
+  },
+  "洪啟芬診所 南投縣草屯鎮中正路1222號": {
+    "latitude": 23.992669,
+    "longitude": 120.68838,
+    "method": "google_maps_result"
+  },
+  "杏哲診所 南投縣草屯鎮玉屏路43-13號": {
+    "latitude": 23.9971553,
+    "longitude": 120.71898589999999,
+    "method": "google_maps_result"
+  },
+  "用心生活診所 南投縣草屯鎮育英街101號1樓": {
+    "latitude": 23.976523,
+    "longitude": 120.68650799999999,
+    "method": "google_maps_result"
+  },
+  "協安診所 南投縣草屯鎮玉峯里炎峰街84號1樓": {
+    "latitude": 23.980924899999998,
+    "longitude": 120.68597489999999,
+    "method": "google_maps_result"
+  },
+  "登科中醫診所 南投縣草屯鎮中山街269號": {
+    "latitude": 23.979759899999998,
+    "longitude": 120.6830684,
+    "method": "google_maps_result"
+  },
+  "永隆中醫診所 南投縣草屯鎮太平路1段95-1號1-2樓": {
+    "latitude": 23.9583037,
+    "longitude": 120.68097569999999,
+    "method": "google_maps_result"
+  },
+  "言臻中醫診所 南投縣草屯鎮太平路2段198號1樓": {
+    "latitude": 23.973819499999998,
+    "longitude": 120.6835952,
+    "method": "google_maps_result"
+  },
+  "白奇憲診所 南投縣草屯鎮中山街154、156號1樓": {
+    "latitude": 23.9772121,
+    "longitude": 120.6828608,
+    "method": "google_maps_result"
+  },
+  "安馨牙醫診所 南投縣草屯鎮虎山路677號1、2樓": {
+    "latitude": 23.9708546,
+    "longitude": 120.6866486,
+    "method": "google_maps_result"
+  },
+  "承心中醫診所 南投縣草屯鎮草鞋墩一街5及7號1樓": {
+    "latitude": 23.973954799999998,
+    "longitude": 120.6807716,
+    "method": "google_maps_result"
+  },
+  "唐中醫診所 南投縣草屯鎮新生路169號1樓、2樓": {
+    "latitude": 23.965013199999998,
+    "longitude": 120.68423179999999,
+    "method": "google_maps_result"
+  },
+  "佑民醫療社團法人佑民醫院 南投縣草屯鎮太平路一段200號": {
+    "latitude": 23.9605827,
+    "longitude": 120.68165959999999,
+    "method": "google_maps_result"
+  },
+  "曾漢棋綜合醫院 南投縣草屯鎮虎山路９１５號": {
+    "latitude": 23.9785896,
+    "longitude": 120.6857436,
+    "method": "google_maps_result"
+  },
+  "大雄泌尿科診所 南投縣草屯鎮中山街53號": {
+    "latitude": 23.975173899999998,
+    "longitude": 120.68236599999999,
+    "method": "google_maps_result"
+  },
+  "南投縣草屯鎮衛生所 南投縣草屯鎮草溪路882巷7號": {
+    "latitude": 23.9733423,
+    "longitude": 120.68077439999999,
+    "method": "google_maps_result"
+  },
+  "呂外科婦產科診所 南投縣竹山鎮集山路三段1001號": {
+    "latitude": 23.755291,
+    "longitude": 120.68112199999999,
+    "method": "google_maps_result"
+  },
+  "憲珍診所 南投縣竹山鎮埔頭街一巷一號": {
+    "latitude": 23.7534253,
+    "longitude": 120.68035379999999,
+    "method": "google_maps_result"
+  },
+  "陳義本診所 南投縣竹山鎮集山路三段833號": {
+    "latitude": 23.7577693,
+    "longitude": 120.68460739999999,
+    "method": "google_maps_result"
+  },
+  "陳重光耳鼻喉科診所 南投縣竹山鎮集山路三段1062號": {
+    "latitude": 23.7553484,
+    "longitude": 120.6807683,
+    "method": "google_maps_result"
+  },
+  "安馨竹山內科診所 南投縣竹山鎮集山路三段483號": {
+    "latitude": 23.761061899999998,
+    "longitude": 120.6935329,
+    "method": "google_maps_result"
+  },
+  "鼎億堂中醫診所 南投縣竹山鎮集山路三段213號": {
+    "latitude": 23.7634251,
+    "longitude": 120.7012637,
+    "method": "google_maps_result"
+  },
+  "永樂中醫診所 南投縣竹山鎮集山路三段777號": {
+    "latitude": 23.758546,
+    "longitude": 120.68597039999999,
+    "method": "google_maps_result"
+  },
+  "喆喆耳鼻喉科診所 南投縣竹山鎮大仁路187號1樓": {
+    "latitude": 23.7572077,
+    "longitude": 120.673282,
+    "method": "google_maps_result"
+  },
+  "陳耀宗診所 南投縣竹山鎮集山路三段816號": {
+    "latitude": 23.7593218,
+    "longitude": 120.68650489999999,
+    "method": "google_maps_result"
+  },
+  "理和中醫診所 南投縣竹山鎮延和里集山路三段516號1F": {
+    "latitude": 23.7616577,
+    "longitude": 120.694313,
+    "method": "google_maps_result"
+  },
+  "竹山秀傳醫療社團法人竹山秀傳醫院 南投縣竹山鎮集山路2段75號": {
+    "latitude": 23.8000765,
+    "longitude": 120.7140106,
+    "method": "google_maps_result"
+  },
+  "詹外婦產科診所 南投縣竹山鎮集山路三段６２３巷一號": {
+    "latitude": 23.7598071,
+    "longitude": 120.68982439999999,
+    "method": "google_maps_result"
+  },
+  "益民診所 南投縣竹山鎮集山路三段816-3及816-4號": {
+    "latitude": 23.7596092,
+    "longitude": 120.686325,
+    "method": "google_maps_result"
+  },
+  "南投縣竹山鎮衛生所 南投縣竹山鎮公所路126號": {
+    "latitude": 23.759486,
+    "longitude": 120.672477,
+    "method": "google_maps_result"
+  },
+  "佑幼耳鼻喉科診所 南投縣竹山鎮集山路3段": {
+    "latitude": 23.757043499999998,
+    "longitude": 120.6833181,
+    "method": "google_maps_result"
+  },
+  "劉輔仁眼科診所 南投縣竹山鎮前山路一段95號": {
+    "latitude": 23.757192699999997,
+    "longitude": 120.6795836,
+    "method": "google_maps_result"
+  },
+  "潔明眼科診所 南投縣竹山鎮前山路1段23號": {
+    "latitude": 23.756617799999997,
+    "longitude": 120.6814881,
+    "method": "google_maps_result"
+  },
+  "苹慈中醫診所 南投縣竹山鎮下橫街５３－８號": {
+    "latitude": 23.756820599999998,
+    "longitude": 120.6838418,
+    "method": "google_maps_result"
+  },
+  "弘仁診所 南投縣竹山鎮集山路三段948-1號1樓": {
+    "latitude": 23.757355999999998,
+    "longitude": 120.683454,
+    "method": "google_maps_result"
+  },
+  "維美牙醫診所 南投縣竹山鎮集山路三段797號1樓": {
+    "latitude": 23.758354999999998,
+    "longitude": 120.68545809999999,
+    "method": "google_maps_result"
+  },
+  "德山牙醫診所 南投縣竹山鎮集山路三段425號": {
+    "latitude": 23.7616184,
+    "longitude": 120.6954842,
+    "method": "google_maps_result"
+  },
+  "惠元診所 南投縣竹山鎮中正巷27-99號": {
+    "latitude": 23.7561505,
+    "longitude": 120.69142579999999,
+    "method": "google_maps_result"
+  },
+  "曾雅展牙醫診所 南投縣竹山鎮林圯街14 之2號": {
+    "latitude": 23.754167199999998,
+    "longitude": 120.681964,
+    "method": "google_maps_result"
+  },
+  "黃牙醫診所 南投縣竹山鎮菜園路３－１號": {
+    "latitude": 23.754835,
+    "longitude": 120.68538099999999,
+    "method": "google_maps_result"
+  },
+  "正新牙醫診所 南投縣竹山鎮中正橫街７２號": {
+    "latitude": 23.755697299999998,
+    "longitude": 120.68330739999999,
+    "method": "google_maps_result"
+  },
+  "冠美牙醫診所 南投縣竹山鎮橫街１３號": {
+    "latitude": 23.753934899999997,
+    "longitude": 120.684247,
+    "method": "google_maps_result"
+  },
+  "眾安牙醫診所 南投縣竹山鎮前山路一段５４號": {
+    "latitude": 23.757294299999998,
+    "longitude": 120.67984399999999,
+    "method": "google_maps_result"
+  },
+  "生活牙醫診所 南投縣竹山鎮前山路一段９９號": {
+    "latitude": 23.757215199999997,
+    "longitude": 120.6795587,
+    "method": "google_maps_result"
+  },
+  "石田牙醫診所 南投縣竹山鎮集山路三段207-4號": {
+    "latitude": 23.7635795,
+    "longitude": 120.70175549999999,
+    "method": "google_maps_result"
+  },
+  "萬安中醫診所 南投縣竹山鎮集山路三段785號": {
+    "latitude": 23.7584213,
+    "longitude": 120.6857433,
+    "method": "google_maps_result"
+  },
+  "大明中醫診所 南投縣竹山鎮大明路183號": {
+    "latitude": 23.7600627,
+    "longitude": 120.68483549999999,
+    "method": "google_maps_result"
+  },
+  "惠群中醫診所 南投縣竹山鎮橫街79號": {
+    "latitude": 23.756179799999998,
+    "longitude": 120.6828177,
+    "method": "google_maps_result"
+  },
+  "東華醫院 南投縣竹山鎮集山路三段272巷16號": {
+    "latitude": 23.7643168,
+    "longitude": 120.7000633,
+    "method": "google_maps_result"
+  },
+  "智瑤小兒科診所 南投縣竹山鎮集山路三段879號": {
+    "latitude": 23.7571276,
+    "longitude": 120.6835747,
+    "method": "google_maps_result"
+  },
+  "慶興堂中醫診所 南投縣竹山鎮頂橫街６０號": {
+    "latitude": 23.756669499999997,
+    "longitude": 120.6805813,
+    "method": "google_maps_result"
+  },
+  "得安診所 南投縣竹山鎮竹山路2號": {
+    "latitude": 23.7575634,
+    "longitude": 120.68666999999999,
+    "method": "google_maps_result"
+  },
+  "瑞竹診所 南投縣竹山鎮下坪里枋坪巷2-9號": {
+    "latitude": 23.762154799999998,
+    "longitude": 120.6811766,
+    "method": "google_maps_result"
+  },
+  "沈仁諒診所 南投縣竹山鎮下橫街58-7號": {
+    "latitude": 23.7580249,
+    "longitude": 120.68335599999999,
+    "method": "google_maps_result"
+  },
+  "葉婦產科診所 南投縣竹山鎮大明路１９４號": {
+    "latitude": 23.7605801,
+    "longitude": 120.6870687,
+    "method": "google_maps_result"
+  },
+  "春臨診所 南投縣竹山鎮集山路三段１８號": {
+    "latitude": 23.7668674,
+    "longitude": 120.70615219999999,
+    "method": "google_maps_result"
+  },
+  "謝明哲診所 南投縣竹山鎮集山路三段816之2號": {
+    "latitude": 23.7594116,
+    "longitude": 120.686427,
+    "method": "google_maps_result"
+  },
+  "杏如皮膚科診所 南投縣竹山鎮集山路三段820號": {
+    "latitude": 23.759194599999997,
+    "longitude": 120.6865787,
+    "method": "google_maps_result"
+  },
+  "益川診所 南投縣竹山鎮雲林路５９號": {
+    "latitude": 23.755381,
+    "longitude": 120.68251389999999,
+    "method": "google_maps_result"
+  },
+  "悅恩中醫診所 南投縣集集鎮集集街102號1樓": {
+    "latitude": 23.828003499999998,
+    "longitude": 120.78231419999999,
+    "method": "google_maps_result"
+  },
+  "民生牙醫診所 南投縣集集鎮民生路340號": {
+    "latitude": 23.8269922,
+    "longitude": 120.77931889999999,
+    "method": "google_maps_result"
+  },
+  "第一診所 南投縣集集鎮民生路234號": {
+    "latitude": 23.827051899999997,
+    "longitude": 120.7825259,
+    "method": "google_maps_result"
+  },
+  "南投縣集集鎮衛生所 南投縣集集鎮民生路106號": {
+    "latitude": 23.8288989,
+    "longitude": 120.7866294,
+    "method": "google_maps_result"
+  },
+  "陳威申診所 南投縣集集鎮民生路242號": {
+    "latitude": 23.8270439,
+    "longitude": 120.78240389999999,
+    "method": "google_maps_result"
+  },
+  "南投縣名間鄉衛生所 南投縣名間鄉中正村彰南路42號": {
+    "latitude": 23.838452,
+    "longitude": 120.702839,
+    "method": "google_maps_result"
+  },
+  "文和診所 南投縣名間鄉員集路126號": {
+    "latitude": 23.8356985,
+    "longitude": 120.7026906,
+    "method": "google_maps_result"
+  },
+  "瑞龍堂中醫診所 南投縣名間鄉中山村1鄰彰南路186號、188號1樓": {
+    "latitude": 23.8433744,
+    "longitude": 120.6993631,
+    "method": "google_maps_result"
+  },
+  "博仁診所 南投縣名間鄉員集路93號": {
+    "latitude": 23.8355575,
+    "longitude": 120.7036468,
+    "method": "google_maps_result"
+  },
+  "安康診所 南投縣名間鄉員集路93號": {
+    "latitude": 23.8355575,
+    "longitude": 120.7036468,
+    "method": "google_maps_result"
+  },
+  "正安診所 南投縣名間鄉南雅街124號": {
+    "latitude": 23.838060499999997,
+    "longitude": 120.70218179999999,
+    "method": "google_maps_result"
+  },
+  "劉福興診所 南投縣名間鄉新街村彰南路４７０號": {
+    "latitude": 23.8795617,
+    "longitude": 120.6932271,
+    "method": "google_maps_result"
+  },
+  "大庄羅診所 南投縣名間鄉南田路86-16號": {
+    "latitude": 23.8761044,
+    "longitude": 120.6563046,
+    "method": "google_maps_result"
+  },
+  "松柏診所 南投縣名間鄉名松路二段279號": {
+    "latitude": 23.8358515,
+    "longitude": 120.6340912,
+    "method": "google_maps_result"
+  },
+  "民生診所 南投縣名間鄉彰南路６５－１號": {
+    "latitude": 23.839596,
+    "longitude": 120.701402,
+    "method": "google_maps_result"
+  },
+  "名間眼科診所 南投縣名間鄉彰南路96之2號1樓": {
+    "latitude": 23.8416726,
+    "longitude": 120.70047079999999,
+    "method": "google_maps_result"
+  },
+  "松茂牙醫診所 南投縣名間鄉員集路１４７－３號": {
+    "latitude": 23.8354257,
+    "longitude": 120.70164829999999,
+    "method": "google_maps_result"
+  },
+  "佑生中醫診所 南投縣名間鄉員集路126號": {
+    "latitude": 23.8356985,
+    "longitude": 120.7026906,
+    "method": "google_maps_result"
+  },
+  "康壽中醫診所 南投縣名間鄉彰南路373之4號": {
+    "latitude": 23.875353999999998,
+    "longitude": 120.693029,
+    "method": "google_maps_result"
+  },
+  "福田牙醫診所 南投縣名間鄉濁水村彰南路1-5號": {
+    "latitude": 23.836098999999997,
+    "longitude": 120.705147,
+    "method": "google_maps_result"
+  },
+  "玄祐診所 南投縣名間鄉董門巷36號1樓": {
+    "latitude": 23.8385049,
+    "longitude": 120.7002895,
+    "method": "google_maps_result"
+  },
+  "明仁牙醫診所 南投縣名間鄉松山村豐柏路２７－１號": {
+    "latitude": 23.8340835,
+    "longitude": 120.63443749999999,
+    "method": "google_maps_result"
+  },
+  "南投縣鹿谷鄉衛生所 南投縣鹿谷鄉中正路二段20號": {
+    "latitude": 23.7448759,
+    "longitude": 120.7542366,
+    "method": "google_maps_result"
+  },
+  "常安診所 南投縣鹿谷鄉中正路一段55號": {
+    "latitude": 23.7383399,
+    "longitude": 120.76064129999999,
+    "method": "google_maps_result"
+  },
+  "鹿谷鄉農民診所 南投縣鹿谷鄉廣興村光復路188號一樓": {
+    "latitude": 23.737017899999998,
+    "longitude": 120.76066999999999,
+    "method": "google_maps_result"
+  },
+  "陳首志診所 南投縣鹿谷鄉彰雅村中正路一段324號": {
+    "latitude": 23.7437896,
+    "longitude": 120.7551968,
+    "method": "google_maps_result"
+  },
+  "南投縣中寮鄉衛生所 南投縣中寮鄉永平村永昌街102號": {
+    "latitude": 23.8808579,
+    "longitude": 120.7655807,
+    "method": "google_maps_result"
+  },
+  "良平診所 南投縣中寮鄉永平村永安街188號": {
+    "latitude": 23.8806118,
+    "longitude": 120.7644715,
+    "method": "google_maps_result"
+  },
+  "吳鴻儀診所 南投縣中寮鄉龍岩村龍南路196號1F": {
+    "latitude": 23.935412799999998,
+    "longitude": 120.7602209,
+    "method": "google_maps_result"
+  },
+  "永順診所 南投縣中寮鄉永平村永安街73號1樓": {
+    "latitude": 23.8792589,
+    "longitude": 120.7673835,
+    "method": "google_maps_result"
+  },
+  "詹子政診所 南投縣中寮鄉初中巷2-1號": {
+    "latitude": 23.879469099999998,
+    "longitude": 120.7648071,
+    "method": "google_maps_result"
+  },
+  "光華中醫診所 南投縣中寮鄉永平村永平路２４９號": {
+    "latitude": 23.8788384,
+    "longitude": 120.7658618,
+    "method": "google_maps_result"
+  },
+  "蕭牙醫診所 南投縣魚池鄉魚池街４００號": {
+    "latitude": 23.897482999999998,
+    "longitude": 120.935808,
+    "method": "google_maps_result"
+  },
+  "南投縣魚池鄉衛生所 南投縣魚池鄉魚池街194號": {
+    "latitude": 23.8954991,
+    "longitude": 120.9411904,
+    "method": "google_maps_result"
+  },
+  "台安診所 南投縣魚池鄉魚池街334巷16號": {
+    "latitude": 23.897394,
+    "longitude": 120.93807299999999,
+    "method": "google_maps_result"
+  },
+  "新惠安中醫診所 南投縣魚池鄉魚池街366號": {
+    "latitude": 23.897026699999998,
+    "longitude": 120.9364743,
+    "method": "google_maps_result"
+  },
+  "上恩診所 南投縣魚池鄉魚池村魚池街392號": {
+    "latitude": 23.8973034,
+    "longitude": 120.9358939,
+    "method": "google_maps_result"
+  },
+  "楊順喜小兒科診所 南投縣魚池鄉魚池街125之2號1樓": {
+    "latitude": 23.8967478,
+    "longitude": 120.93696159999999,
+    "method": "google_maps_result"
+  },
+  "邱仁宏牙醫診所 南投縣魚池鄉魚池街４６1號": {
+    "latitude": 23.8968131,
+    "longitude": 120.9355679,
+    "method": "google_maps_result"
+  },
+  "安鴻診所 南投縣國姓鄉中興路130號1樓": {
+    "latitude": 24.0412933,
+    "longitude": 120.856601,
+    "method": "google_maps_result"
+  },
+  "南投縣國姓鄉衛生所 南投縣國姓鄉民族街４２號": {
+    "latitude": 24.037817,
+    "longitude": 120.8547007,
+    "method": "google_maps_result"
+  },
+  "永隆診所 南投縣國姓鄉北山村南港路303號1樓": {
+    "latitude": 23.9808068,
+    "longitude": 120.87208179999999,
+    "method": "google_maps_result"
+  },
+  "王丕振診所 南投縣國姓鄉中興路51號": {
+    "latitude": 24.042659999999998,
+    "longitude": 120.8579769,
+    "method": "google_maps_result"
+  },
+  "家家中醫診所 南投縣國姓鄉中興路170號1樓": {
+    "latitude": 24.0406487,
+    "longitude": 120.8560074,
+    "method": "google_maps_result"
+  },
+  "艾美牙醫診所 南投縣國姓鄉國姓村中興路326號": {
+    "latitude": 24.038138,
+    "longitude": 120.85401499999999,
+    "method": "google_maps_result"
+  },
+  "興安中醫診所 南投縣水里鄉城中村太平街87號": {
+    "latitude": 23.8167287,
+    "longitude": 120.8519017,
+    "method": "google_maps_result"
+  },
+  "幼幼耳鼻喉科診所 南投縣水里鄉民權路": {
+    "latitude": 23.817844599999997,
+    "longitude": 120.8532288,
+    "method": "google_maps_result"
+  },
+  "華佗中醫診所 南投縣水里鄉中央村民族路492號": {
+    "latitude": 23.816359,
+    "longitude": 120.85347519999999,
+    "method": "google_maps_result"
+  },
+  "張牙醫診所 南投縣水里鄉城中村太平街53號": {
+    "latitude": 23.816903399999998,
+    "longitude": 120.85260459999999,
+    "method": "google_maps_result"
+  },
+  "懷安牙醫診所 南投縣水里鄉水里村民權路182號": {
+    "latitude": 23.8179356,
+    "longitude": 120.85339649999999,
+    "method": "google_maps_result"
+  },
+  "佳美牙醫診所 南投縣水里鄉中央村中正路112號": {
+    "latitude": 23.8150199,
+    "longitude": 120.8524324,
+    "method": "google_maps_result"
+  },
+  "和平中醫診所 南投縣水里鄉民權路272號1F": {
+    "latitude": 23.817204699999998,
+    "longitude": 120.85199519999999,
+    "method": "google_maps_result"
+  },
+  "益品安中醫診所 南投縣水里鄉民生路387號1樓": {
+    "latitude": 23.8169206,
+    "longitude": 120.8539756,
+    "method": "google_maps_result"
+  },
+  "水里社區基督聯合診所 南投縣水里鄉中正路38號": {
+    "latitude": 23.8178534,
+    "longitude": 120.85513499999999,
+    "method": "google_maps_result"
+  },
+  "南投縣水里鄉衛生所 南投縣水里鄉博愛路205號": {
+    "latitude": 23.810606099999998,
+    "longitude": 120.84908689999999,
+    "method": "google_maps_result"
+  },
+  "博愛診所 南投縣水里鄉民生路126號": {
+    "latitude": 23.811659199999998,
+    "longitude": 120.8558233,
+    "method": "google_maps_result"
+  },
+  "劉眼科診所 南投縣水里鄉民權路189號": {
+    "latitude": 23.8170745,
+    "longitude": 120.852055,
+    "method": "google_maps_result"
+  },
+  "信望愛診所 南投縣水里鄉民族路362號1樓": {
+    "latitude": 23.810394199999998,
+    "longitude": 120.8512197,
+    "method": "google_maps_result"
+  },
+  "保生堂中醫診所 南投縣水里鄉民權路210號1樓": {
+    "latitude": 23.8177286,
+    "longitude": 120.8529897,
+    "method": "google_maps_result"
+  },
+  "瑞斌診所 南投縣水里鄉民權路230及232號": {
+    "latitude": 23.8175299,
+    "longitude": 120.8526212,
+    "method": "google_maps_result"
+  },
+  "慶聲診所 南投縣水里鄉民生路377號": {
+    "latitude": 23.8167048,
+    "longitude": 120.85408229999999,
+    "method": "google_maps_result"
+  },
+  "寶光中醫診所 南投縣水里鄉民族路356號1樓": {
+    "latitude": 23.8135719,
+    "longitude": 120.8549475,
+    "method": "google_maps_result"
+  },
+  "澄清診所 南投縣水里鄉民生路201及203號1樓": {
+    "latitude": 23.8115974,
+    "longitude": 120.8555602,
+    "method": "google_maps_result"
+  },
+  "人和診所 南投縣信義鄉人和村民生巷68號1樓": {
+    "latitude": 23.776443,
+    "longitude": 120.89697199999999,
+    "method": "google_maps_result"
+  },
+  "地利診所 南投縣信義鄉地利村開信巷121號": {
+    "latitude": 23.7936588,
+    "longitude": 120.9418546,
+    "method": "google_maps_result"
+  },
+  "同富牙醫診所 南投縣信義鄉同富村同和巷９８－４號": {
+    "latitude": 23.5922908,
+    "longitude": 120.8899033,
+    "method": "google_maps_result"
+  },
+  "南投縣信義鄉衛生所 南投縣信義鄉玉山路45號": {
+    "latitude": 23.696291,
+    "longitude": 120.85467109999999,
+    "method": "google_maps_result"
+  },
+  "懷恩診所 南投縣信義鄉玉山路２９－１號": {
+    "latitude": 23.6958479,
+    "longitude": 120.85489059999999,
+    "method": "google_maps_result"
+  },
+  "親民內科診所 南投縣信義鄉同和巷99號": {
+    "latitude": 23.5918766,
+    "longitude": 120.8894522,
+    "method": "google_maps_result"
+  },
+  "吉龍診所 南投縣信義鄉同富村同和巷67-1號": {
+    "latitude": 23.5922187,
+    "longitude": 120.88891009999999,
+    "method": "google_maps_result"
+  },
+  "慶安診所 南投縣信義鄉明德村新開巷100號": {
+    "latitude": 23.6961649,
+    "longitude": 120.8545858,
+    "method": "google_maps_result"
+  },
+  "南投縣仁愛鄉衛生所 南投縣仁愛鄉大同村五福巷17號": {
+    "latitude": 24.0242777,
+    "longitude": 121.1343823,
+    "method": "google_maps_result"
+  },
+  "健安診所 南投縣仁愛鄉大同村仁和路１08號": {
+    "latitude": 24.022998899999997,
+    "longitude": 121.1327019,
+    "method": "google_maps_result"
+  },
+  "路加診所 南投縣仁愛鄉大同村仁和路55號": {
+    "latitude": 24.0223388,
+    "longitude": 121.13194639999999,
+    "method": "google_maps_result"
+  },
+  "謝榮次診所 南投縣仁愛鄉大同村仁和路148之1號": {
+    "latitude": 24.023424799999997,
+    "longitude": 121.1329337,
+    "method": "google_maps_result"
+  },
+  "聖本篤診所 南投縣仁愛鄉大同村仁和路153號": {
+    "latitude": 24.023173,
+    "longitude": 121.13227099999999,
+    "method": "google_maps_result"
+  },
+  "霧社第一 烏溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 24.0785469,
+    "longitude": 120.70176199999999,
+    "method": "google_maps_result"
+  },
+  "霧社第二 烏溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 24.0785469,
+    "longitude": 120.70176199999999,
+    "method": "google_maps_result"
+  },
+  "霧社第三 烏溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 24.0293315,
+    "longitude": 120.9185863,
+    "method": "google_maps_center"
+  },
+  "信義 濁水溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 23.815984699999998,
+    "longitude": 120.86334749999999,
+    "method": "google_maps_result"
+  },
+  "羅娜 濁水溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 23.894634399999997,
+    "longitude": 120.6884091,
+    "method": "google_maps_result"
+  },
+  "公林 烏溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 23.8383428,
+    "longitude": 120.9339228,
+    "method": "google_maps_center"
+  },
+  "東光 烏溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 23.894634399999997,
+    "longitude": 120.6884091,
+    "method": "google_maps_result"
+  },
+  "合歡溪木蘭橋 大甲溪 飲用水水源水質保護區 南投縣": {
+    "latitude": 23.960998099999998,
+    "longitude": 120.9718638,
+    "method": "google_maps_result"
+  }
+}

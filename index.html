@@ -227,9 +227,9 @@
   <div class="app">
     <aside class="panel">
       <h1>南投焚化廠場址風險地圖</h1>
-      <p>拖曳紅色場址或點擊地圖，會即時重算 10 公里範圍內的樣本敏感點風險。頁面下方同步提供官方清單版完整資料查詢。</p>
+      <p>拖曳紅色場址或點擊地圖，會即時重算 10 公里範圍內的完整敏感點風險。頁面下方同步提供官方清單版完整資料查詢。</p>
       <div class="notice">
-        本頁已接入官方資料彙整成果，共 613 筆敏感點資料。由於多數官方名冊只有地址、尚未提供穩定公開座標，互動地圖目前仍以可驗證樣本點位展示，完整名冊則在下方可搜尋與下載。
+        本頁已接入官方資料彙整成果，共 613 筆敏感點資料，並已補齊地圖定位座標。地圖會顯示全部敏感點，下方也可直接搜尋與下載完整名冊。
       </div>
 
       <h2>場址座標</h2>
@@ -338,51 +338,16 @@
     const defaultSite = { lat: 23.8136, lng: 120.6996 };
     let site = { ...defaultSite };
 
-    const sampleSensitive = [
-      ["南投醫院", "醫療機構", 23.9141, 120.6853],
-      ["佑民醫院", "醫療機構", 23.9767, 120.6821],
-      ["埔里基督教醫院", "醫療機構", 23.9665, 120.9694],
-      ["竹山秀傳醫院", "醫療機構", 23.7571, 120.6818],
-      ["南投高中", "學校", 23.9086, 120.6842],
-      ["中興高中", "學校", 23.9506, 120.6924],
-      ["南投國小", "學校", 23.9072, 120.6848],
-      ["名間國小", "學校", 23.8384, 120.7026],
-      ["新街國小", "學校", 23.8754, 120.6977],
-      ["名間國中", "學校", 23.8365, 120.7038],
-      ["僑興國小", "學校", 23.8131, 120.6928],
-      ["弓鞋國小", "學校", 23.8288, 120.6761],
-      ["田豐國小", "學校", 23.8139, 120.7154],
-      ["草屯國小", "學校", 23.9792, 120.6816],
-      ["草屯國中", "學校", 23.9775, 120.6887],
-      ["旭光高中", "學校", 23.9515, 120.6845],
-      ["埔里國小", "學校", 23.9635, 120.9679],
-      ["魚池國小", "學校", 23.8969, 120.9362],
-      ["水里國小", "學校", 23.8169, 120.8548],
-      ["集集國小", "學校", 23.8277, 120.7853],
-      ["鹿谷國小", "學校", 23.7467, 120.7531],
-      ["中寮國小", "學校", 23.8784, 120.7663],
-      ["國姓國小", "學校", 24.0402, 120.8582],
-      ["仁愛國中", "學校", 24.0238, 121.1329],
-      ["信義國小", "學校", 23.6993, 120.8566]
-    ];
-
-    const waterSamples = [
-      ["南投市水源敏感帶", 23.815, 120.707],
-      ["草屯水體敏感帶", 24.01, 120.68],
-      ["南崗工業區水源帶", 23.91, 120.69],
-      ["水里集水區", 23.852, 120.914],
-      ["日月潭集水圈", 23.832, 120.866],
-      ["名間灌溉水系", 23.811, 120.706],
-      ["水源保護區樣本", 23.81, 120.855],
-      ["信義溪流水域", 23.7, 120.855]
-    ];
-
     const categoryLabels = {
       school: "學校",
       medical: "醫療機構",
       eldercare: "老人機構",
       water_source: "水源地"
     };
+
+    let officialRows = [];
+    let mappedSensitiveRows = [];
+    let mappedWaterRows = [];
 
     const map = L.map("map").setView([23.88, 120.82], 10);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -414,7 +379,8 @@
 
     function risk(distanceKm, type) {
       let base = distanceKm <= 1 ? 78 : distanceKm <= 3 ? 64 : distanceKm <= 5 ? 52 : distanceKm <= 10 ? 36 : 18;
-      if (type === "醫療機構") base *= 1.18;
+      if (type === "medical") base *= 1.18;
+      if (type === "eldercare") base *= 1.08;
       return Math.round(base);
     }
 
@@ -438,39 +404,43 @@
       const near = [];
       let medical = 0;
       let high = 0;
-
-      sampleSensitive.forEach((point) => {
-        const position = { lat: point[2], lng: point[3] };
+      mappedSensitiveRows.forEach((row) => {
+        const position = { lat: row.latitude, lng: row.longitude };
         const distanceKm = dist(site, position);
-        if (distanceKm > 10) return;
+        const score = risk(distanceKm, row.category);
+        const inRange = distanceKm <= 10;
 
-        const score = risk(distanceKm, point[1]);
-        if (point[1] === "醫療機構") medical += 1;
-        if (score >= 62) high += 1;
-        near.push({ point, distanceKm, score });
+        if (inRange) {
+          if (row.category === "medical") medical += 1;
+          if (score >= 62) high += 1;
+          near.push({ row, distanceKm, score });
+        }
 
-        L.circleMarker([point[2], point[3]], {
-          radius: Math.max(6, Math.min(18, score / 5)),
+        L.circleMarker([row.latitude, row.longitude], {
+          radius: inRange ? Math.max(5, Math.min(16, score / 5)) : 3,
           color: "#fff",
-          weight: 2,
-          fillColor: color(score),
-          fillOpacity: 0.9
+          weight: inRange ? 1.5 : 1,
+          fillColor: inRange ? color(score) : "#7f8d86",
+          fillOpacity: inRange ? 0.88 : 0.38
         }).addTo(pts).bindPopup(
-          `<b>${point[0]}</b><br>${point[1]}<br>距離 ${distanceKm.toFixed(2)} km<br>樣本風險分數 ${score}`
+          `<b>${row.name}</b><br>${categoryLabels[row.category] || row.category}<br>${row.address || ""}<br>距離 ${distanceKm.toFixed(2)} km`
         );
       });
 
       let nearestWater = { d: 999, n: "" };
-      waterSamples.forEach((water) => {
-        const distanceKm = dist(site, { lat: water[1], lng: water[2] });
-        if (distanceKm < nearestWater.d) nearestWater = { d: distanceKm, n: water[0] };
-        L.circleMarker([water[1], water[2]], {
-          radius: 7,
+      mappedWaterRows.forEach((row) => {
+        const distanceKm = dist(site, { lat: row.latitude, lng: row.longitude });
+        if (distanceKm < nearestWater.d) nearestWater = { d: distanceKm, n: row.name };
+        const inRange = distanceKm <= 10;
+        L.circleMarker([row.latitude, row.longitude], {
+          radius: inRange ? 7 : 4,
           color: "#fff",
-          weight: 2,
+          weight: 1.5,
           fillColor: "#1f6f78",
-          fillOpacity: 0.95
-        }).addTo(waters).bindPopup(`<b>${water[0]}</b><br>距離 ${distanceKm.toFixed(2)} km`);
+          fillOpacity: inRange ? 0.95 : 0.45
+        }).addTo(waters).bindPopup(
+          `<b>${row.name}</b><br>${row.stream_domain || ""}<br>距離 ${distanceKm.toFixed(2)} km`
+        );
       });
 
       let score = 100;
@@ -493,7 +463,7 @@
       document.getElementById("score").style.background = score >= 72 ? "#8aa64e" : score >= 50 ? "#dfa338" : "#c94b35";
       document.getElementById("label").textContent = score >= 72 ? "較適合作為候選場址" : score >= 50 ? "需審慎評估" : "高敏感風險區";
       document.getElementById("summary").textContent =
-        `10 公里內共有 ${near.length} 個樣本敏感點，其中醫療設施 ${medical} 個，高風險樣本 ${high} 個。`;
+        `10 公里內共有 ${near.length} 個完整敏感點，其中醫療機構 ${medical} 個，高風險點 ${high} 個。`;
       document.getElementById("reasons").innerHTML = reasons.map((x) => `<li>${x}</li>`).join("");
     }
 
@@ -515,8 +485,6 @@
       };
       redrawRiskMap();
     });
-
-    let officialRows = [];
 
     function extraInfo(row) {
       if (row.category === "school") {
@@ -618,9 +586,16 @@
         ]);
         const summary = await summaryResp.json();
         officialRows = await fullResp.json();
+        const geoRows = officialRows.filter((row) => Number.isFinite(Number(row.latitude)) && Number.isFinite(Number(row.longitude)));
+        mappedSensitiveRows = geoRows
+          .filter((row) => row.category !== "water_source")
+          .map((row) => ({ ...row, latitude: Number(row.latitude), longitude: Number(row.longitude) }));
+        mappedWaterRows = geoRows
+          .filter((row) => row.category === "water_source")
+          .map((row) => ({ ...row, latitude: Number(row.latitude), longitude: Number(row.longitude) }));
 
         document.getElementById("sync-status").textContent =
-          `最新同步時間：${summary.generated_at}。完整資料已載入，可於下方搜尋。`;
+          `最新同步時間：${summary.generated_at}。完整資料已載入，地圖現在會顯示全部 ${geoRows.length} 筆已定位敏感點。`;
 
         const cards = [
           ["學校", summary.counts.schools],
@@ -636,6 +611,7 @@
         `).join("");
 
         populateTownshipOptions(officialRows);
+        redrawRiskMap();
         renderRows();
       } catch (error) {
         document.getElementById("sync-status").textContent =
