@@ -183,9 +183,28 @@
       color: var(--muted);
       background: #faf6ec;
     }
+    .table-resize-handle {
+      height: 18px;
+      display: grid;
+      place-items: center;
+      cursor: ns-resize;
+      user-select: none;
+      touch-action: none;
+      border-bottom: 1px solid var(--line);
+      background: linear-gradient(180deg, #fbf6ea, #f4ecdb);
+    }
+    .table-resize-handle::before {
+      content: "";
+      width: 56px;
+      height: 4px;
+      border-radius: 999px;
+      background: #c8bea7;
+      box-shadow: 0 6px 0 #d8cfbc;
+    }
     .table-wrap {
       overflow: auto;
       max-height: 520px;
+      height: 520px;
     }
     table {
       width: 100%;
@@ -220,6 +239,10 @@
       .panel { border-right: 0; border-bottom: 1px solid var(--line); }
       .toolbar { grid-template-columns: 1fr; }
       .counts { grid-template-columns: 1fr 1fr; }
+      .table-wrap {
+        max-height: 420px;
+        height: 420px;
+      }
     }
   </style>
 </head>
@@ -310,6 +333,14 @@
 
         <div class="results">
           <div class="results-meta" id="results-meta">尚未載入資料。</div>
+          <div
+            class="table-resize-handle"
+            id="table-resize-handle"
+            role="separator"
+            aria-orientation="horizontal"
+            aria-label="調整官方敏感點清單高度"
+            tabindex="0"
+          ></div>
           <div class="table-wrap">
             <table>
               <thead>
@@ -348,6 +379,7 @@
     let officialRows = [];
     let mappedSensitiveRows = [];
     let mappedWaterRows = [];
+    let tableDragState = null;
 
     const map = L.map("map").setView([23.88, 120.82], 10);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -578,6 +610,76 @@
       }
     }
 
+    function setTableHeight(nextHeight) {
+      const tableWrap = document.querySelector(".table-wrap");
+      if (!tableWrap) return;
+      const dataset = document.querySelector(".dataset");
+      const viewport = window.innerHeight || 900;
+      const datasetTop = dataset ? dataset.getBoundingClientRect().top : 0;
+      const available = Math.max(260, Math.floor(viewport - datasetTop - 56));
+      const minHeight = window.innerWidth <= 980 ? 220 : 260;
+      const maxHeight = Math.max(minHeight, Math.min(available, viewport - 180));
+      const clamped = Math.max(minHeight, Math.min(Math.round(nextHeight), maxHeight));
+      tableWrap.style.height = `${clamped}px`;
+      tableWrap.style.maxHeight = `${clamped}px`;
+    }
+
+    function stopTableResize() {
+      if (!tableDragState) return;
+      window.removeEventListener("pointermove", onTableResizeMove);
+      window.removeEventListener("pointerup", stopTableResize);
+      window.removeEventListener("pointercancel", stopTableResize);
+      document.body.style.cursor = "";
+      document.body.style.userSelect = "";
+      tableDragState = null;
+    }
+
+    function onTableResizeMove(event) {
+      if (!tableDragState) return;
+      const delta = event.clientY - tableDragState.startY;
+      setTableHeight(tableDragState.startHeight + delta);
+    }
+
+    function startTableResize(event) {
+      const tableWrap = document.querySelector(".table-wrap");
+      if (!tableWrap) return;
+      tableDragState = {
+        startY: event.clientY,
+        startHeight: tableWrap.getBoundingClientRect().height
+      };
+      document.body.style.cursor = "ns-resize";
+      document.body.style.userSelect = "none";
+      window.addEventListener("pointermove", onTableResizeMove);
+      window.addEventListener("pointerup", stopTableResize);
+      window.addEventListener("pointercancel", stopTableResize);
+    }
+
+    function initTableResize() {
+      const handle = document.getElementById("table-resize-handle");
+      if (!handle) return;
+      handle.addEventListener("pointerdown", (event) => {
+        event.preventDefault();
+        startTableResize(event);
+      });
+      handle.addEventListener("keydown", (event) => {
+        const tableWrap = document.querySelector(".table-wrap");
+        if (!tableWrap) return;
+        if (event.key === "ArrowUp") {
+          event.preventDefault();
+          setTableHeight(tableWrap.getBoundingClientRect().height - 40);
+        }
+        if (event.key === "ArrowDown") {
+          event.preventDefault();
+          setTableHeight(tableWrap.getBoundingClientRect().height + 40);
+        }
+      });
+      setTableHeight(window.innerWidth <= 980 ? 420 : 520);
+      window.addEventListener("resize", () => {
+        const currentHeight = document.querySelector(".table-wrap")?.getBoundingClientRect().height;
+        if (currentHeight) setTableHeight(currentHeight);
+      });
+    }
+
     async function loadOfficialData() {
       try {
         const [summaryResp, fullResp] = await Promise.all([
@@ -632,6 +734,7 @@
     });
 
     redrawRiskMap();
+    initTableResize();
     loadOfficialData();
   </script>
 </body>
