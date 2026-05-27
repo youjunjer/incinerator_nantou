@@ -40,7 +40,7 @@
     }
     .content {
       display: grid;
-      grid-template-rows: minmax(320px, 1fr) var(--dataset-height, 360px);
+      grid-template-rows: minmax(320px, 1fr) auto;
       height: 100vh;
       min-height: 100vh;
     }
@@ -53,6 +53,9 @@
       flex-direction: column;
       min-height: 0;
       overflow: hidden;
+    }
+    .dataset.is-hidden .dataset-inner {
+      display: none;
     }
     .dataset-inner {
       display: flex;
@@ -193,25 +196,27 @@
       min-height: 0;
       flex: 1 1 auto;
     }
-    .dataset-resize-handle {
-      height: 20px;
-      display: grid;
-      place-items: center;
-      cursor: ns-resize;
-      user-select: none;
-      touch-action: none;
-      background: linear-gradient(180deg, #fcf7eb, #f3ebdb);
-      border-bottom: 1px solid var(--line);
+    .dataset-toggle {
       margin: 0 -22px;
+      padding: 12px 22px;
+      border: 0;
+      border-bottom: 1px solid var(--line);
+      border-radius: 0;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: linear-gradient(180deg, #fcf7eb, #f3ebdb);
+      color: var(--ink);
       flex: 0 0 auto;
     }
-    .dataset-resize-handle::before {
-      content: "";
-      width: 72px;
-      height: 5px;
-      border-radius: 999px;
-      background: #beaf93;
-      box-shadow: 0 7px 0 #d7cbb3;
+    .dataset-toggle::after {
+      content: "展開";
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .dataset:not(.is-hidden) .dataset-toggle::after {
+      content: "收起";
     }
     .results-meta {
       padding: 12px 14px;
@@ -254,16 +259,13 @@
     @media (max-width: 980px) {
       .app { grid-template-columns: 1fr; }
       .content {
-        grid-template-rows: minmax(260px, 1fr) var(--dataset-height, 320px);
+        grid-template-rows: minmax(260px, 1fr) auto;
         height: auto;
         min-height: auto;
       }
       .panel { border-right: 0; border-bottom: 1px solid var(--line); }
       .toolbar { grid-template-columns: 1fr; }
       .counts { grid-template-columns: 1fr 1fr; }
-      .dataset {
-        min-height: 240px;
-      }
       .table-wrap {
         min-height: 160px;
       }
@@ -328,18 +330,13 @@
 
     <section class="content">
       <main id="map" class="map"></main>
-      <section class="dataset">
-        <div
-          class="dataset-resize-handle"
-          id="dataset-resize-handle"
-          role="separator"
-          aria-orientation="horizontal"
-          aria-label="調整官方敏感點清單區塊高度"
-          tabindex="0"
-        ></div>
+      <section class="dataset is-hidden" id="dataset-panel">
+        <button class="dataset-toggle" id="dataset-toggle" type="button" aria-expanded="false">
+          官方敏感點清單
+        </button>
         <div class="dataset-inner">
           <h2>官方敏感點清單</h2>
-          <p>可依類別、關鍵字與鄉鎮市篩選。拖曳上方把手可調整清單區塊高度，避免影響地圖查看。</p>
+          <p>可依類別、關鍵字與鄉鎮市篩選。預設先隱藏，避免影響地圖查看。</p>
           <div class="toolbar">
             <div class="field">
               <label for="search">關鍵字</label>
@@ -405,8 +402,6 @@
     let officialRows = [];
     let mappedSensitiveRows = [];
     let mappedWaterRows = [];
-    let datasetDragState = null;
-
     const map = L.map("map").setView([23.88, 120.82], 10);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
@@ -636,70 +631,14 @@
       }
     }
 
-    function setDatasetHeight(nextHeight) {
-      const content = document.querySelector(".content");
-      if (!content) return;
-      const viewport = window.innerHeight || 900;
-      const minHeight = window.innerWidth <= 980 ? 240 : 260;
-      const reservedForMap = window.innerWidth <= 980 ? 260 : 320;
-      const maxHeight = Math.max(minHeight, viewport - reservedForMap);
-      const clamped = Math.max(minHeight, Math.min(Math.round(nextHeight), maxHeight));
-      content.style.setProperty("--dataset-height", `${clamped}px`);
-    }
-
-    function stopDatasetResize() {
-      if (!datasetDragState) return;
-      window.removeEventListener("pointermove", onDatasetResizeMove);
-      window.removeEventListener("pointerup", stopDatasetResize);
-      window.removeEventListener("pointercancel", stopDatasetResize);
-      document.body.style.cursor = "";
-      document.body.style.userSelect = "";
-      datasetDragState = null;
-    }
-
-    function onDatasetResizeMove(event) {
-      if (!datasetDragState) return;
-      const delta = event.clientY - datasetDragState.startY;
-      setDatasetHeight(datasetDragState.startHeight + delta);
-    }
-
-    function startDatasetResize(event) {
-      const dataset = document.querySelector(".dataset");
-      if (!dataset) return;
-      datasetDragState = {
-        startY: event.clientY,
-        startHeight: dataset.getBoundingClientRect().height
-      };
-      document.body.style.cursor = "ns-resize";
-      document.body.style.userSelect = "none";
-      window.addEventListener("pointermove", onDatasetResizeMove);
-      window.addEventListener("pointerup", stopDatasetResize);
-      window.addEventListener("pointercancel", stopDatasetResize);
-    }
-
-    function initDatasetResize() {
-      const handle = document.getElementById("dataset-resize-handle");
-      if (!handle) return;
-      handle.addEventListener("pointerdown", (event) => {
-        event.preventDefault();
-        startDatasetResize(event);
-      });
-      handle.addEventListener("keydown", (event) => {
-        const dataset = document.querySelector(".dataset");
-        if (!dataset) return;
-        if (event.key === "ArrowUp") {
-          event.preventDefault();
-          setDatasetHeight(dataset.getBoundingClientRect().height - 40);
-        }
-        if (event.key === "ArrowDown") {
-          event.preventDefault();
-          setDatasetHeight(dataset.getBoundingClientRect().height + 40);
-        }
-      });
-      setDatasetHeight(window.innerWidth <= 980 ? 320 : 340);
-      window.addEventListener("resize", () => {
-        const currentHeight = document.querySelector(".dataset")?.getBoundingClientRect().height;
-        if (currentHeight) setDatasetHeight(currentHeight);
+    function initDatasetToggle() {
+      const panel = document.getElementById("dataset-panel");
+      const toggle = document.getElementById("dataset-toggle");
+      if (!panel || !toggle) return;
+      toggle.addEventListener("click", () => {
+        const hidden = panel.classList.toggle("is-hidden");
+        toggle.setAttribute("aria-expanded", hidden ? "false" : "true");
+        requestAnimationFrame(() => map.invalidateSize());
       });
     }
 
@@ -757,7 +696,7 @@
     });
 
     redrawRiskMap();
-    initDatasetResize();
+    initDatasetToggle();
     loadOfficialData();
   </script>
 </body>
